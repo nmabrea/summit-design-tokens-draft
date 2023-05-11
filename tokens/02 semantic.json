@@ -1,0 +1,85 @@
+{
+  "base": {
+    "button": {
+      "padding": {
+        "lg": {
+          "value": "{core.space-size.lg}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{core.space-size.md}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing"
+        },
+        "3xs": {
+          "value": "{core.space-size.3xs}",
+          "type": "spacing"
+        }
+      },
+      "item-spacing": {
+        "xs": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing"
+        }
+      }
+    },
+    "cta-label-type": {
+      "xl": {
+        "value": "{core.ornamental-type.desktop.display.2xl}",
+        "type": "typography",
+        "description": "Should scale responsively to smaller screen resolutions"
+      },
+      "sm": {
+        "value": "{core.basic-type.desktop.text.sm.medium}",
+        "type": "typography"
+      },
+      "md": {
+        "value": "{core.basic-type.desktop.text.md.medium}",
+        "type": "typography"
+      }
+    },
+    "cta-label-color": {
+      "light": {
+        "value": "{core.ornamental-color.cloud.10}",
+        "type": "color",
+        "description": "Label colors on dark backgrounds"
+      },
+      "dark": {
+        "value": "{core.ornamental-color.cloud.90}",
+        "type": "color",
+        "description": "Label colors on light backgrounds"
+      }
+    },
+    "link-label-type": {
+      "emphasized": {
+        "value": "{core.basic-type.desktop.text.xs.bold}",
+        "type": "typography"
+      },
+      "standard": {
+        "value": "{core.basic-type.desktop.text.xs.default}",
+        "type": "typography"
+      }
+    },
+    "cta-icon": {
+      "sm": {
+        "value": "1rem",
+        "type": "dimension"
+      },
+      "xl": {
+        "value": "2.5rem",
+        "type": "dimension"
+      },
+      "md": {
+        "value": "1.5rem",
+        "type": "dimension"
+      }
+    }
+  }
+}
