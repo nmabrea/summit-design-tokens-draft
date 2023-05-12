@@ -55,10 +55,6 @@
           "value": "{comp.cta-button.corner-radius.hover}",
           "type": "borderRadius",
           "description": "Mirrors hover state"
-        },
-        "focus-offset": {
-          "value": ".75rem",
-          "type": "borderRadius"
         }
       }
     },
