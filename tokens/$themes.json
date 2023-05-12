@@ -703,7 +703,7 @@
     "name": "Summit - Theme A",
     "selectedTokenSets": {
       "00 raw": "source",
-      "01 core": "enabled",
+      "01 core": "source",
       "02 semantic": "enabled",
       "03 component": "enabled"
     },
