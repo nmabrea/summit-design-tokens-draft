@@ -1,12 +1,9 @@
 [
   {
     "id": "58af8c5b1128fc1dd4c331aa51511818940fb541",
-    "name": "Summit - Core",
+    "name": "All Brands",
     "selectedTokenSets": {
-      "01 core": "enabled",
-      "00 raw": "source",
-      "02 semantic": "enabled",
-      "03 component": "enabled"
+      "00 raw": "source"
     },
     "$figmaStyleReferences": {
       "core.ornamental.cloud.10": "S:4dec44d4a9e4f12dbe55f6ceb73ce562e96ab1f3,",
@@ -700,12 +697,12 @@
   },
   {
     "id": "d0807f1fbdc5d99ea9a5d7100f8c6f2909845b9b",
-    "name": "Summit - Theme A",
+    "name": "Dot Com - Theme A",
     "selectedTokenSets": {
       "00 raw": "source",
-      "01 core": "source",
-      "02 semantic": "enabled",
-      "03 component": "enabled"
+      "dot-com/01 core": "source",
+      "dot-com/02 semantic": "enabled",
+      "dot-com/03 component": "enabled"
     },
     "$figmaStyleReferences": {
       "core.ornamental-type.desktop.display.sm": "S:723091064ea8aa233abda1a0b8808705317a11c0,",
