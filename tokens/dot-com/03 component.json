@@ -93,19 +93,19 @@
         },
         "bg": {
           "default": {
-            "value": "{core.ornamental-color.edge.40}",
+            "value": "{base.interaction-color.primary.40}",
             "type": "color",
-            "description": "core.ornamental-color.edge.40"
+            "description": "base.interaction-color.primary.40"
           },
           "hover": {
-            "value": "{core.ornamental-color.edge.50}",
+            "value": "{base.interaction-color.primary.50}",
             "type": "color",
-            "description": "core.ornamental-color.edge.50"
+            "description": "base.interaction-color.primary.50"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.60}",
+            "value": "{base.interaction-color.primary.60}",
             "type": "color",
-            "description": "core.ornamental-color.edge.60"
+            "description": "base.interaction-color.primary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
@@ -171,17 +171,17 @@
           "default": {
             "value": "{core.ornamental-color.edge.20}",
             "type": "color",
-            "description": "core.ornamental-color.edge.20"
+            "description": "base.interaction-color.primary.20"
           },
           "hover": {
-            "value": "{core.ornamental-color.edge.30}",
+            "value": "{base.interaction-color.primary.30}",
             "type": "color",
-            "description": "core.ornamental-color.edge.30"
+            "description": "base.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.40}",
+            "value": "{base.interaction-color.primary.40}",
             "type": "color",
-            "description": "core.ornamental-color.edge.40"
+            "description": "base.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
@@ -252,14 +252,14 @@
             "description": "core.ornamental-color.black"
           },
           "hover": {
-            "value": "{core.ornamental-color.insight.80}",
+            "value": "{base.interaction-color.secondary.80}",
             "type": "color",
-            "description": "core.ornamental-color.insight.80"
+            "description": "base.interaction-color.secondary.80"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.60}",
+            "value": "{base.interaction-color.secondary.60}",
             "type": "color",
-            "description": "core.ornamental-color.insight.60"
+            "description": "base.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.20}",
@@ -328,14 +328,14 @@
             "description": "core.ornamental-color.white"
           },
           "hover": {
-            "value": "{core.ornamental-color.insight.20}",
+            "value": "{base.interaction-color.secondary.20}",
             "type": "color",
-            "description": "core.ornamental-color.insight.20"
+            "description": "base.interaction-color.secondary.20"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.40}",
+            "value": "{base.interaction-color.secondary.40}",
             "type": "color",
-            "description": "core.ornamental-color.insight.40"
+            "description": "base.interaction-color.secondary.40"
           },
           "focus": {
             "value": "{comp.solid-subdued-cta.on-dark.bg.hover}",
@@ -379,14 +379,14 @@
             "description": "core.ornamental-color.black"
           },
           "hover": {
-            "value": "{core.ornamental-color.insight.70}",
+            "value": "{base.interaction-color.secondary.70}",
             "type": "color",
-            "description": "core.ornamental-color.insight.70"
+            "description": "base.interaction-color.secondary.70"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.60}",
+            "value": "{base.interaction-color.secondary.60}",
             "type": "color",
-            "description": "core.ornamental-color.insight.60"
+            "description": "base.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.70}",
@@ -411,9 +411,9 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.10}",
+            "value": "{base.interaction-color.secondary.10}",
             "type": "color",
-            "description": "core.ornamental-color.insight.10"
+            "description": "base.interaction-color.secondary.10"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.20}",
@@ -519,14 +519,14 @@
             "description": "core.ornamental-color.white"
           },
           "hover": {
-            "value": "{core.ornamental-color.edge.30}",
+            "value": "{base.interaction-color.primary.30}",
             "type": "color",
-            "description": "core.ornamental-color.edge.30"
+            "description": "base.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.40}",
+            "value": "{base.interaction-color.primary.40}",
             "type": "color",
-            "description": "core.ornamental-color.edge.40"
+            "description": "base.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -551,9 +551,9 @@
             "description": "Inherits the color beneath it (from parent element)\n\ncore.ornamental-color.black"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.90}",
+            "value": "{base.interaction-color.primary.90}",
             "type": "color",
-            "description": "core.ornamental-color.edge.90"
+            "description": "base.interaction-color.primary.90"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
@@ -666,9 +666,9 @@
             "description": "base.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.60}",
+            "value": "{base.interaction-color.secondary.60}",
             "type": "color",
-            "description": "core.ornamental-color.insight.60"
+            "description": "base.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.60}",
@@ -688,14 +688,14 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{core.ornamental-color.insight.20}",
+            "value": "{base.interaction-color.secondary.20}",
             "type": "color",
-            "description": "core.ornamental-color.insight.20"
+            "description": "base.interaction-color.secondary.20"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.10}",
+            "value": "{base.interaction-color.secondary.10}",
             "type": "color",
-            "description": "core.ornamental-color.insight.10"
+            "description": "base.interaction-color.secondary.10"
           },
           "disabled": {
             "value": "{core.ornamental-color.white}",
@@ -742,9 +742,9 @@
             "description": "base.cta-label-color.light"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.40}",
+            "value": "{base.interaction-color.primary.40}",
             "type": "color",
-            "description": "core.ornamental-color.edge.40"
+            "description": "base.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.50}",
@@ -764,14 +764,14 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{core.ornamental-color.edge.80}",
+            "value": "{base.interaction-color.primary.80}",
             "type": "color",
-            "description": "core.ornamental-color.edge.80"
+            "description": "base.interaction-color.primary.80"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.90}",
+            "value": "{base.interaction-color.primary.90}",
             "type": "color",
-            "description": "core.ornamental-color.edge.90"
+            "description": "base.interaction-color.primary.90"
           },
           "disabled": {
             "value": "{core.ornamental-color.black}",
@@ -781,7 +781,7 @@
           "focus": {
             "value": "{comp.transparent-cta.on-dark.bg.hover}",
             "type": "color",
-            "description": "comp.transparent-cta.on-dark.bg.hover"
+            "description": "Mirrors the hover state\n\ncomp.transparent-cta.on-dark.bg.hover"
           }
         },
         "shadow-color": {
@@ -815,14 +815,14 @@
             "description": "base.cta-label-color.dark"
           },
           "hover": {
-            "value": "{core.ornamental-color.insight.70}",
+            "value": "{base.interaction-color.secondary.70}",
             "type": "color",
-            "description": "core.ornamental-color.insight.70"
+            "description": "base.interaction-color.secondary.70"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.60}",
+            "value": "{base.interaction-color.secondary.60}",
             "type": "color",
-            "description": "core.ornamental-color.insight.60"
+            "description": "base.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.60}",
@@ -960,14 +960,14 @@
             "description": "base.cta-label-color.light"
           },
           "hover": {
-            "value": "{core.ornamental-color.edge.30}",
+            "value": "{base.interaction-color.primary.30}",
             "type": "color",
-            "description": "core.ornamental-color.edge.30"
+            "description": "base.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.40}",
+            "value": "{base.interaction-color.primary.40}",
             "type": "color",
-            "description": "core.ornamental-color.edge.40"
+            "description": "base.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.40}",
@@ -1112,9 +1112,9 @@
             "description": "base.general-label-color.dark"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.60}",
+            "value": "{base.interaction-color.secondary.60}",
             "type": "color",
-            "description": "core.ornamental-color.insight.60"
+            "description": "base.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.60}",
@@ -1223,9 +1223,9 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{core.ornamental-color.insight.70}",
+            "value": "{base.interaction-color.secondary.70}",
             "type": "color",
-            "description": "core.ornamental-color.insight.70"
+            "description": "base.interaction-color.secondary.70"
           },
           "pressed": {
             "value": "{comp.inline-link.on-light.text.pressed}",
@@ -1257,9 +1257,9 @@
             "description": "base.general-label-color.light"
           },
           "pressed": {
-            "value": "{core.ornamental-color.edge.40}",
+            "value": "{base.interaction-color.primary.40}",
             "type": "color",
-            "description": "core.ornamental-color.edge.40"
+            "description": "base.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.40}",
@@ -1368,9 +1368,9 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{comp.special-cta.on-dark.text.hover}",
+            "value": "{base.interaction-color.primary.30}",
             "type": "color",
-            "description": "Matches hover state text color\n\ncomp.special-cta.on-dark.text.hover"
+            "description": "base.interaction-color.primary.30"
           },
           "pressed": {
             "value": "{comp.inline-link.on-dark.text.pressed}",
@@ -1431,14 +1431,14 @@
             "description": "base.general-label-color.dark"
           },
           "hover": {
-            "value": "{core.ornamental-color.insight.70}",
+            "value": "{base.interaction-color.secondary.70}",
             "type": "color",
-            "description": "core.ornamental-color.insight.70"
+            "description": "base.interaction-color.secondary.70"
           },
           "pressed": {
-            "value": "{core.ornamental-color.insight.60}",
+            "value": "{base.interaction-color.secondary.60}",
             "type": "color",
-            "description": "core.ornamental-color.insight.60"
+            "description": "base.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.60}",
