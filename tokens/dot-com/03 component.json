@@ -1599,6 +1599,38 @@
             "description": "Matches pressed state text\n\ncomp.language-selector.on-dark.text.pressed"
           }
         }
+      },
+      "padding": {
+        "lg": {
+          "value": "{core.space-size.lg}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{core.space-size.md}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing"
+        },
+        "2xs": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing"
+        },
+        "3xs": {
+          "value": "{core.space-size.3xs}",
+          "type": "spacing"
+        }
+      },
+      "item-spacing": {
+        "xs": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing"
+        }
       }
     }
   }
