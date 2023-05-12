@@ -1532,6 +1532,72 @@
             },
             "type": "boxShadow"
           }
+        },
+        "text": {
+          "default": {
+            "value": "{base.general-label-color.light}",
+            "type": "color",
+            "description": "base.general-label-color.dark"
+          },
+          "hover": {
+            "value": "{base.interaction-color.primary.20}",
+            "type": "color",
+            "description": "base.interaction-color.primary.20"
+          },
+          "pressed": {
+            "value": "{base.interaction-color.primary.30}",
+            "type": "color",
+            "description": "base.interaction-color.secondary.30"
+          },
+          "disabled": {
+            "value": "{core.ornamental-color.cloud.60}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.60"
+          },
+          "focus": {
+            "value": "{comp.language-selector.on-dark.text.hover}",
+            "type": "color",
+            "description": "Mirrors the hover state\n\ncomp.language-selector.on-dark.text.hover"
+          }
+        },
+        "bg": {
+          "default": {
+            "value": "{core.ornamental-color.black}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "hover": {
+            "value": "{core.ornamental-color.black}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "pressed": {
+            "value": "{core.ornamental-color.black}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "disabled": {
+            "value": "{core.ornamental-color.black}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "focus": {
+            "value": "{core.ornamental-color.black}",
+            "type": "color",
+            "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.bg.hover"
+          }
+        },
+        "shadow-color": {
+          "focus": {
+            "value": "{comp.language-selector.on-dark.text.focus}",
+            "type": "color",
+            "description": "Matches the text color\n\ncomp.language-selector.on-dark.text.focus"
+          },
+          "pressed": {
+            "value": "{comp.language-selector.on-dark.text.pressed}",
+            "type": "color",
+            "description": "Matches pressed state text\n\ncomp.language-selector.on-dark.text.pressed"
+          }
         }
       }
     }
