@@ -67,53 +67,62 @@
         "text": {
           "default": {
             "value": "{base.cta-label-color.dark}",
-            "type": "color"
+            "type": "color",
+            "description": "base.cta-label-color.dark"
           },
           "hover": {
             "value": "{base.cta-label-color.dark}",
-            "type": "color"
+            "type": "color",
+            "description": "base.cta-label-color.dark"
           },
           "pressed": {
             "value": "{base.cta-label-color.dark}",
-            "type": "color"
+            "type": "color",
+            "description": "base.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.cloud.30"
           },
           "focus": {
             "value": "{core.ornamental-color.black}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.black"
           }
         },
         "bg": {
           "default": {
             "value": "{core.ornamental-color.edge.40}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.edge.40"
           },
           "hover": {
             "value": "{core.ornamental-color.edge.50}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.edge.50"
           },
           "pressed": {
             "value": "{core.ornamental-color.edge.60}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.edge.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.cloud.80"
           },
           "focus": {
             "value": "{comp.solid-vibrant-cta.on-light.bg.hover}",
             "type": "color",
-            "description": "Mirrors the hover state"
+            "description": "Mirrors the hover state\n\ncomp.solid-vibrant-cta.on-light.bg.hover"
           }
         },
         "shadow-color": {
           "focus": {
             "value": "{comp.solid-vibrant-cta.on-light.text.focus}",
             "type": "color",
-            "description": "Matches the text color"
+            "description": "Matches the text color\n\ncomp.solid-vibrant-cta.on-light.text.focus"
           }
         },
         "shadow-style": {
@@ -134,53 +143,62 @@
         "text": {
           "default": {
             "value": "{base.cta-label-color.dark}",
-            "type": "color"
+            "type": "color",
+            "description": "base.cta-label-color.dark"
           },
           "hover": {
             "value": "{base.cta-label-color.dark}",
-            "type": "color"
+            "type": "color",
+            "description": "base.cta-label-color.dark"
           },
           "pressed": {
             "value": "{base.cta-label-color.dark}",
-            "type": "color"
+            "type": "color",
+            "description": "base.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.cloud.30"
           },
           "focus": {
             "value": "{core.ornamental-color.black}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.black"
           }
         },
         "bg": {
           "default": {
             "value": "{core.ornamental-color.edge.20}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.edge.20"
           },
           "hover": {
             "value": "{core.ornamental-color.edge.30}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.edge.30"
           },
           "pressed": {
             "value": "{core.ornamental-color.edge.40}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.edge.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
-            "type": "color"
+            "type": "color",
+            "description": "core.ornamental-color.cloud.80"
           },
           "focus": {
             "value": "{comp.solid-vibrant-cta.on-dark.bg.hover}",
             "type": "color",
-            "description": "Mirrors the hover state"
+            "description": "Mirrors the hover state\n\ncomp.solid-vibrant-cta.on-dark.bg.hover"
           }
         },
         "shadow-color": {
           "focus": {
             "value": "{comp.solid-vibrant-cta.on-dark.text.focus}",
             "type": "color",
-            "description": "Matches the text color"
+            "description": "Matches the text color\n\ncomp.solid-vibrant-cta.on-dark.text.focus"
           }
         },
         "shadow-style": {

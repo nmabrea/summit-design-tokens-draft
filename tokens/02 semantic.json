@@ -34,37 +34,41 @@
       "xl": {
         "value": "{core.ornamental-type.desktop.display.2xl}",
         "type": "typography",
-        "description": "Should scale responsively to smaller screen resolutions"
+        "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
       },
       "sm": {
         "value": "{core.basic-type.desktop.text.sm.medium}",
-        "type": "typography"
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.sm.medium"
       },
       "md": {
         "value": "{core.basic-type.desktop.text.md.medium}",
-        "type": "typography"
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.md.medium"
       }
     },
     "cta-label-color": {
       "light": {
         "value": "{core.ornamental-color.cloud.10}",
         "type": "color",
-        "description": "Label colors on dark backgrounds"
+        "description": "Label colors on dark backgrounds\n\ncore.ornamental-color.cloud.10"
       },
       "dark": {
         "value": "{core.ornamental-color.cloud.90}",
         "type": "color",
-        "description": "Label colors on light backgrounds"
+        "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
       }
     },
     "link-label-type": {
       "emphasized": {
         "value": "{core.basic-type.desktop.text.xs.bold}",
-        "type": "typography"
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.xs.bold"
       },
       "standard": {
         "value": "{core.basic-type.desktop.text.xs.default}",
-        "type": "typography"
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.xs.default"
       }
     },
     "cta-icon": {
