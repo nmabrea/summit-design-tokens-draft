@@ -84,6 +84,35 @@
         "value": "1.5rem",
         "type": "dimension"
       }
+    },
+    "general-label-color": {
+      "light": {
+        "value": "{core.ornamental-color.cloud.10}",
+        "type": "color",
+        "description": "Label colors on dark backgrounds\n\ncore.ornamental-color.cloud.10"
+      },
+      "dark": {
+        "value": "{core.ornamental-color.cloud.90}",
+        "type": "color",
+        "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
+      }
+    },
+    "general-label-type": {
+      "xl": {
+        "value": "{core.ornamental-type.desktop.display.2xl}",
+        "type": "typography",
+        "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
+      },
+      "sm": {
+        "value": "{core.basic-type.desktop.text.sm.medium}",
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.sm.medium"
+      },
+      "md": {
+        "value": "{core.basic-type.desktop.text.md.medium}",
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.md.medium"
+      }
     }
   }
 }

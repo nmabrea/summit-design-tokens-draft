@@ -32,34 +32,34 @@
           "value": "{core.space-size.sm}",
           "type": "spacing"
         }
+      }
+    },
+    "cta-radius": {
+      "default": {
+        "value": "1rem*.5",
+        "type": "borderRadius"
       },
-      "corner-radius": {
-        "default": {
-          "value": "1rem*.5",
-          "type": "borderRadius"
-        },
-        "hover": {
-          "value": "1rem",
-          "type": "borderRadius"
-        },
-        "pressed": {
-          "value": "1.5rem",
-          "type": "borderRadius"
-        },
-        "disabled": {
-          "value": "{comp.cta-button.corner-radius.default}",
-          "type": "borderRadius",
-          "description": "Mirrors default state"
-        },
-        "focus": {
-          "value": "{comp.cta-button.corner-radius.hover}",
-          "type": "borderRadius",
-          "description": "Mirrors hover state"
-        },
-        "focus-inset": {
-          "value": ".75rem",
-          "type": "borderRadius"
-        }
+      "hover": {
+        "value": "1rem",
+        "type": "borderRadius"
+      },
+      "pressed": {
+        "value": "1.5rem",
+        "type": "borderRadius"
+      },
+      "disabled": {
+        "value": "{comp.cta-radius.default}",
+        "type": "borderRadius",
+        "description": "Mirrors default state"
+      },
+      "focus": {
+        "value": "{comp.cta-radius.hover}",
+        "type": "borderRadius",
+        "description": "Mirrors hover state"
+      },
+      "focus-inset": {
+        "value": ".75rem",
+        "type": "borderRadius"
       }
     },
     "solid-vibrant-cta": {
@@ -1102,14 +1102,14 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{base.general-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "base.general-label-color.dark"
           },
           "hover": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{base.general-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "base.general-label-color.dark"
           },
           "pressed": {
             "value": "{core.ornamental-color.insight.60}",
@@ -1247,14 +1247,14 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{base.general-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "base.general-label-color.light"
           },
           "hover": {
             "value": "{base.cta-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "base.general-label-color.light"
           },
           "pressed": {
             "value": "{core.ornamental-color.edge.40}",
@@ -1419,6 +1419,119 @@
         "sm": {
           "value": "{core.space-size.sm}",
           "type": "spacing"
+        }
+      }
+    },
+    "language-selector": {
+      "on-light": {
+        "text": {
+          "default": {
+            "value": "{base.general-label-color.dark}",
+            "type": "color",
+            "description": "base.general-label-color.dark"
+          },
+          "hover": {
+            "value": "{core.ornamental-color.insight.70}",
+            "type": "color",
+            "description": "core.ornamental-color.insight.70"
+          },
+          "pressed": {
+            "value": "{core.ornamental-color.insight.60}",
+            "type": "color",
+            "description": "core.ornamental-color.insight.60"
+          },
+          "disabled": {
+            "value": "{core.ornamental-color.cloud.60}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.60"
+          },
+          "focus": {
+            "value": "{comp.language-selector.on-light.text.hover}",
+            "type": "color",
+            "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.text.hover"
+          }
+        },
+        "bg": {
+          "default": {
+            "value": "{core.ornamental-color.white}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "hover": {
+            "value": "{core.ornamental-color.white}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "pressed": {
+            "value": "{core.ornamental-color.white}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "disabled": {
+            "value": "{core.ornamental-color.white}",
+            "type": "color",
+            "description": "Inherits the color beneath it (from parent element)"
+          },
+          "focus": {
+            "value": "{comp.language-selector.on-light.bg.hover}",
+            "type": "color",
+            "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.bg.hover"
+          }
+        },
+        "shadow-color": {
+          "focus": {
+            "value": "{comp.language-selector.on-light.text.focus}",
+            "type": "color",
+            "description": "Matches the text color\n\ncomp.language-selector.on-light.text.focus"
+          },
+          "pressed": {
+            "value": "{comp.language-selector.on-light.text.pressed}",
+            "type": "color",
+            "description": "Matches pressed state text\n\ncomp.language-selector.on-light.text.pressed"
+          }
+        },
+        "shadow-style": {
+          "focus": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1px",
+              "color": "{comp.language-selector.on-light.shadow-color.focus}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          },
+          "pressed": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "2px",
+              "color": "{comp.language-selector.on-light.shadow-color.pressed}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
+      },
+      "default": {
+        "value": ".25rem",
+        "type": "borderRadius"
+      },
+      "on-dark": {
+        "shadow-style": {
+          "focus": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1px",
+              "color": "{comp.inline-link.on-dark.shadow-color.focus}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
         }
       }
     }
