@@ -1,8 +1,0 @@
-{
-  "tokenSetOrder": [
-    "00 raw",
-    "01 core",
-    "02 semantic",
-    "03 component"
-  ]
-}
