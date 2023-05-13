@@ -112,6 +112,10 @@
         "value": "{core.basic-type.desktop.text.md.medium}",
         "type": "typography",
         "description": "core.basic-type.desktop.text.md.medium"
+      },
+      "xs": {
+        "value": "{core.basic-type.desktop.text.xs.medium}",
+        "type": "typography"
       }
     },
     "interaction-color": {

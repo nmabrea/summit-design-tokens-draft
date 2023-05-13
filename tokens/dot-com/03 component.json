@@ -1632,6 +1632,130 @@
           "type": "spacing"
         }
       }
+    },
+    "list-item": {
+      "padding": {
+        "lg": {
+          "value": "{core.space-size.lg}",
+          "type": "spacing"
+        },
+        "md": {
+          "value": "{core.space-size.md}",
+          "type": "spacing"
+        },
+        "sm": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing"
+        },
+        "xs": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing"
+        },
+        "2xs": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing"
+        },
+        "3xs": {
+          "value": "{core.space-size.3xs}",
+          "type": "spacing"
+        }
+      },
+      "item-spacing": {
+        "xs": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing"
+        }
+      },
+      "on-light": {
+        "bg": {
+          "default": {
+            "value": "{core.ornamental-color.white}",
+            "type": "color",
+            "description": "core.ornamental-color.white"
+          },
+          "hover": {
+            "value": "{core.ornamental-color.white}",
+            "type": "color",
+            "description": "core.ornamental-color.white"
+          },
+          "pressed": {
+            "value": "{base.interaction-color.secondary.10}",
+            "type": "color",
+            "description": "base.interaction-color.secondary.10"
+          }
+        }
+      },
+      "on-dark": {
+        "bg": {
+          "default": {
+            "value": "{core.ornamental-color.black}",
+            "type": "color",
+            "description": "core.ornamental-color.black"
+          },
+          "hover": {
+            "value": "{core.ornamental-color.black}",
+            "type": "color",
+            "description": "core.ornamental-color.black"
+          },
+          "pressed": {
+            "value": "{base.interaction-color.primary.90}",
+            "type": "color",
+            "description": "base.interaction-color.primary.90"
+          }
+        }
+      }
+    },
+    "dropdown-menu": {
+      "on-light": {
+        "bg": {
+          "value": "{core.ornamental-color.white}",
+          "type": "color",
+          "description": "core.ornamental-color.white"
+        },
+        "shadow-style": {
+          "open": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1px",
+              "color": "{comp.dropdown-menu.on-light.shadow-color}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        },
+        "shadow-color": {
+          "value": "{base.interaction-color.secondary.60}",
+          "type": "color",
+          "description": "base.interaction-color.secondary.60"
+        }
+      },
+      "on-dark": {
+        "bg": {
+          "value": "{core.ornamental-color.black}",
+          "type": "color",
+          "description": "core.ornamental-color.black"
+        },
+        "shadow-color": {
+          "value": "{base.interaction-color.primary.30}",
+          "type": "color",
+          "description": "base.interaction-color.primary.30"
+        },
+        "shadow-style": {
+          "open": {
+            "value": {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "1px",
+              "color": "{comp.dropdown-menu.on-dark.shadow-color}",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
+      }
     }
   }
 }
