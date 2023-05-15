@@ -274,7 +274,7 @@
       "description": "400 Italic"
     }
   },
-  "font": {
+  "font-family": {
     "inter": {
       "value": "Inter",
       "type": "fontFamilies"

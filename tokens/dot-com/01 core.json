@@ -173,17 +173,17 @@
     },
     "font-style": {
       "ornamental": {
-        "value": "{font.es-rebond-grotesque}",
+        "value": "{font-family.es-rebond-grotesque}",
         "type": "fontFamilies",
         "description": "Primary font used for large headlines for marketing purposes."
       },
       "basic": {
-        "value": "{font.inter}",
+        "value": "{font-family.inter}",
         "type": "fontFamilies",
         "description": "Primary font used for essential communication."
       },
       "jp": {
-        "value": "{font.noto-sans-jp}",
+        "value": "{font-family.noto-sans-jp}",
         "type": "fontFamilies",
         "description": "For Japanese localization only"
       }
