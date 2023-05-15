@@ -1422,181 +1422,257 @@
         }
       }
     },
-    "language-selector": {
-      "on-light": {
-        "text": {
-          "default": {
-            "value": "{base.general-label-color.dark}",
-            "type": "color",
-            "description": "base.general-label-color.dark"
-          },
-          "hover": {
-            "value": "{base.interaction-color.secondary.70}",
-            "type": "color",
-            "description": "base.interaction-color.secondary.70"
-          },
-          "pressed": {
-            "value": "{base.interaction-color.secondary.60}",
-            "type": "color",
-            "description": "base.interaction-color.secondary.60"
-          },
-          "disabled": {
-            "value": "{core.ornamental-color.cloud.60}",
-            "type": "color",
-            "description": "core.ornamental-color.cloud.60"
-          },
-          "focus": {
-            "value": "{comp.language-selector.on-light.text.hover}",
-            "type": "color",
-            "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.text.hover"
-          }
-        },
-        "bg": {
-          "default": {
-            "value": "{core.ornamental-color.white}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "hover": {
-            "value": "{core.ornamental-color.white}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "pressed": {
-            "value": "{core.ornamental-color.white}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "disabled": {
-            "value": "{core.ornamental-color.white}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "focus": {
-            "value": "{comp.language-selector.on-light.bg.hover}",
-            "type": "color",
-            "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.bg.hover"
-          }
-        },
-        "shadow-color": {
-          "focus": {
-            "value": "{comp.language-selector.on-light.text.focus}",
-            "type": "color",
-            "description": "Matches the text color\n\ncomp.language-selector.on-light.text.focus"
-          },
-          "pressed": {
-            "value": "{comp.language-selector.on-light.text.pressed}",
-            "type": "color",
-            "description": "Matches pressed state text\n\ncomp.language-selector.on-light.text.pressed"
-          }
-        },
-        "shadow-style": {
-          "focus": {
-            "value": {
-              "x": "0",
-              "y": "0",
-              "blur": "0",
-              "spread": "1px",
-              "color": "{comp.language-selector.on-light.shadow-color.focus}",
-              "type": "dropShadow"
+    "input-field": {
+      "ornamental": {
+        "on-light": {
+          "text": {
+            "active": {
+              "value": "{base.general-label-color.dark}",
+              "type": "color",
+              "description": "base.general-label-color.dark"
             },
-            "type": "boxShadow"
-          },
-          "pressed": {
-            "value": {
-              "x": "0",
-              "y": "0",
-              "blur": "0",
-              "spread": "2px",
-              "color": "{comp.language-selector.on-light.shadow-color.pressed}",
-              "type": "dropShadow"
+            "pressed": {
+              "value": "{base.interaction-color.secondary.60}",
+              "type": "color",
+              "description": "base.interaction-color.secondary.60"
             },
-            "type": "boxShadow"
-          }
-        }
-      },
-      "default": {
-        "value": ".25rem",
-        "type": "borderRadius"
-      },
-      "on-dark": {
-        "shadow-style": {
-          "focus": {
-            "value": {
-              "x": "0",
-              "y": "0",
-              "blur": "0",
-              "spread": "1px",
-              "color": "{comp.inline-link.on-dark.shadow-color.focus}",
-              "type": "dropShadow"
+            "disabled": {
+              "value": "{core.ornamental-color.cloud.80}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.80"
             },
-            "type": "boxShadow"
+            "default": {
+              "value": "{core.ornamental-color.cloud.70}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.70"
+            }
+          },
+          "bg": {
+            "default": {
+              "value": "{core.ornamental-color.white}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "hover": {
+              "value": "{core.ornamental-color.white}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "pressed": {
+              "value": "{core.ornamental-color.white}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "filled": {
+              "value": "{core.ornamental-color.white}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "focus": {
+              "value": "{comp.input-field.ornamental.on-light.bg.hover}",
+              "type": "color",
+              "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.bg.hover"
+            },
+            "disabled": {
+              "value": "{core.ornamental-color.cloud.10}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.10"
+            }
+          },
+          "shadow-color": {
+            "focus": {
+              "value": "{comp.decorative-input-field.on-light.text.focus}",
+              "type": "color",
+              "description": "Matches the text color\n\ncomp.language-selector.on-light.text.focus"
+            },
+            "pressed": {
+              "value": "{comp.input-field.ornamental.on-light.border-color.pressed}",
+              "type": "color",
+              "description": "Matches pressed state text\n\ncomp.language-selector.on-light.text.pressed"
+            },
+            "hover": {
+              "value": "{comp.input-field.ornamental.on-light.border-color.hover}",
+              "type": "color",
+              "description": "Matches the hover state color\n\ncomp.decorative-input-field.on-light.border-color.hover"
+            }
+          },
+          "shadow-style": {
+            "focus": {
+              "value": {
+                "x": "0",
+                "y": "0",
+                "blur": "0",
+                "spread": "1px",
+                "color": "{comp.input-field.ornamental.on-light.shadow-color.focus}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
+            "pressed": {
+              "value": [
+                {
+                  "x": "-1",
+                  "y": "-1",
+                  "blur": "0",
+                  "spread": "1",
+                  "color": "{comp.input-field.ornamental.on-light.shadow-color.pressed}",
+                  "type": "innerShadow"
+                },
+                {
+                  "x": "2",
+                  "y": "2",
+                  "blur": "0",
+                  "spread": "1",
+                  "color": "{comp.input-field.ornamental.on-light.shadow-color.pressed}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            },
+            "hover": {
+              "value": {
+                "x": "1",
+                "y": "1",
+                "blur": "0",
+                "spread": "1",
+                "color": "{base.interaction-color.secondary.20}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow",
+              "description": "A little light than the border hover color"
+            },
+            "error-focus": {
+              "value": {
+                "x": "1",
+                "y": "1",
+                "blur": "0",
+                "spread": "1",
+                "color": "{base.interaction-color.secondary.20}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow",
+              "description": "A little light than the border hover color"
+            }
+          },
+          "border-color": {
+            "default": {
+              "value": "{comp.input-field.ornamental.on-light.text.default}",
+              "type": "color",
+              "description": "Mirrors default text state\n\ncomp.decorative-input-field.on-light.text.default"
+            },
+            "active": {
+              "value": "{comp.input-field.ornamental.on-light.text.active}",
+              "type": "color",
+              "description": "Mirrors active text state\n\ncomp.input-field.ornamental.on-light.text.active"
+            },
+            "hover": {
+              "value": "{base.interaction-color.secondary.70}",
+              "type": "color",
+              "description": "base.interaction-color.secondary.70"
+            },
+            "focus": {
+              "value": "{comp.input-field.ornamental.on-light.border-color.hover}",
+              "type": "color",
+              "description": "Mirrors the hover state\n\ncomp.input-field.ornamental.on-light.border-color.hover"
+            },
+            "pressed": {
+              "value": "{base.interaction-color.secondary.70}",
+              "type": "color",
+              "description": "base.interaction-color.secondary.70"
+            }
           }
         },
-        "text": {
-          "default": {
-            "value": "{base.general-label-color.light}",
-            "type": "color",
-            "description": "base.general-label-color.dark"
+        "on-dark": {
+          "shadow-style": {
+            "focus": {
+              "value": {
+                "x": "0",
+                "y": "0",
+                "blur": "0",
+                "spread": "1px",
+                "color": "{comp.inline-link.on-dark.shadow-color.focus}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            }
           },
-          "hover": {
-            "value": "{base.interaction-color.primary.20}",
-            "type": "color",
-            "description": "base.interaction-color.primary.20"
+          "text": {
+            "active": {
+              "value": "{base.general-label-color.light}",
+              "type": "color",
+              "description": "base.general-label-color.dark"
+            },
+            "hover": {
+              "value": "{base.interaction-color.primary.20}",
+              "type": "color",
+              "description": "base.interaction-color.primary.20"
+            },
+            "pressed": {
+              "value": "{base.interaction-color.primary.30}",
+              "type": "color",
+              "description": "base.interaction-color.secondary.30"
+            },
+            "disabled": {
+              "value": "{core.ornamental-color.cloud.60}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.60"
+            },
+            "focus": {
+              "value": "{comp.input-field.ornamental.on-dark.text.hover}",
+              "type": "color",
+              "description": "Mirrors the hover state\n\ncomp.language-selector.on-dark.text.hover"
+            },
+            "default": {
+              "value": "{core.ornamental-color.cloud.30}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.30"
+            }
           },
-          "pressed": {
-            "value": "{base.interaction-color.primary.30}",
-            "type": "color",
-            "description": "base.interaction-color.secondary.30"
+          "bg": {
+            "default": {
+              "value": "{core.ornamental-color.black}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "hover": {
+              "value": "{core.ornamental-color.black}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "pressed": {
+              "value": "{core.ornamental-color.black}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "disabled": {
+              "value": "{core.ornamental-color.black}",
+              "type": "color",
+              "description": "Inherits the color beneath it (from parent element)"
+            },
+            "focus": {
+              "value": "{core.ornamental-color.black}",
+              "type": "color",
+              "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.bg.hover"
+            }
           },
-          "disabled": {
-            "value": "{core.ornamental-color.cloud.60}",
-            "type": "color",
-            "description": "core.ornamental-color.cloud.60"
+          "shadow-color": {
+            "focus": {
+              "value": "{comp.input-field.ornamental.on-dark.text.focus}",
+              "type": "color",
+              "description": "Matches the text color\n\ncomp.language-selector.on-dark.text.focus"
+            },
+            "pressed": {
+              "value": "{comp.input-field.ornamental.on-dark.text.pressed}",
+              "type": "color",
+              "description": "Matches pressed state text\n\ncomp.language-selector.on-dark.text.pressed"
+            }
           },
-          "focus": {
-            "value": "{comp.language-selector.on-dark.text.hover}",
-            "type": "color",
-            "description": "Mirrors the hover state\n\ncomp.language-selector.on-dark.text.hover"
-          }
-        },
-        "bg": {
-          "default": {
-            "value": "{core.ornamental-color.black}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "hover": {
-            "value": "{core.ornamental-color.black}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "pressed": {
-            "value": "{core.ornamental-color.black}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "disabled": {
-            "value": "{core.ornamental-color.black}",
-            "type": "color",
-            "description": "Inherits the color beneath it (from parent element)"
-          },
-          "focus": {
-            "value": "{core.ornamental-color.black}",
-            "type": "color",
-            "description": "Mirrors the hover state\n\ncomp.language-selector.on-light.bg.hover"
-          }
-        },
-        "shadow-color": {
-          "focus": {
-            "value": "{comp.language-selector.on-dark.text.focus}",
-            "type": "color",
-            "description": "Matches the text color\n\ncomp.language-selector.on-dark.text.focus"
-          },
-          "pressed": {
-            "value": "{comp.language-selector.on-dark.text.pressed}",
-            "type": "color",
-            "description": "Matches pressed state text\n\ncomp.language-selector.on-dark.text.pressed"
+          "border-color": {
+            "default": {
+              "value": "{comp.input-field.ornamental.on-dark.text.default}",
+              "type": "color",
+              "description": "Matches placeholder text state\n\ncomp.decorative-input-field.on-dark.text.placeholder"
+            }
           }
         }
       },
@@ -1631,6 +1707,12 @@
           "value": "{core.space-size.xs}",
           "type": "spacing"
         }
+      }
+    },
+    "language-selector": {
+      "default": {
+        "value": ".25rem",
+        "type": "borderRadius"
       }
     },
     "list-item": {

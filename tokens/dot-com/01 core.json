@@ -1955,6 +1955,14 @@
           }
         }
       }
+    },
+    "feedback-color": {
+      "error": {
+        "10": {
+          "value": "#fff",
+          "type": "color"
+        }
+      }
     }
   }
 }
