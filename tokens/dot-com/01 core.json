@@ -620,12 +620,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.bold}",
-              "lineHeight": "{core.line-height.md}",
-              "fontSize": "{core.font-size.md}",
+              "lineHeight": "{line-height.md}",
+              "fontSize": "{font-size.md}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 16px"
@@ -634,12 +634,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h6 content\nFont size: 20px"
@@ -648,12 +648,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.2xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.2xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h5 content\nFont size: 24px"
@@ -662,12 +662,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.3xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.3xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h4 content\nFont size: 32px"
@@ -676,12 +676,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.4xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.4xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h3 content\nFont size: 40px"
@@ -690,12 +690,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.5xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.5xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h2 content\nFont size: 48px"
@@ -704,12 +704,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.6xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.6xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h1 content\nFont size: 64px"
@@ -718,12 +718,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.7xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.7xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only.\nFont size: 80px"
@@ -732,12 +732,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.8xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.8xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only.\nFont size: 96px"
@@ -750,12 +750,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.bold}",
-              "lineHeight": "{core.line-height.lg}",
-              "fontSize": "{core.font-size.sm}",
+              "lineHeight": "{line-height.lg}",
+              "fontSize": "{font-size.sm}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
@@ -764,12 +764,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.md}",
-              "fontSize": "{core.font-size.md}",
+              "lineHeight": "{line-height.md}",
+              "fontSize": "{font-size.md}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h6 content\nFont size: 16px"
@@ -778,12 +778,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h5 content\nFont size: 20px"
@@ -792,12 +792,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.2xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.2xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h4 content\nFont size: 24px"
@@ -806,12 +806,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.3xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.3xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h3 content\nFont size: 32px"
@@ -820,12 +820,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.4xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.4xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h2 content\nFont size: 40px"
@@ -834,12 +834,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.5xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.5xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h1 content\nFont size: 48px"
@@ -848,12 +848,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.6xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.6xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only. (Not for web)\n\nFont size: 64px"
@@ -862,12 +862,12 @@
             "value": {
               "fontFamily": "{core.font-style.ornamental}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.7xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.7xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only. (Not for web)\n\nFont size: 80px"
@@ -882,12 +882,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.bold}",
-              "lineHeight": "{core.line-height.md}",
-              "fontSize": "{core.font-size.md}",
+              "lineHeight": "{line-height.md}",
+              "fontSize": "{font-size.md}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 16px"
@@ -896,12 +896,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h6 content\nFont size: 20px"
@@ -910,12 +910,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.2xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.2xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h5 content\nFont size: 24px"
@@ -924,12 +924,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.3xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.3xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h4 content\nFont size: 32px"
@@ -938,12 +938,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.4xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.4xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h3 content\nFont size: 40px"
@@ -952,12 +952,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.5xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.5xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h2 content\nFont size: 48px"
@@ -966,12 +966,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.6xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.6xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h1 content\nFont size: 64px"
@@ -983,9 +983,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -994,9 +994,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1005,9 +1005,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1016,9 +1016,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.italic}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1027,9 +1027,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1038,9 +1038,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.italic}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1049,9 +1049,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1060,9 +1060,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1073,9 +1073,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1084,9 +1084,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1095,9 +1095,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1106,9 +1106,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1117,9 +1117,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1128,9 +1128,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.italic}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1139,9 +1139,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1150,9 +1150,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.italic}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1163,9 +1163,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.lg}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.lg}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1174,9 +1174,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.lg}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.lg}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1185,9 +1185,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1196,9 +1196,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1207,9 +1207,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1218,9 +1218,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.italic}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1229,9 +1229,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1240,9 +1240,9 @@
               "value": {
                 "fontFamily": "{core.font-style.basic}",
                 "fontWeight": "{core.font-weight.text.italic}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1378,12 +1378,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.bold}",
-              "lineHeight": "{core.line-height.lg}",
-              "fontSize": "{core.font-size.sm}",
+              "lineHeight": "{line-height.lg}",
+              "fontSize": "{font-size.sm}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
@@ -1392,12 +1392,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.md}",
-              "fontSize": "{core.font-size.md}",
+              "lineHeight": "{line-height.md}",
+              "fontSize": "{font-size.md}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h6 content\nFont size: 16px"
@@ -1406,12 +1406,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h5 content\nFont size: 20px"
@@ -1420,12 +1420,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.2xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.2xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h4 content\nFont size: 24px"
@@ -1434,12 +1434,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.3xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.3xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h3 content\nFont size: 32px"
@@ -1448,12 +1448,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.4xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.4xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h2 content\nFont size: 40px"
@@ -1462,12 +1462,12 @@
             "value": {
               "fontFamily": "{core.font-style.basic}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.5xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.5xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h1 content\nFont size: 48px"
@@ -1482,12 +1482,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.bold}",
-              "lineHeight": "{core.line-height.md}",
-              "fontSize": "{core.font-size.md}",
+              "lineHeight": "{line-height.md}",
+              "fontSize": "{font-size.md}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy. JP localization only.\nFont size: 16px"
@@ -1496,12 +1496,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h6 content. JP localization only.\nFont size: 20px"
@@ -1510,12 +1510,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.2xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.2xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h5 content. JP localization only.\nFont size: 24px"
@@ -1524,12 +1524,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.3xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.3xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h4 content. JP localization only.\nFont size: 32px"
@@ -1538,12 +1538,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.4xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.4xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h3 content. JP localization only.\nFont size: 40px"
@@ -1552,12 +1552,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.5xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.5xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h2 content. JP localization only.\nFont size: 48px"
@@ -1566,12 +1566,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.6xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.6xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h1 content. JP localization only.\nFont size: 64px"
@@ -1580,12 +1580,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.7xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.7xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only. (Not for web) JP localization only.\nFont size: 80px"
@@ -1594,12 +1594,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.8xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.8xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only. (Not for web) JP localization only.\nFont size: 96px"
@@ -1611,9 +1611,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.xl}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.xl}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1622,9 +1622,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.xl}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.xl}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1633,9 +1633,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.xl}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.xl}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1644,9 +1644,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.xl}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.xl}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1655,9 +1655,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.xl}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.xl}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1666,9 +1666,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.xl}",
-                "fontSize": "{core.font-size.sm}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.xl}",
+                "fontSize": "{font-size.sm}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
@@ -1679,9 +1679,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1690,9 +1690,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1701,9 +1701,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1712,9 +1712,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1723,9 +1723,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1734,9 +1734,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.md}",
-                "fontSize": "{core.font-size.md}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
@@ -1747,9 +1747,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1758,9 +1758,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.medium}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1769,9 +1769,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1780,9 +1780,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.default}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1791,9 +1791,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.none}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1802,9 +1802,9 @@
               "value": {
                 "fontFamily": "{core.font-style.jp}",
                 "fontWeight": "{core.font-weight.text.bold}",
-                "lineHeight": "{core.line-height.sm}",
-                "fontSize": "{core.font-size.xl}",
-                "textDecoration": "{core.text-deco.underline}"
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "textDecoration": "{text-deco.underline}"
               },
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
@@ -1818,12 +1818,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.bold}",
-              "lineHeight": "{core.line-height.lg}",
-              "fontSize": "{core.font-size.sm}",
+              "lineHeight": "{line-height.lg}",
+              "fontSize": "{font-size.sm}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
@@ -1832,12 +1832,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.md}",
-              "fontSize": "{core.font-size.md}",
+              "lineHeight": "{line-height.md}",
+              "fontSize": "{font-size.md}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h6 content\nFont size: 16px"
@@ -1846,12 +1846,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h5 content\nFont size: 20px"
@@ -1860,12 +1860,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.sm}",
-              "fontSize": "{core.font-size.2xl}",
+              "lineHeight": "{line-height.sm}",
+              "fontSize": "{font-size.2xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h4 content\nFont size: 24px"
@@ -1874,12 +1874,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.3xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.3xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h3 content\nFont size: 32px"
@@ -1888,12 +1888,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.4xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.4xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h2 content\nFont size: 40px"
@@ -1902,12 +1902,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.5xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.5xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Use this for h1 content\nFont size: 48px"
@@ -1916,12 +1916,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.6xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.6xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only. (Not for web)\n\nFont size: 64px"
@@ -1930,12 +1930,12 @@
             "value": {
               "fontFamily": "{core.font-style.jp}",
               "fontWeight": "{core.font-weight.display.default}",
-              "lineHeight": "{core.line-height.xs}",
-              "fontSize": "{core.font-size.7xl}",
+              "lineHeight": "{line-height.xs}",
+              "fontSize": "{font-size.7xl}",
               "letterSpacing": "0",
               "paragraphSpacing": "",
               "textCase": "",
-              "textDecoration": "{core.text-deco.none}"
+              "textDecoration": "{text-deco.none}"
             },
             "type": "typography",
             "description": "Digital asset headlines only. (Not for web)\n\nFont size: 80px"
