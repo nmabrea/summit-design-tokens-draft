@@ -274,6 +274,111 @@
       "description": "400 Italic"
     }
   },
+  "text-deco": {
+    "underline": {
+      "value": "underline",
+      "type": "textDecoration",
+      "description": "Used for hyperlink hover interactions."
+    },
+    "none": {
+      "value": "none",
+      "type": "textDecoration"
+    }
+  },
+  "font-size": {
+    "2xs": {
+      "value": "1rem * 0.625",
+      "type": "fontSizes",
+      "description": "10px"
+    },
+    "xs": {
+      "value": "1rem * .75",
+      "type": "fontSizes",
+      "description": "12px"
+    },
+    "sm": {
+      "value": "1rem * 0.875",
+      "type": "fontSizes",
+      "description": "14px"
+    },
+    "md": {
+      "value": "1rem",
+      "type": "fontSizes",
+      "description": "16px (1rem)"
+    },
+    "lg": {
+      "value": "1rem * 1.125",
+      "type": "fontSizes",
+      "description": "18px"
+    },
+    "xl": {
+      "value": "1rem * 1.25",
+      "type": "fontSizes",
+      "description": "20px"
+    },
+    "2xl": {
+      "value": "1rem * 1.5",
+      "type": "fontSizes",
+      "description": "24px"
+    },
+    "3xl": {
+      "value": "1rem * 2",
+      "type": "fontSizes",
+      "description": "32px"
+    },
+    "4xl": {
+      "value": "1rem * 2.5",
+      "type": "fontSizes",
+      "description": "40px"
+    },
+    "5xl": {
+      "value": "1rem * 3",
+      "type": "fontSizes",
+      "description": "48px"
+    },
+    "6xl": {
+      "value": "1rem*4",
+      "type": "fontSizes",
+      "description": "64px"
+    },
+    "7xl": {
+      "value": "1rem*5",
+      "type": "fontSizes",
+      "description": "80px (not for web use)"
+    },
+    "8xl": {
+      "value": "1rem*6",
+      "type": "fontSizes",
+      "description": "96px (not for web use)"
+    }
+  },
+  "line-height": {
+    "xs": {
+      "value": "100%",
+      "type": "lineHeights",
+      "description": "Equal to the target font size"
+    },
+    "sm": {
+      "value": "125%",
+      "type": "lineHeights",
+      "description": "125% bigger than the target font size"
+    },
+    "md": {
+      "value": "150%",
+      "type": "lineHeights",
+      "description": "150% bigger than the target font size"
+    },
+    "lg": {
+      "value": "175%",
+      "type": "lineHeights",
+      "description": "175% bigger than the target font size"
+    },
+    "xl": {
+      "value": "200%",
+      "type": "lineHeights",
+      "description": "200% bigger than the target font size"
+    }
+  },
   "font-family": {
     "inter": {
       "value": "Inter",
