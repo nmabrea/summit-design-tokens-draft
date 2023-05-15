@@ -32,34 +32,34 @@
           "value": "{core.space-size.sm}",
           "type": "spacing"
         }
-      }
-    },
-    "cta-radius": {
-      "default": {
-        "value": "1rem*.5",
-        "type": "borderRadius"
       },
-      "hover": {
-        "value": "1rem",
-        "type": "borderRadius"
-      },
-      "pressed": {
-        "value": "1.5rem",
-        "type": "borderRadius"
-      },
-      "disabled": {
-        "value": "{comp.cta-radius.default}",
-        "type": "borderRadius",
-        "description": "Mirrors default state"
-      },
-      "focus": {
-        "value": "{comp.cta-radius.hover}",
-        "type": "borderRadius",
-        "description": "Mirrors hover state"
-      },
-      "focus-inset": {
-        "value": ".75rem",
-        "type": "borderRadius"
+    "border-radius": {
+        "default": {
+          "value": "1rem*.5",
+          "type": "borderRadius"
+        },
+        "hover": {
+          "value": "1rem",
+          "type": "borderRadius"
+        },
+        "pressed": {
+          "value": "1.5rem",
+          "type": "borderRadius"
+        },
+        "disabled": {
+          "value": "{comp.border-radius.default}",
+          "type": "borderRadius",
+          "description": "Mirrors default state"
+        },
+        "focus": {
+          "value": "{comp.border-radius.hover}",
+          "type": "borderRadius",
+          "description": "Mirrors hover state"
+        },
+        "focus-inset": {
+          "value": ".75rem",
+          "type": "borderRadius"
+        }
       }
     },
     "solid-vibrant-cta": {
