@@ -33,7 +33,7 @@
           "type": "spacing"
         }
       },
-    "border-radius": {
+      "border-radius": {
         "default": {
           "value": "1rem*.5",
           "type": "borderRadius"
@@ -47,12 +47,12 @@
           "type": "borderRadius"
         },
         "disabled": {
-          "value": "{comp.border-radius.default}",
+          "value": "{comp.cta-button.border-radius.default}",
           "type": "borderRadius",
           "description": "Mirrors default state"
         },
         "focus": {
-          "value": "{comp.border-radius.hover}",
+          "value": "{comp.cta-button.border-radius.hover}",
           "type": "borderRadius",
           "description": "Mirrors hover state"
         },
