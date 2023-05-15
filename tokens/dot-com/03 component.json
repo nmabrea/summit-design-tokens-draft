@@ -1547,15 +1547,15 @@
                 "y": "1",
                 "blur": "0",
                 "spread": "1",
-                "color": "{base.interaction-color.secondary.20}",
+                "color": "{core.feedback-color.error.20}",
                 "type": "dropShadow"
               },
               "type": "boxShadow",
-              "description": "A little light than the border hover color"
+              "description": "A little light than the border error color"
             }
           },
           "border-color": {
-            "default": {
+            "empty": {
               "value": "{comp.input-field.ornamental.on-light.text.default}",
               "type": "color",
               "description": "Mirrors default text state\n\ncomp.decorative-input-field.on-light.text.default"
@@ -1579,6 +1579,11 @@
               "value": "{base.interaction-color.secondary.70}",
               "type": "color",
               "description": "base.interaction-color.secondary.70"
+            },
+            "error": {
+              "value": "{core.feedback-color.error.60}",
+              "type": "color",
+              "description": "{core.feedback-color.error.60}"
             }
           }
         },

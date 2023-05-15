@@ -213,6 +213,18 @@
           "description": "core.ornamental-color.edge.90"
         }
       }
+    },
+    "default-background": {
+      "light": {
+        "value": "{core.ornamental-color.white}",
+        "type": "color",
+        "description": "core.ornamental-color.white"
+      },
+      "dark": {
+        "value": "{core.ornamental-color.black}",
+        "type": "color",
+        "description": "core.ornamental-color.black"
+      }
     }
   }
 }
