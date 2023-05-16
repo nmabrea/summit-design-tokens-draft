@@ -273,6 +273,49 @@
           "type": "color",
           "description": "core.ornamental-color.cloud.20"
         }
+      },
+      "cover": {
+        "on-primarySurface": {
+          "very-visible": {
+            "value": "{core.ornamental.color.black}",
+            "type": "color",
+            "description": "core.ornamental.color.black"
+          },
+          "visible": {
+            "basic": {
+              "value": "{core.ornamental.color.cloud.20}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.20"
+            },
+            "trendy": {
+              "edge": {
+                "value": "{core.ornamental.color.edge.40}",
+                "type": "color",
+                "description": "core.ornamental.color.edge.40"
+              },
+              "future": {
+                "value": "{core.ornamental.color.future.80}",
+                "type": "color",
+                "description": "core.ornamental.color.future.80"
+              },
+              "data": {
+                "value": "{core.ornamental.color.data.50}",
+                "type": "color",
+                "description": "core.ornamental.color.data.20"
+              },
+              "insight": {
+                "value": "{core.ornamental.color.insight.70}",
+                "type": "color",
+                "description": "core.ornamental.color.insight.70"
+              },
+              "platform": {
+                "value": "{core.ornamental.color.platform.60}",
+                "type": "color",
+                "description": "core.ornamental.color.platform.60"
+              }
+            }
+          }
+        }
       }
     }
   }
