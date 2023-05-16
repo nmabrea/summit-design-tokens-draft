@@ -28,8 +28,7 @@
           "value": "{core.space-size.sm}",
           "type": "spacing"
         }
-      }
-    },
+      },
     "cta-label-type": {
       "xl": {
         "value": "{core.ornamental-type.desktop.display.2xl}",
@@ -59,6 +58,7 @@
         "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
       }
     },
+  },
     "link-label-type": {
       "emphasized": {
         "value": "{core.basic-type.desktop.text.xs.bold}",
