@@ -93,17 +93,17 @@
         },
         "bg": {
           "default": {
-            "value": "{all.colors.interaction.primary.40}",
+            "value": "{all.colors.interaction-cue.onSecondary.medium-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.40"
           },
           "hover": {
-            "value": "{all.colors.interaction.primary.50}",
+            "value": "{all.colors.interaction-cue.onSecondary.low-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.50"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.60}",
+            "value": "{all.colors.interaction-cue.onSecondary.lower-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.60"
           },
@@ -174,12 +174,12 @@
             "description": "all.interaction-color.primary.20"
           },
           "hover": {
-            "value": "{all.colors.interaction.primary.30}",
+            "value": "{all.colors.interaction-cue.onSecondary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.40}",
+            "value": "{all.colors.interaction-cue.onSecondary.medium-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.40"
           },
@@ -252,12 +252,12 @@
             "description": "core.ornamental-color.black"
           },
           "hover": {
-            "value": "{all.colors.interaction.secondary.80}",
+            "value": "{all.colors.interaction-cue.onPrimary.highest-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.80"
           },
           "pressed": {
-            "value": "{all.colors.interaction.secondary.60}",
+            "value": "{all.colors.interaction-cue.onPrimary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.60"
           },
@@ -328,12 +328,12 @@
             "description": "core.ornamental-color.white"
           },
           "hover": {
-            "value": "{all.colors.interaction.secondary.20}",
+            "value": "{all.colors.interaction-cue.onPrimary.lowest-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.20"
           },
           "pressed": {
-            "value": "{all.colors.interaction.secondary.40}",
+            "value": "{all.colors.interaction-cue.onPrimary.low-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.40"
           },
@@ -379,12 +379,12 @@
             "description": "core.ornamental-color.black"
           },
           "hover": {
-            "value": "{all.colors.interaction.secondary.70}",
+            "value": "{all.colors.interaction-cue.onPrimary.higher-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.70"
           },
           "pressed": {
-            "value": "{all.colors.interaction.secondary.60}",
+            "value": "{all.colors.interaction-cue.onPrimary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.60"
           },
@@ -519,12 +519,12 @@
             "description": "core.ornamental-color.white"
           },
           "hover": {
-            "value": "{all.colors.interaction.primary.30}",
+            "value": "{all.colors.interaction-cue.onSecondary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.40}",
+            "value": "{all.colors.interaction-cue.onSecondary.medium-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.40"
           },
@@ -551,7 +551,7 @@
             "description": "Inherits the color beneath it (from parent element)\n\ncore.ornamental-color.black"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.90}",
+            "value": "{all.colors.interaction.onSecondary.90}",
             "type": "color",
             "description": "all.interaction-color.primary.90"
           },
@@ -666,7 +666,7 @@
             "description": "all.buttons.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{all.colors.interaction.secondary.60}",
+            "value": "{all.colors.interaction-cue.onPrimary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.60"
           },
@@ -688,7 +688,7 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{all.colors.interaction.secondary.20}",
+            "value": "{all.colors.interaction-cue.onPrimary.lowest-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.20"
           },
@@ -742,7 +742,7 @@
             "description": "all.buttons.cta-label-color.light"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.40}",
+            "value": "{all.colors.interaction-cue.onSecondary.medium-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.40"
           },
@@ -764,12 +764,12 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{all.colors.interaction.primary.80}",
+            "value": "{all.colors.interaction.onSecondary.80}",
             "type": "color",
             "description": "all.interaction-color.primary.80"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.90}",
+            "value": "{all.colors.interaction.onSecondary.90}",
             "type": "color",
             "description": "all.interaction-color.primary.90"
           },
@@ -815,12 +815,12 @@
             "description": "all.buttons.cta-label-color.dark"
           },
           "hover": {
-            "value": "{all.colors.interaction.secondary.70}",
+            "value": "{all.colors.interaction-cue.onPrimary.higher-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.70"
           },
           "pressed": {
-            "value": "{all.colors.interaction.secondary.60}",
+            "value": "{all.colors.interaction-cue.onPrimary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.60"
           },
@@ -960,12 +960,12 @@
             "description": "all.buttons.cta-label-color.light"
           },
           "hover": {
-            "value": "{all.colors.interaction.primary.30}",
+            "value": "{all.colors.interaction-cue.onSecondary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.40}",
+            "value": "{all.colors.interaction-cue.onSecondary.medium-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.40"
           },
@@ -1112,7 +1112,7 @@
             "description": "all.field-label-color.dark"
           },
           "pressed": {
-            "value": "{all.colors.interaction.secondary.60}",
+            "value": "{all.colors.interaction-cue.onPrimary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.60"
           },
@@ -1223,7 +1223,7 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{all.colors.interaction.secondary.70}",
+            "value": "{all.colors.interaction-cue.onPrimary.higher-contrast}",
             "type": "color",
             "description": "all.interaction-color.secondary.70"
           },
@@ -1257,7 +1257,7 @@
             "description": "all.field-label-color.light"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.40}",
+            "value": "{all.colors.interaction-cue.onSecondary.medium-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.40"
           },
@@ -1368,7 +1368,7 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{all.colors.interaction.primary.30}",
+            "value": "{all.colors.interaction-cue.onSecondary.high-contrast}",
             "type": "color",
             "description": "all.interaction-color.primary.30"
           },
@@ -1432,7 +1432,7 @@
               "description": "all.field-label-color.dark"
             },
             "pressed": {
-              "value": "{all.colors.interaction.secondary.60}",
+              "value": "{all.colors.interaction-cue.onPrimary.high-contrast}",
               "type": "color",
               "description": "all.interaction-color.secondary.60"
             },
@@ -1535,7 +1535,7 @@
                 "y": "1",
                 "blur": "0",
                 "spread": "1",
-                "color": "{all.colors.interaction.secondary.20}",
+                "color": "{all.colors.interaction-cue.onPrimary.lowest-contrast}",
                 "type": "dropShadow"
               },
               "type": "boxShadow",
@@ -1566,7 +1566,7 @@
               "description": "Mirrors active text state\n\ncomp.input-field.ornamental.on-light.text.active"
             },
             "hover": {
-              "value": "{all.colors.interaction.secondary.70}",
+              "value": "{all.colors.interaction-cue.onPrimary.higher-contrast}",
               "type": "color",
               "description": "all.interaction-color.secondary.70"
             },
@@ -1576,7 +1576,7 @@
               "description": "Mirrors the hover state\n\ncomp.input-field.ornamental.on-light.border-color.hover"
             },
             "pressed": {
-              "value": "{all.colors.interaction.secondary.70}",
+              "value": "{all.colors.interaction-cue.onPrimary.higher-contrast}",
               "type": "color",
               "description": "all.interaction-color.secondary.70"
             },
@@ -1608,12 +1608,12 @@
               "description": "all.field-label-color.dark"
             },
             "hover": {
-              "value": "{all.colors.interaction.primary.20}",
+              "value": "{all.colors.interaction-cue.onSecondary.higher-contrast}",
               "type": "color",
               "description": "all.interaction-color.primary.20"
             },
             "pressed": {
-              "value": "{all.colors.interaction.primary.30}",
+              "value": "{all.colors.interaction-cue.onSecondary.high-contrast}",
               "type": "color",
               "description": "all.interaction-color.secondary.30"
             },
@@ -1785,7 +1785,7 @@
             "description": "core.ornamental-color.black"
           },
           "pressed": {
-            "value": "{all.colors.interaction.primary.90}",
+            "value": "{all.colors.interaction.onSecondary.90}",
             "type": "color",
             "description": "all.interaction-color.primary.90"
           }
@@ -1813,7 +1813,7 @@
           }
         },
         "shadow-color": {
-          "value": "{all.colors.interaction.secondary.60}",
+          "value": "{all.colors.interaction-cue.onPrimary.high-contrast}",
           "type": "color",
           "description": "all.interaction-color.secondary.60"
         }
@@ -1825,7 +1825,7 @@
           "description": "core.ornamental-color.black"
         },
         "shadow-color": {
-          "value": "{all.colors.interaction.primary.30}",
+          "value": "{all.colors.interaction-cue.onSecondary.high-contrast}",
           "type": "color",
           "description": "all.interaction-color.primary.30"
         },
