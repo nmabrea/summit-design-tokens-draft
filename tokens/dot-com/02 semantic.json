@@ -197,18 +197,75 @@
             "type": "color",
             "description": "core.ornamental-color.edge.90"
           }
+        },
+        "tertiary": {
+          "10": {
+            "value": "{core.ornamental-color.cloud.10}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.10"
+          },
+          "20": {
+            "value": "{core.ornamental-color.cloud.20}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.20"
+          },
+          "30": {
+            "value": "{core.ornamental-color.cloud.30}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.30"
+          },
+          "40": {
+            "value": "{core.ornamental-color.cloud.40}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.40"
+          },
+          "50": {
+            "value": "{core.ornamental-color.cloud.50}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.50"
+          },
+          "60": {
+            "value": "{core.ornamental-color.cloud.60}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.60"
+          },
+          "70": {
+            "value": "{core.ornamental-color.cloud.70}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.70"
+          },
+          "80": {
+            "value": "{core.ornamental-color.cloud.80}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.80"
+          },
+          "90": {
+            "value": "{core.ornamental-color.cloud.90}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.90"
+          }
         }
       },
       "canvas": {
-        "light": {
+        "primary": {
           "value": "{core.ornamental-color.white}",
           "type": "color",
           "description": "core.ornamental-color.white"
         },
-        "dark": {
+        "secondary": {
           "value": "{core.ornamental-color.black}",
           "type": "color",
           "description": "core.ornamental-color.black"
+        },
+        "tertiary": {
+          "value": "{core.ornamental-color.cloud.10}",
+          "type": "color",
+          "description": "core.ornamental-color.cloud.10"
+        },
+        "quarternary": {
+          "value": "{core.ornamental-color.cloud.20}",
+          "type": "color",
+          "description": "core.ornamental-color.cloud.20"
         }
       }
     }
