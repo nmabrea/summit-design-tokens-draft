@@ -77,1918 +77,1924 @@
         "description": "128px"
       }
     },
-    "ornamental-color": {
-      "cloud": {
-        "10": {
-          "value": "{color.gray.10}",
-          "type": "color",
-          "description": "rgb(244 238 236)\nlch(97.5 1.28 251)\nPantone 663 C\n1.15 | Invisible"
-        },
-        "20": {
-          "value": "{color.gray.20}",
-          "type": "color",
-          "description": "rgb(226 216 213)\nlch(87.09% 4.21 41.23)\nPantone 7604 C\n1.40 | Lc 19.32"
-        },
-        "30": {
-          "value": "{color.gray.30}",
-          "type": "color",
-          "description": "rgb(196 185 179)\nlch(75.94% 5.57 54.31)\nPantone Warm Gray 2 C\n1.92 | Lc 36.72"
-        },
-        "40": {
-          "value": "{color.gray.40}",
-          "type": "color",
-          "description": "rgb(168 160 155)\nlch(66.44% 4.38 57.82)\nPantone Warm Gray 6 C\n2.57 | Lc 50.32"
-        },
-        "50": {
-          "value": "{color.gray.50}",
-          "type": "color",
-          "description": "rgb(142 134 129)\nlch(56.53% 4.53 57.74)\nPantone Warm Gray 8 C\n3.57 | Lc 63.34"
-        },
-        "60": {
-          "value": "{color.gray.60}",
-          "type": "color",
-          "description": "rgb(126 115 109)\nlch(49.33% 6.12 54.07)\nPantone Warm Gray 9 C\n4.60 | Lc 72.01"
-        },
-        "70": {
-          "value": "{color.gray.70}",
-          "type": "color",
-          "description": "rgb(91 85 80)\nlch(36.61% 4.25 65.01)\nPantone 411 C\n7.34 | Lc 85.53"
-        },
-        "80": {
-          "value": "{color.gray.80}",
-          "type": "color",
-          "description": "rgb(73 67 63)\nlch(28.92% 3.97 59.17)\nPantone 446 C\n9.73 | Lc 92.58"
-        },
-        "90": {
-          "value": "{color.gray.90}",
-          "type": "color",
-          "description": "rgb(37 32 30)\nlch(12.77% 3.13 46.83)\nPantone Black 6 C\n16.10 | Lc 103.07"
-        }
-      },
-      "data": {
-        "10": {
-          "value": "{color.orange.10}",
-          "type": "color",
-          "description": "rgb(255 231 214)\nlch(93.28% 13.15 60.44)\nPantone 475 C\n1.19 | Invisible"
-        },
-        "20": {
-          "value": "{color.orange.20}",
-          "type": "color",
-          "description": "rgb(255 209 179)\nlch(87.33% 25.32 57.46)\nPantone 7507 C\n1.40 | Lc 19.25"
-        },
-        "30": {
-          "value": "{color.orange.30}",
-          "type": "color",
-          "description": "rgb(255 166 107)\nlch(76.36% 53.47 56.27)\nPantone 1365 C\n1.92 | Lc 36.55"
-        },
-        "40": {
-          "value": "{color.orange.40}",
-          "type": "color",
-          "description": "rgb(255 133 51)\nlch(68.94% 76.54 55.16)\nPantone 151 C\n2.43 | Lc 47.21"
-        },
-        "50": {
-          "value": "{color.orange.50}",
-          "type": "color",
-          "description": "rgb(255 102 0)\nlch(63.16% 92.37 51.85)\nPantone Bright Orange C\n2.94 | Lc 54.79"
-        },
-        "60": {
-          "value": "{color.orange.60}",
-          "type": "color",
-          "description": "rgb(204 82 0)\nlch(51.25% 77.65 52.43)\nPantone 1665 C\n4.40 | Lc 69.58"
-        },
-        "70": {
-          "value": "{color.orange.70}",
-          "type": "color",
-          "description": "rgb(174 47 0)\nlch(40.34% 73.75 46.34)\nPantone 7626 C\n6.55 | Lc 81.09"
-        },
-        "80": {
-          "value": "{color.orange.80}",
-          "type": "color",
-          "description": "rgb(133 33 0)\nlch(30.18% 60.21 45.68)\nPantone 7622 C\n9.48 | Lc 90.66"
-        },
-        "90": {
-          "value": "{color.orange.90}",
-          "type": "color",
-          "description": "rgb(88 28 0)\nlch(20.06% 40.44 47.64)\nPantone 490 C\n13.28 | Lc 98.95"
-        }
-      },
-      "edge": {
-        "10": {
-          "value": "{color.green.10}",
-          "type": "color",
-          "description": "rgb(245 255 194)\nlch(98.14% 30.05 110.69)\nPantone 379 C\n1.05 | Invisible"
-        },
-        "20": {
-          "value": "{color.green.20}",
-          "type": "color",
-          "description": "rgb(231 255 122)\nlch(96.26% 63.57 110.01)\nPantone 380 C\n1.11 | Lc Invisible"
-        },
-        "30": {
-          "value": "{color.green.30}",
-          "type": "color",
-          "description": "rgb(208 255 0)\nlch(94.19% 95.47 111.05)\nPantone 381 C\n1.17 | Invisible"
-        },
-        "40": {
-          "value": "{color.green.40}",
-          "type": "color",
-          "description": "rgb(178 227 3)\nlch(84.47% 87.69 112.85)\nPantone 375 C\n1.51 | 23.64"
-        },
-        "50": {
-          "value": "{color.green.50}",
-          "type": "color",
-          "description": "rgb(121 204 5)\nlch(74.54% 84.78 122.45)\nPantone 369 C\n2.01 | Lc 38.60"
-        },
-        "60": {
-          "value": "{color.green.60}",
-          "type": "color",
-          "description": "rgb(74 168 0)\nlch(61.3% 77.05 127.67)\nPantone 363 C\n3.05 | Lc 56.84"
-        },
-        "70": {
-          "value": "{color.green.70}",
-          "type": "color",
-          "description": "rgb(66 113 0)\nlch(42.84% 55.12 121.81)\nPantone 364 C\n5.84 | Lc 78.95"
-        },
-        "80": {
-          "value": "{color.green.80}",
-          "type": "color",
-          "description": "rgb(53 80 0)\nlch(30.74% 42.26 117.61)\nPantone 5743 C\n9.14 | Lc 90.83"
-        },
-        "90": {
-          "value": "{color.green.90}",
-          "type": "color",
-          "description": "rgb(41 58 0)\nlch(22.04% 32.84 115.42)\nPantone 5743 C\n12.36 | Lc 97.99"
-        }
-      },
-      "future": {
-        "10": {
-          "value": "{color.blue.10}",
-          "type": "color",
-          "description": "rgb(231 247 254)\nlch(96.19% 6.9 229.84)\nPantone 290 C\n1.10 | Invisible"
-        },
-        "20": {
-          "value": "{color.blue.20}",
-          "type": "color",
-          "description": "rgb(153 221 255)\nlch(84.48% 28.56 236.37)\nPantone Blue 0821 C\n1.49 | Lc 22.76"
-        },
-        "30": {
-          "value": "{color.blue.30}",
-          "type": "color",
-          "description": "rgb(51 177 255)\nlch(68.25% 51.2 253.\nPantone 298 C\n2.37 | Lc 46.18"
-        },
-        "40": {
-          "value": "{color.blue.40}",
-          "type": "color",
-          "description": "rgb(40 162 253)\nlch(63.61% 55.99 261.19)\nPantone 299 C\n2.74 | Lc 52.39"
-        },
-        "50": {
-          "value": "{color.blue.50}",
-          "type": "color",
-          "description": "rgb(0 128 255)\nlch(53.53% 73.07 276.81)\nPantone 2727 C\n3.80 | Lc 64.60"
-        },
-        "60": {
-          "value": "{color.blue.60}",
-          "type": "color",
-          "description": "rgb(0 106 255)\nlch(47.49% 85.16 284.70)\nPantone 2728 C\n4.66 | Lc 71.31"
-        },
-        "70": {
-          "value": "{color.blue.70}",
-          "type": "color",
-          "description": "rgb(12 68 218)\nlch(34.95% 88.43 291.81)\nPantone 293 C\n7.36 | Lc 84.35"
-        },
-        "80": {
-          "value": "{color.blue.80}",
-          "type": "color",
-          "description": "rgb(0 64 153)\nlch(28.4% 55.96 282.86)\nPantone Blue 072 C\n9.57 | Lc 91.32"
-        },
-        "90": {
-          "value": "{color.blue.90}",
-          "type": "color",
-          "description": "rgb(0 37 102)\nlch(16.16% 43.95 285.24)\nPantone 648 C\n14.42 | Lc 100.56"
-        }
-      },
-      "insight": {
-        "10": {
-          "value": "{color.purple.10}",
-          "type": "color",
-          "description": "rgb(255 229 243)\nlch(93.39% 11.43 342.68)\nPantone 670 C\n1.18 | Invisible"
-        },
-        "20": {
-          "value": "{color.purple.20}",
-          "type": "color",
-          "description": "rgb(244 190 219)\nlch(82.56% 24.24 343.93)\nPantone 243 C\n1.59 | Lc 26.56"
-        },
-        "30": {
-          "value": "{color.purple.30}",
-          "type": "color",
-          "description": "rgb(240 161 201)\nlch(75.13% 35.18 346.94)\nPantone 223 C\n1.97 | Lc 37.91"
-        },
-        "40": {
-          "value": "{color.purple.40}",
-          "type": "color",
-          "description": "rgb(210 121 169)\nlch(62.04% 41.24 346.12)\nPantone 211 C\n2.98 | Lc 56.14"
-        },
-        "50": {
-          "value": "{color.purple.50}",
-          "type": "color",
-          "description": "rgb(207 105 161)\nlch(58.2% 47.26 346.47)\nPantone 212 C\n3.39 | Lc 61.02"
-        },
-        "60": {
-          "value": "{color.purple.60}",
-          "type": "color",
-          "description": "rgb(178 52 119)\nlch(43.49% 56 351.28)\nPantone 7424 C\n5.75 | Lc 77.73"
-        },
-        "70": {
-          "value": "{color.purple.70}",
-          "type": "color",
-          "description": "rgb(153 23 99)\nlch(34.92% 56.08 350.47)\nPantone 7648 C\n7.90 | Lc 85.84"
-        },
-        "80": {
-          "value": "{color.purple.80}",
-          "type": "color",
-          "description": "rgb(128 20 78)\nlch(28.81% 47.94 353.63)\nPantone 222 C\n9.87 | Lc 91.48"
-        },
-        "90": {
-          "value": "{color.purple.90}",
-          "type": "color",
-          "description": "rgb(77 25 53)\nlch(18.21% 27.87 349.02)\nPantone 690 C\n13.94 | Lc 100.11"
-        }
-      },
-      "platform": {
-        "10": {
-          "value": "{color.red.10}",
-          "type": "color",
-          "description": "rgb(254 241 240)\nlch(96.16% 4.89 25.87)\nPantone 705 C\n1.10 | Invisible"
-        },
-        "20": {
-          "value": "{color.red.20}",
-          "type": "color",
-          "description": "rgb(252 201 197)\nlch(85.46% 20.44 26.95)\nPantone 705 C\n1.47 | Lc 22.16"
-        },
-        "30": {
-          "value": "{color.red.30}",
-          "type": "color",
-          "description": "rgb(255 164 165)\nlch(76.77% 37.49 22.41)\nPantone 169 C\n1.89 | Lc 35.74"
-        },
-        "40": {
-          "value": "{color.red.40}",
-          "type": "color",
-          "description": "rgb(247 110 100)\nlch(63.87% 62.37 31.73)\nPantone 805 C\n2.85 | Lc 53.94"
-        },
-        "50": {
-          "value": "{color.red.50}",
-          "type": "color",
-          "description": "rgb(235 26 12)\nlch(50.97% 96.65 40.41)\nPantone 485 C\n4.48 | Lc 68.70"
-        },
-        "60": {
-          "value": "{color.red.60}",
-          "type": "color",
-          "description": "rgb(186 22 10)\nlch(40.44% 80.08 40.22)\nPantone 186 C\n6.55 | Lc 80.31"
-        },
-        "70": {
-          "value": "{color.red.70}",
-          "type": "color",
-          "description": "rgb(167 0 20)\nlch(35.28% 72.40 35.36)\nPantone 7621 C\n7.91 | Lc 84.83"
-        },
-        "80": {
-          "value": "{color.red.80}",
-          "type": "color",
-          "description": "rgb(136 16 7)\nlch(29.06% 62.38 39.68)\nPantone 7427 C\n9.89 | Lc 91.11"
-        },
-        "90": {
-          "value": "{color.red.90}",
-          "type": "color",
-          "description": "rgb(99 0 3)\nlch(19.15% 49.47 35.19)\nPantone 188 C\n13.71 | Lc 98.37"
-        }
-      },
-      "black": {
-        "value": "{color.black}",
-        "type": "color",
-        "description": "rgb(0 0 0)\nlch(0% 0 0)\nPantone Black 6 C\n21 | Lc 106.0"
-      },
-      "white": {
-        "value": "{color.white}",
-        "type": "color",
-        "description": "rgb(255 255 255)\nlch(100% 0 0)\nNo Pantone color\n0 | Invisible"
-      },
-      "fastly-red": {
-        "value": "#FF282D",
-        "type": "color",
-        "description": "Fastly's official brand red.\nNot for web interface use.\ncmyk(0,84,82,0)\nPantone 485 C"
-      }
-    },
-    "utility-color": {
-      "error": {
-        "10": {
-          "value": "#FEF1F1",
-          "type": "color",
-          "description": "#FEF1F1"
-        },
-        "20": {
-          "value": "#FCBFBB",
-          "type": "color",
-          "description": "#FCBFBB"
-        },
-        "30": {
-          "value": "#F87F77",
-          "type": "color",
-          "description": "#F87F77"
-        },
-        "40": {
-          "value": "#F5483D",
-          "type": "color",
-          "description": "#F5483D"
-        },
-        "50": {
-          "value": "#E9190C",
-          "type": "color",
-          "description": "#E9190C"
-        },
-        "60": {
-          "value": "#BD140A",
-          "type": "color",
-          "description": "#BD140A"
-        },
-        "70": {
-          "value": "#921008",
-          "type": "color",
-          "description": "#921008"
-        },
-        "80": {
-          "value": "#660B05",
-          "type": "color",
-          "description": "#660B05"
-        },
-        "90": {
-          "value": "#3A0603",
-          "type": "color",
-          "description": "#3A0603"
-        }
-      },
-      "success": {
-        "10": {
-          "value": "#F2FCF2",
-          "type": "color",
-          "description": "#F2FCF2"
-        },
-        "20": {
-          "value": "#C1EEBD",
-          "type": "color",
-          "description": "#C1EEBD"
-        },
-        "30": {
-          "value": "#8FE088",
-          "type": "color",
-          "description": "#8FE088"
-        },
-        "40": {
-          "value": "#5DD354",
-          "type": "color",
-          "description": "#5DD354"
-        },
-        "50": {
-          "value": "#39B52F",
-          "type": "color",
-          "description": "#39B52F"
-        },
-        "60": {
-          "value": "#2F9527",
-          "type": "color",
-          "description": "#2F9527"
-        },
-        "70": {
-          "value": "#25741E",
-          "type": "color",
-          "description": "#25741E"
-        },
-        "80": {
-          "value": "#1A5416",
-          "type": "color",
-          "description": "#1A5416"
-        },
-        "90": {
-          "value": "#10330D",
-          "type": "color",
-          "description": "#10330D"
-        }
-      },
-      "warning": {
-        "10": {
-          "value": "#FFF5E0",
-          "type": "color",
-          "description": "#FFF5E0"
-        },
-        "20": {
-          "value": "#FFE1A8",
-          "type": "color",
-          "description": "#FFE1A8"
-        },
-        "30": {
-          "value": "#FFCE70",
-          "type": "color",
-          "description": "#FFCE70"
-        },
-        "40": {
-          "value": "#FFBB38",
-          "type": "color",
-          "description": "#FFBB38"
-        },
-        "50": {
-          "value": "#FFA800",
-          "type": "color",
-          "description": "#FFA800"
-        },
-        "60": {
-          "value": "#CC8600",
-          "type": "color",
-          "description": "#CC8600"
-        },
-        "70": {
-          "value": "#996500",
-          "type": "color",
-          "description": "996500"
-        },
-        "80": {
-          "value": "#664300",
-          "type": "color",
-          "description": "#664300"
-        },
-        "90": {
-          "value": "#332200",
-          "type": "color",
-          "description": "#332200"
-        }
-      },
-      "gray": {
-        "10": {
-          "value": "#F3F4F6",
-          "type": "color",
-          "description": "#F3F4F6"
-        },
-        "20": {
-          "value": "#DCE0E4",
-          "type": "color",
-          "description": "#DCE0E4"
-        },
-        "30": {
-          "value": "#BAC1C9",
-          "type": "color",
-          "description": "#BAC1C9"
-        },
-        "40": {
-          "value": "#9EA8B2",
-          "type": "color",
-          "description": "#9EA8B2"
-        },
-        "50": {
-          "value": "#818E9C",
-          "type": "color",
-          "description": "#818E9C"
-        },
-        "60": {
-          "value": "#677483",
-          "type": "color",
-          "description": "#677483"
-        },
-        "70": {
-          "value": "#515B66",
-          "type": "color",
-          "description": "#515B66"
-        },
-        "80": {
-          "value": "#3A424A",
-          "type": "color",
-          "description": "#3A424A"
-        },
-        "90": {
-          "value": "#24282D",
-          "type": "color",
-          "description": "#24282D"
-        }
-      }
-    },
-    "ornamental-type": {
-      "desktop": {
-        "display": {
-          "sm": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.bold}",
-              "lineHeight": "{line-height.md}",
-              "fontSize": "{font-size.md}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 16px"
+    "ornamental": {
+      "color": {
+        "cloud": {
+          "10": {
+            "value": "{color.gray.10}",
+            "type": "color",
+            "description": "rgb(244 238 236)\nlch(97.5 1.28 251)\nPantone 663 C\n1.15 | Invisible"
           },
-          "md": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h6 content\nFont size: 20px"
+          "20": {
+            "value": "{color.gray.20}",
+            "type": "color",
+            "description": "rgb(226 216 213)\nlch(87.09% 4.21 41.23)\nPantone 7604 C\n1.40 | Lc 19.32"
           },
-          "lg": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.2xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h5 content\nFont size: 24px"
+          "30": {
+            "value": "{color.gray.30}",
+            "type": "color",
+            "description": "rgb(196 185 179)\nlch(75.94% 5.57 54.31)\nPantone Warm Gray 2 C\n1.92 | Lc 36.72"
           },
-          "xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.3xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h4 content\nFont size: 32px"
+          "40": {
+            "value": "{color.gray.40}",
+            "type": "color",
+            "description": "rgb(168 160 155)\nlch(66.44% 4.38 57.82)\nPantone Warm Gray 6 C\n2.57 | Lc 50.32"
           },
-          "2xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.4xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h3 content\nFont size: 40px"
+          "50": {
+            "value": "{color.gray.50}",
+            "type": "color",
+            "description": "rgb(142 134 129)\nlch(56.53% 4.53 57.74)\nPantone Warm Gray 8 C\n3.57 | Lc 63.34"
           },
-          "3xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.5xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h2 content\nFont size: 48px"
+          "60": {
+            "value": "{color.gray.60}",
+            "type": "color",
+            "description": "rgb(126 115 109)\nlch(49.33% 6.12 54.07)\nPantone Warm Gray 9 C\n4.60 | Lc 72.01"
           },
-          "4xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.6xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h1 content\nFont size: 64px"
+          "70": {
+            "value": "{color.gray.70}",
+            "type": "color",
+            "description": "rgb(91 85 80)\nlch(36.61% 4.25 65.01)\nPantone 411 C\n7.34 | Lc 85.53"
           },
-          "5xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.7xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Digital asset headlines only.\nFont size: 80px"
+          "80": {
+            "value": "{color.gray.80}",
+            "type": "color",
+            "description": "rgb(73 67 63)\nlch(28.92% 3.97 59.17)\nPantone 446 C\n9.73 | Lc 92.58"
           },
-          "6xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.8xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Digital asset headlines only.\nFont size: 96px"
+          "90": {
+            "value": "{color.gray.90}",
+            "type": "color",
+            "description": "rgb(37 32 30)\nlch(12.77% 3.13 46.83)\nPantone Black 6 C\n16.10 | Lc 103.07"
           }
+        },
+        "data": {
+          "10": {
+            "value": "{color.orange.10}",
+            "type": "color",
+            "description": "rgb(255 231 214)\nlch(93.28% 13.15 60.44)\nPantone 475 C\n1.19 | Invisible"
+          },
+          "20": {
+            "value": "{color.orange.20}",
+            "type": "color",
+            "description": "rgb(255 209 179)\nlch(87.33% 25.32 57.46)\nPantone 7507 C\n1.40 | Lc 19.25"
+          },
+          "30": {
+            "value": "{color.orange.30}",
+            "type": "color",
+            "description": "rgb(255 166 107)\nlch(76.36% 53.47 56.27)\nPantone 1365 C\n1.92 | Lc 36.55"
+          },
+          "40": {
+            "value": "{color.orange.40}",
+            "type": "color",
+            "description": "rgb(255 133 51)\nlch(68.94% 76.54 55.16)\nPantone 151 C\n2.43 | Lc 47.21"
+          },
+          "50": {
+            "value": "{color.orange.50}",
+            "type": "color",
+            "description": "rgb(255 102 0)\nlch(63.16% 92.37 51.85)\nPantone Bright Orange C\n2.94 | Lc 54.79"
+          },
+          "60": {
+            "value": "{color.orange.60}",
+            "type": "color",
+            "description": "rgb(204 82 0)\nlch(51.25% 77.65 52.43)\nPantone 1665 C\n4.40 | Lc 69.58"
+          },
+          "70": {
+            "value": "{color.orange.70}",
+            "type": "color",
+            "description": "rgb(174 47 0)\nlch(40.34% 73.75 46.34)\nPantone 7626 C\n6.55 | Lc 81.09"
+          },
+          "80": {
+            "value": "{color.orange.80}",
+            "type": "color",
+            "description": "rgb(133 33 0)\nlch(30.18% 60.21 45.68)\nPantone 7622 C\n9.48 | Lc 90.66"
+          },
+          "90": {
+            "value": "{color.orange.90}",
+            "type": "color",
+            "description": "rgb(88 28 0)\nlch(20.06% 40.44 47.64)\nPantone 490 C\n13.28 | Lc 98.95"
+          }
+        },
+        "edge": {
+          "10": {
+            "value": "{color.green.10}",
+            "type": "color",
+            "description": "rgb(245 255 194)\nlch(98.14% 30.05 110.69)\nPantone 379 C\n1.05 | Invisible"
+          },
+          "20": {
+            "value": "{color.green.20}",
+            "type": "color",
+            "description": "rgb(231 255 122)\nlch(96.26% 63.57 110.01)\nPantone 380 C\n1.11 | Lc Invisible"
+          },
+          "30": {
+            "value": "{color.green.30}",
+            "type": "color",
+            "description": "rgb(208 255 0)\nlch(94.19% 95.47 111.05)\nPantone 381 C\n1.17 | Invisible"
+          },
+          "40": {
+            "value": "{color.green.40}",
+            "type": "color",
+            "description": "rgb(178 227 3)\nlch(84.47% 87.69 112.85)\nPantone 375 C\n1.51 | 23.64"
+          },
+          "50": {
+            "value": "{color.green.50}",
+            "type": "color",
+            "description": "rgb(121 204 5)\nlch(74.54% 84.78 122.45)\nPantone 369 C\n2.01 | Lc 38.60"
+          },
+          "60": {
+            "value": "{color.green.60}",
+            "type": "color",
+            "description": "rgb(74 168 0)\nlch(61.3% 77.05 127.67)\nPantone 363 C\n3.05 | Lc 56.84"
+          },
+          "70": {
+            "value": "{color.green.70}",
+            "type": "color",
+            "description": "rgb(66 113 0)\nlch(42.84% 55.12 121.81)\nPantone 364 C\n5.84 | Lc 78.95"
+          },
+          "80": {
+            "value": "{color.green.80}",
+            "type": "color",
+            "description": "rgb(53 80 0)\nlch(30.74% 42.26 117.61)\nPantone 5743 C\n9.14 | Lc 90.83"
+          },
+          "90": {
+            "value": "{color.green.90}",
+            "type": "color",
+            "description": "rgb(41 58 0)\nlch(22.04% 32.84 115.42)\nPantone 5743 C\n12.36 | Lc 97.99"
+          }
+        },
+        "future": {
+          "10": {
+            "value": "{color.blue.10}",
+            "type": "color",
+            "description": "rgb(231 247 254)\nlch(96.19% 6.9 229.84)\nPantone 290 C\n1.10 | Invisible"
+          },
+          "20": {
+            "value": "{color.blue.20}",
+            "type": "color",
+            "description": "rgb(153 221 255)\nlch(84.48% 28.56 236.37)\nPantone Blue 0821 C\n1.49 | Lc 22.76"
+          },
+          "30": {
+            "value": "{color.blue.30}",
+            "type": "color",
+            "description": "rgb(51 177 255)\nlch(68.25% 51.2 253.\nPantone 298 C\n2.37 | Lc 46.18"
+          },
+          "40": {
+            "value": "{color.blue.40}",
+            "type": "color",
+            "description": "rgb(40 162 253)\nlch(63.61% 55.99 261.19)\nPantone 299 C\n2.74 | Lc 52.39"
+          },
+          "50": {
+            "value": "{color.blue.50}",
+            "type": "color",
+            "description": "rgb(0 128 255)\nlch(53.53% 73.07 276.81)\nPantone 2727 C\n3.80 | Lc 64.60"
+          },
+          "60": {
+            "value": "{color.blue.60}",
+            "type": "color",
+            "description": "rgb(0 106 255)\nlch(47.49% 85.16 284.70)\nPantone 2728 C\n4.66 | Lc 71.31"
+          },
+          "70": {
+            "value": "{color.blue.70}",
+            "type": "color",
+            "description": "rgb(12 68 218)\nlch(34.95% 88.43 291.81)\nPantone 293 C\n7.36 | Lc 84.35"
+          },
+          "80": {
+            "value": "{color.blue.80}",
+            "type": "color",
+            "description": "rgb(0 64 153)\nlch(28.4% 55.96 282.86)\nPantone Blue 072 C\n9.57 | Lc 91.32"
+          },
+          "90": {
+            "value": "{color.blue.90}",
+            "type": "color",
+            "description": "rgb(0 37 102)\nlch(16.16% 43.95 285.24)\nPantone 648 C\n14.42 | Lc 100.56"
+          }
+        },
+        "insight": {
+          "10": {
+            "value": "{color.purple.10}",
+            "type": "color",
+            "description": "rgb(255 229 243)\nlch(93.39% 11.43 342.68)\nPantone 670 C\n1.18 | Invisible"
+          },
+          "20": {
+            "value": "{color.purple.20}",
+            "type": "color",
+            "description": "rgb(244 190 219)\nlch(82.56% 24.24 343.93)\nPantone 243 C\n1.59 | Lc 26.56"
+          },
+          "30": {
+            "value": "{color.purple.30}",
+            "type": "color",
+            "description": "rgb(240 161 201)\nlch(75.13% 35.18 346.94)\nPantone 223 C\n1.97 | Lc 37.91"
+          },
+          "40": {
+            "value": "{color.purple.40}",
+            "type": "color",
+            "description": "rgb(210 121 169)\nlch(62.04% 41.24 346.12)\nPantone 211 C\n2.98 | Lc 56.14"
+          },
+          "50": {
+            "value": "{color.purple.50}",
+            "type": "color",
+            "description": "rgb(207 105 161)\nlch(58.2% 47.26 346.47)\nPantone 212 C\n3.39 | Lc 61.02"
+          },
+          "60": {
+            "value": "{color.purple.60}",
+            "type": "color",
+            "description": "rgb(178 52 119)\nlch(43.49% 56 351.28)\nPantone 7424 C\n5.75 | Lc 77.73"
+          },
+          "70": {
+            "value": "{color.purple.70}",
+            "type": "color",
+            "description": "rgb(153 23 99)\nlch(34.92% 56.08 350.47)\nPantone 7648 C\n7.90 | Lc 85.84"
+          },
+          "80": {
+            "value": "{color.purple.80}",
+            "type": "color",
+            "description": "rgb(128 20 78)\nlch(28.81% 47.94 353.63)\nPantone 222 C\n9.87 | Lc 91.48"
+          },
+          "90": {
+            "value": "{color.purple.90}",
+            "type": "color",
+            "description": "rgb(77 25 53)\nlch(18.21% 27.87 349.02)\nPantone 690 C\n13.94 | Lc 100.11"
+          }
+        },
+        "platform": {
+          "10": {
+            "value": "{color.red.10}",
+            "type": "color",
+            "description": "rgb(254 241 240)\nlch(96.16% 4.89 25.87)\nPantone 705 C\n1.10 | Invisible"
+          },
+          "20": {
+            "value": "{color.red.20}",
+            "type": "color",
+            "description": "rgb(252 201 197)\nlch(85.46% 20.44 26.95)\nPantone 705 C\n1.47 | Lc 22.16"
+          },
+          "30": {
+            "value": "{color.red.30}",
+            "type": "color",
+            "description": "rgb(255 164 165)\nlch(76.77% 37.49 22.41)\nPantone 169 C\n1.89 | Lc 35.74"
+          },
+          "40": {
+            "value": "{color.red.40}",
+            "type": "color",
+            "description": "rgb(247 110 100)\nlch(63.87% 62.37 31.73)\nPantone 805 C\n2.85 | Lc 53.94"
+          },
+          "50": {
+            "value": "{color.red.50}",
+            "type": "color",
+            "description": "rgb(235 26 12)\nlch(50.97% 96.65 40.41)\nPantone 485 C\n4.48 | Lc 68.70"
+          },
+          "60": {
+            "value": "{color.red.60}",
+            "type": "color",
+            "description": "rgb(186 22 10)\nlch(40.44% 80.08 40.22)\nPantone 186 C\n6.55 | Lc 80.31"
+          },
+          "70": {
+            "value": "{color.red.70}",
+            "type": "color",
+            "description": "rgb(167 0 20)\nlch(35.28% 72.40 35.36)\nPantone 7621 C\n7.91 | Lc 84.83"
+          },
+          "80": {
+            "value": "{color.red.80}",
+            "type": "color",
+            "description": "rgb(136 16 7)\nlch(29.06% 62.38 39.68)\nPantone 7427 C\n9.89 | Lc 91.11"
+          },
+          "90": {
+            "value": "{color.red.90}",
+            "type": "color",
+            "description": "rgb(99 0 3)\nlch(19.15% 49.47 35.19)\nPantone 188 C\n13.71 | Lc 98.37"
+          }
+        },
+        "black": {
+          "value": "{color.black}",
+          "type": "color",
+          "description": "rgb(0 0 0)\nlch(0% 0 0)\nPantone Black 6 C\n21 | Lc 106.0"
+        },
+        "white": {
+          "value": "{color.white}",
+          "type": "color",
+          "description": "rgb(255 255 255)\nlch(100% 0 0)\nNo Pantone color\n0 | Invisible"
+        },
+        "fastly-red": {
+          "value": "#FF282D",
+          "type": "color",
+          "description": "Fastly's official brand red.\nNot for web interface use.\ncmyk(0,84,82,0)\nPantone 485 C"
         }
       },
-      "mobile": {
-        "display": {
-          "sm": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.bold}",
-              "lineHeight": "{line-height.lg}",
-              "fontSize": "{font-size.sm}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+      "type": {
+        "desktop": {
+          "display": {
+            "sm": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.bold}",
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 16px"
             },
-            "type": "typography",
-            "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
-          },
-          "md": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.md}",
-              "fontSize": "{font-size.md}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "md": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h6 content\nFont size: 20px"
             },
-            "type": "typography",
-            "description": "Use this for h6 content\nFont size: 16px"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "lg": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.2xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h5 content\nFont size: 24px"
             },
-            "type": "typography",
-            "description": "Use this for h5 content\nFont size: 20px"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.2xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.3xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h4 content\nFont size: 32px"
             },
-            "type": "typography",
-            "description": "Use this for h4 content\nFont size: 24px"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.3xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "2xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.4xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h3 content\nFont size: 40px"
             },
-            "type": "typography",
-            "description": "Use this for h3 content\nFont size: 32px"
-          },
-          "3xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.4xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "3xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.5xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h2 content\nFont size: 48px"
             },
-            "type": "typography",
-            "description": "Use this for h2 content\nFont size: 40px"
-          },
-          "4xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.5xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "4xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.6xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h1 content\nFont size: 64px"
             },
-            "type": "typography",
-            "description": "Use this for h1 content\nFont size: 48px"
-          },
-          "5xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.6xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "5xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.7xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only.\nFont size: 80px"
             },
-            "type": "typography",
-            "description": "Digital asset headlines only. (Not for web)\n\nFont size: 64px"
-          },
-          "6xl": {
-            "value": {
-              "fontFamily": "{type-style.ornamental}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.7xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "6xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.8xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only.\nFont size: 96px"
+            }
+          }
+        },
+        "mobile": {
+          "display": {
+            "sm": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.bold}",
+                "lineHeight": "{line-height.lg}",
+                "fontSize": "{font-size.sm}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
             },
-            "type": "typography",
-            "description": "Digital asset headlines only. (Not for web)\n\nFont size: 80px"
+            "md": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h6 content\nFont size: 16px"
+            },
+            "lg": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h5 content\nFont size: 20px"
+            },
+            "xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.2xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h4 content\nFont size: 24px"
+            },
+            "2xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.3xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h3 content\nFont size: 32px"
+            },
+            "3xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.4xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h2 content\nFont size: 40px"
+            },
+            "4xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.5xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h1 content\nFont size: 48px"
+            },
+            "5xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.6xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only. (Not for web)\n\nFont size: 64px"
+            },
+            "6xl": {
+              "value": {
+                "fontFamily": "{type-style.ornamental}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.7xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only. (Not for web)\n\nFont size: 80px"
+            }
           }
         }
       }
     },
-    "utility-type": {
-      "desktop": {
-        "display": {
-          "sm": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.bold}",
-              "lineHeight": "{line-height.md}",
-              "fontSize": "{font-size.md}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 16px"
+    "utility": {
+      "color": {
+        "error": {
+          "10": {
+            "value": "#FEF1F1",
+            "type": "color",
+            "description": "#FEF1F1"
           },
-          "md": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h6 content\nFont size: 20px"
+          "20": {
+            "value": "#FCBFBB",
+            "type": "color",
+            "description": "#FCBFBB"
           },
-          "lg": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.2xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h5 content\nFont size: 24px"
+          "30": {
+            "value": "#F87F77",
+            "type": "color",
+            "description": "#F87F77"
           },
-          "xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.3xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h4 content\nFont size: 32px"
+          "40": {
+            "value": "#F5483D",
+            "type": "color",
+            "description": "#F5483D"
           },
-          "2xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.4xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h3 content\nFont size: 40px"
+          "50": {
+            "value": "#E9190C",
+            "type": "color",
+            "description": "#E9190C"
           },
-          "3xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.5xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h2 content\nFont size: 48px"
+          "60": {
+            "value": "#BD140A",
+            "type": "color",
+            "description": "#BD140A"
           },
-          "4xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.6xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h1 content\nFont size: 64px"
+          "70": {
+            "value": "#921008",
+            "type": "color",
+            "description": "#921008"
+          },
+          "80": {
+            "value": "#660B05",
+            "type": "color",
+            "description": "#660B05"
+          },
+          "90": {
+            "value": "#3A0603",
+            "type": "color",
+            "description": "#3A0603"
           }
         },
-        "text": {
-          "xs": {
-            "default": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "bold": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "italic": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.italic}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "bold-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "italic-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.italic}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "medium": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            }
+        "success": {
+          "10": {
+            "value": "#F2FCF2",
+            "type": "color",
+            "description": "#F2FCF2"
           },
-          "sm": {
-            "default": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "bold": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "italic": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.italic}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "bold-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "italic-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.italic}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            }
+          "20": {
+            "value": "#C1EEBD",
+            "type": "color",
+            "description": "#C1EEBD"
           },
-          "md": {
-            "medium": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.lg}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.lg}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "default": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "bold": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "italic": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.italic}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.none}"
-              },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "bold-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "italic-underline": {
-              "value": {
-                "fontFamily": "{type-style.basic}",
-                "fontWeight": "{type-weight.text.italic}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            }
+          "30": {
+            "value": "#8FE088",
+            "type": "color",
+            "description": "#8FE088"
+          },
+          "40": {
+            "value": "#5DD354",
+            "type": "color",
+            "description": "#5DD354"
+          },
+          "50": {
+            "value": "#39B52F",
+            "type": "color",
+            "description": "#39B52F"
+          },
+          "60": {
+            "value": "#2F9527",
+            "type": "color",
+            "description": "#2F9527"
+          },
+          "70": {
+            "value": "#25741E",
+            "type": "color",
+            "description": "#25741E"
+          },
+          "80": {
+            "value": "#1A5416",
+            "type": "color",
+            "description": "#1A5416"
+          },
+          "90": {
+            "value": "#10330D",
+            "type": "color",
+            "description": "#10330D"
+          }
+        },
+        "warning": {
+          "10": {
+            "value": "#FFF5E0",
+            "type": "color",
+            "description": "#FFF5E0"
+          },
+          "20": {
+            "value": "#FFE1A8",
+            "type": "color",
+            "description": "#FFE1A8"
+          },
+          "30": {
+            "value": "#FFCE70",
+            "type": "color",
+            "description": "#FFCE70"
+          },
+          "40": {
+            "value": "#FFBB38",
+            "type": "color",
+            "description": "#FFBB38"
+          },
+          "50": {
+            "value": "#FFA800",
+            "type": "color",
+            "description": "#FFA800"
+          },
+          "60": {
+            "value": "#CC8600",
+            "type": "color",
+            "description": "#CC8600"
+          },
+          "70": {
+            "value": "#996500",
+            "type": "color",
+            "description": "996500"
+          },
+          "80": {
+            "value": "#664300",
+            "type": "color",
+            "description": "#664300"
+          },
+          "90": {
+            "value": "#332200",
+            "type": "color",
+            "description": "#332200"
+          }
+        },
+        "gray": {
+          "10": {
+            "value": "#F3F4F6",
+            "type": "color",
+            "description": "#F3F4F6"
+          },
+          "20": {
+            "value": "#DCE0E4",
+            "type": "color",
+            "description": "#DCE0E4"
+          },
+          "30": {
+            "value": "#BAC1C9",
+            "type": "color",
+            "description": "#BAC1C9"
+          },
+          "40": {
+            "value": "#9EA8B2",
+            "type": "color",
+            "description": "#9EA8B2"
+          },
+          "50": {
+            "value": "#818E9C",
+            "type": "color",
+            "description": "#818E9C"
+          },
+          "60": {
+            "value": "#677483",
+            "type": "color",
+            "description": "#677483"
+          },
+          "70": {
+            "value": "#515B66",
+            "type": "color",
+            "description": "#515B66"
+          },
+          "80": {
+            "value": "#3A424A",
+            "type": "color",
+            "description": "#3A424A"
+          },
+          "90": {
+            "value": "#24282D",
+            "type": "color",
+            "description": "#24282D"
           }
         }
       },
-      "mobile": {
-        "text": {
-          "xs": {
-            "default": {
-              "value": "{core.utility-type.desktop.text.xs.default}",
+      "type": {
+        "desktop": {
+          "display": {
+            "sm": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.bold}",
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 16px"
             },
-            "underline": {
-              "value": "{core.utility-type.desktop.text.xs.underline}",
+            "md": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h6 content\nFont size: 20px"
             },
-            "bold": {
-              "value": "{core.utility-type.desktop.text.xs.bold}",
+            "lg": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.2xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h5 content\nFont size: 24px"
             },
-            "italic": {
-              "value": "{core.utility-type.desktop.text.xs.italic}",
+            "xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.3xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h4 content\nFont size: 32px"
             },
-            "bold-underline": {
-              "value": "{core.utility-type.desktop.text.xs.bold-underline}",
+            "2xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.4xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h3 content\nFont size: 40px"
             },
-            "italic-underline": {
-              "value": "{core.utility-type.desktop.text.xs.italic-underline}",
+            "3xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.5xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h2 content\nFont size: 48px"
             },
-            "medium": {
-              "value": "{core.utility-type.desktop.text.xs.medium}",
-              "type": "typography"
-            },
-            "medium-underline": {
-              "value": "{core.utility-type.desktop.text.xs.medium-underline}",
-              "type": "typography"
+            "4xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.6xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h1 content\nFont size: 64px"
             }
           },
-          "sm": {
-            "default": {
-              "value": "{core.utility-type.desktop.text.sm.default}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
+          "text": {
+            "xs": {
+              "default": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "italic": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.italic}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "bold-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "italic-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.italic}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "medium-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              }
             },
-            "underline": {
-              "value": "{core.utility-type.desktop.text.sm.underline}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
+            "sm": {
+              "default": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "medium-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "italic": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.italic}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "bold-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "italic-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.italic}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              }
             },
-            "bold": {
-              "value": "{core.utility-type.desktop.text.sm.bold}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\n\nFont size: 16px"
-            },
-            "italic": {
-              "value": "{core.utility-type.desktop.text.sm.italic}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\n\nFont size: 16px"
-            },
-            "bold-underline": {
-              "value": "{core.utility-type.desktop.text.sm.bold-underline}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "italic-underline": {
-              "value": "{core.utility-type.desktop.text.sm.italic-underline}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium": {
-              "value": "{core.utility-type.desktop.text.sm.medium}",
-              "type": "typography"
-            },
-            "medium-underline": {
-              "value": "{core.utility-type.desktop.text.sm.medium-underline}",
-              "type": "typography"
-            }
-          },
-          "md": {
-            "default": {
-              "value": "{core.utility-type.desktop.text.md.default}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "underline": {
-              "value": "{core.utility-type.desktop.text.md.underline}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "bold": {
-              "value": "{core.utility-type.desktop.text.md.bold}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "italic": {
-              "value": "{core.utility-type.desktop.text.md.italic}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "bold-underline": {
-              "value": "{core.utility-type.desktop.text.md.bold-underline}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "italic-underline": {
-              "value": "{core.utility-type.desktop.text.md.italic-underline}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "medium": {
-              "value": "{core.utility-type.desktop.text.md.medium}",
-              "type": "typography"
-            },
-            "medium-underline": {
-              "value": "{core.utility-type.desktop.text.md.medium-underline}",
-              "type": "typography"
+            "md": {
+              "medium": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.lg}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "medium-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.lg}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "default": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "italic": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.italic}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "italic-underline": {
+                "value": {
+                  "fontFamily": "{type-style.basic}",
+                  "fontWeight": "{type-weight.text.italic}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              }
             }
           }
         },
-        "display": {
-          "sm": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.bold}",
-              "lineHeight": "{line-height.lg}",
-              "fontSize": "{font-size.sm}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+        "mobile": {
+          "text": {
+            "xs": {
+              "default": {
+                "value": "{core.utility.type.desktop.text.xs.default}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "underline": {
+                "value": "{core.utility.type.desktop.text.xs.underline}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "bold": {
+                "value": "{core.utility.type.desktop.text.xs.bold}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "italic": {
+                "value": "{core.utility.type.desktop.text.xs.italic}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "bold-underline": {
+                "value": "{core.utility.type.desktop.text.xs.bold-underline}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "italic-underline": {
+                "value": "{core.utility.type.desktop.text.xs.italic-underline}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "medium": {
+                "value": "{core.utility.type.desktop.text.xs.medium}",
+                "type": "typography"
+              },
+              "medium-underline": {
+                "value": "{core.utility.type.desktop.text.xs.medium-underline}",
+                "type": "typography"
+              }
             },
-            "type": "typography",
-            "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
+            "sm": {
+              "default": {
+                "value": "{core.utility.type.desktop.text.sm.default}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "underline": {
+                "value": "{core.utility.type.desktop.text.sm.underline}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "bold": {
+                "value": "{core.utility.type.desktop.text.sm.bold}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\n\nFont size: 16px"
+              },
+              "italic": {
+                "value": "{core.utility.type.desktop.text.sm.italic}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\n\nFont size: 16px"
+              },
+              "bold-underline": {
+                "value": "{core.utility.type.desktop.text.sm.bold-underline}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "italic-underline": {
+                "value": "{core.utility.type.desktop.text.sm.italic-underline}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "medium": {
+                "value": "{core.utility.type.desktop.text.sm.medium}",
+                "type": "typography"
+              },
+              "medium-underline": {
+                "value": "{core.utility.type.desktop.text.sm.medium-underline}",
+                "type": "typography"
+              }
+            },
+            "md": {
+              "default": {
+                "value": "{core.utility.type.desktop.text.md.default}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "underline": {
+                "value": "{core.utility.type.desktop.text.md.underline}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold": {
+                "value": "{core.utility.type.desktop.text.md.bold}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "italic": {
+                "value": "{core.utility.type.desktop.text.md.italic}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold-underline": {
+                "value": "{core.utility.type.desktop.text.md.bold-underline}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "italic-underline": {
+                "value": "{core.utility.type.desktop.text.md.italic-underline}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "medium": {
+                "value": "{core.utility.type.desktop.text.md.medium}",
+                "type": "typography"
+              },
+              "medium-underline": {
+                "value": "{core.utility.type.desktop.text.md.medium-underline}",
+                "type": "typography"
+              }
+            }
           },
-          "md": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.md}",
-              "fontSize": "{font-size.md}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+          "display": {
+            "sm": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.bold}",
+                "lineHeight": "{line-height.lg}",
+                "fontSize": "{font-size.sm}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
             },
-            "type": "typography",
-            "description": "Use this for h6 content\nFont size: 16px"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "md": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h6 content\nFont size: 16px"
             },
-            "type": "typography",
-            "description": "Use this for h5 content\nFont size: 20px"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.2xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "lg": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h5 content\nFont size: 20px"
             },
-            "type": "typography",
-            "description": "Use this for h4 content\nFont size: 24px"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.3xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.2xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h4 content\nFont size: 24px"
             },
-            "type": "typography",
-            "description": "Use this for h3 content\nFont size: 32px"
-          },
-          "3xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.4xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "2xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.3xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h3 content\nFont size: 32px"
             },
-            "type": "typography",
-            "description": "Use this for h2 content\nFont size: 40px"
-          },
-          "4xl": {
-            "value": {
-              "fontFamily": "{type-style.basic}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.5xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "3xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.4xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h2 content\nFont size: 40px"
             },
-            "type": "typography",
-            "description": "Use this for h1 content\nFont size: 48px"
+            "4xl": {
+              "value": {
+                "fontFamily": "{type-style.basic}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.5xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h1 content\nFont size: 48px"
+            }
           }
         }
       }
     },
-    "jp-type": {
-      "desktop": {
-        "display": {
-          "sm": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.bold}",
-              "lineHeight": "{line-height.md}",
-              "fontSize": "{font-size.md}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+    "jp": {
+      "type": {
+        "desktop": {
+          "display": {
+            "sm": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.bold}",
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy. JP localization only.\nFont size: 16px"
             },
-            "type": "typography",
-            "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy. JP localization only.\nFont size: 16px"
+            "md": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h6 content. JP localization only.\nFont size: 20px"
+            },
+            "lg": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.2xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h5 content. JP localization only.\nFont size: 24px"
+            },
+            "xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.3xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h4 content. JP localization only.\nFont size: 32px"
+            },
+            "2xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.4xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h3 content. JP localization only.\nFont size: 40px"
+            },
+            "3xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.5xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h2 content. JP localization only.\nFont size: 48px"
+            },
+            "4xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.6xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h1 content. JP localization only.\nFont size: 64px"
+            },
+            "5xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.7xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only. (Not for web) JP localization only.\nFont size: 80px"
+            },
+            "6xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.8xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only. (Not for web) JP localization only.\nFont size: 96px"
+            }
           },
-          "md": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+          "text": {
+            "xs": {
+              "default": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.xl}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.xl}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.xl}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "medium-underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.xl}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.xl}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              },
+              "bold-underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.xl}",
+                  "fontSize": "{font-size.sm}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              }
             },
-            "type": "typography",
-            "description": "Use this for h6 content. JP localization only.\nFont size: 20px"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.2xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
+            "sm": {
+              "default": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "medium-underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              },
+              "bold-underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.md}",
+                  "fontSize": "{font-size.md}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              }
             },
-            "type": "typography",
-            "description": "Use this for h5 content. JP localization only.\nFont size: 24px"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.3xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h4 content. JP localization only.\nFont size: 32px"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.4xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h3 content. JP localization only.\nFont size: 40px"
-          },
-          "3xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.5xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h2 content. JP localization only.\nFont size: 48px"
-          },
-          "4xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.6xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h1 content. JP localization only.\nFont size: 64px"
-          },
-          "5xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.7xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Digital asset headlines only. (Not for web) JP localization only.\nFont size: 80px"
-          },
-          "6xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.8xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Digital asset headlines only. (Not for web) JP localization only.\nFont size: 96px"
+            "md": {
+              "default": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "medium": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.medium}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "medium-underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.default}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.none}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold-underline": {
+                "value": {
+                  "fontFamily": "{type-style.jp}",
+                  "fontWeight": "{type-weight.text.bold}",
+                  "lineHeight": "{line-height.sm}",
+                  "fontSize": "{font-size.xl}",
+                  "textDecoration": "{text-deco.underline}"
+                },
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              }
+            }
           }
         },
-        "text": {
-          "xs": {
-            "default": {
+        "mobile": {
+          "display": {
+            "sm": {
               "value": {
                 "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.xl}",
+                "fontWeight": "{type-weight.display.bold}",
+                "lineHeight": "{line-height.lg}",
                 "fontSize": "{font-size.sm}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
                 "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
             },
-            "medium": {
+            "md": {
               "value": {
                 "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.xl}",
-                "fontSize": "{font-size.sm}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.md}",
+                "fontSize": "{font-size.md}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
                 "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h6 content\nFont size: 16px"
             },
-            "underline": {
+            "lg": {
               "value": {
                 "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.xl}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "medium-underline": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.xl}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.underline}"
-              },
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "bold": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.xl}",
-                "fontSize": "{font-size.sm}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
                 "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h5 content\nFont size: 20px"
             },
-            "bold-underline": {
+            "xl": {
               "value": {
                 "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.xl}",
-                "fontSize": "{font-size.sm}",
-                "textDecoration": "{text-deco.underline}"
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.sm}",
+                "fontSize": "{font-size.2xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
               },
               "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              "description": "Use this for h4 content\nFont size: 24px"
+            },
+            "2xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.3xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h3 content\nFont size: 32px"
+            },
+            "3xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.4xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h2 content\nFont size: 40px"
+            },
+            "4xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.5xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Use this for h1 content\nFont size: 48px"
+            },
+            "5xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.6xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only. (Not for web)\n\nFont size: 64px"
+            },
+            "6xl": {
+              "value": {
+                "fontFamily": "{type-style.jp}",
+                "fontWeight": "{type-weight.display.default}",
+                "lineHeight": "{line-height.xs}",
+                "fontSize": "{font-size.7xl}",
+                "letterSpacing": "0",
+                "paragraphSpacing": "",
+                "textCase": "",
+                "textDecoration": "{text-deco.none}"
+              },
+              "type": "typography",
+              "description": "Digital asset headlines only. (Not for web)\n\nFont size: 80px"
             }
           },
-          "sm": {
-            "default": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.none}"
+          "text": {
+            "xs": {
+              "default": {
+                "value": "{core.jp.type.desktop.text.xs.default}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
               },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.none}"
+              "medium": {
+                "value": "{core.jp.type.desktop.text.xs.medium}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
               },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "underline": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.underline}"
+              "medium-underline": {
+                "value": "{core.jp.type.desktop.text.xs.medium-underline}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
               },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium-underline": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.underline}"
+              "underline": {
+                "value": "{core.jp.type.desktop.text.xs.underline}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
               },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "bold": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.none}"
+              "bold": {
+                "value": "{core.jp.type.desktop.text.xs.bold}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
               },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
+              "bold-underline": {
+                "value": "{core.jp.type.desktop.text.xs.bold-underline}",
+                "type": "typography",
+                "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
+              }
             },
-            "bold-underline": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.md}",
-                "fontSize": "{font-size.md}",
-                "textDecoration": "{text-deco.underline}"
+            "sm": {
+              "default": {
+                "value": "{core.jp.type.desktop.text.sm.default}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
               },
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            }
-          },
-          "md": {
-            "default": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.none}"
+              "medium": {
+                "value": "{core.jp.type.desktop.text.sm.medium}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
               },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "medium": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.medium}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.none}"
+              "medium-underline": {
+                "value": "{core.jp.type.desktop.text.sm.medium-underline}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
               },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "underline": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.underline}"
+              "underline": {
+                "value": "{core.jp.type.desktop.text.sm.underline}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
               },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "medium-underline": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.default}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.underline}"
+              "bold": {
+                "value": "{core.jp.type.desktop.text.sm.bold}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\n\nFont size: 16px"
               },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              "bold-underline": {
+                "value": "{core.jp.type.desktop.text.sm.bold-underline}",
+                "type": "typography",
+                "description": "Use this for small, essential body content.\nFont size: 16px"
+              }
             },
-            "bold": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.none}"
+            "md": {
+              "default": {
+                "value": "{core.jp.type.desktop.text.md.default}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
               },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "bold-underline": {
-              "value": {
-                "fontFamily": "{type-style.jp}",
-                "fontWeight": "{type-weight.text.bold}",
-                "lineHeight": "{line-height.sm}",
-                "fontSize": "{font-size.xl}",
-                "textDecoration": "{text-deco.underline}"
+              "medium": {
+                "value": "{core.jp.type.desktop.text.md.medium}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
               },
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            }
-          }
-        }
-      },
-      "mobile": {
-        "display": {
-          "sm": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.bold}",
-              "lineHeight": "{line-height.lg}",
-              "fontSize": "{font-size.sm}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for \"eyebrow\" headings. Should be parsed as a heading in the proper hierarchy.\nFont size: 14px"
-          },
-          "md": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.md}",
-              "fontSize": "{font-size.md}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h6 content\nFont size: 16px"
-          },
-          "lg": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h5 content\nFont size: 20px"
-          },
-          "xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.sm}",
-              "fontSize": "{font-size.2xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h4 content\nFont size: 24px"
-          },
-          "2xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.3xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h3 content\nFont size: 32px"
-          },
-          "3xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.4xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h2 content\nFont size: 40px"
-          },
-          "4xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.5xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Use this for h1 content\nFont size: 48px"
-          },
-          "5xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.6xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Digital asset headlines only. (Not for web)\n\nFont size: 64px"
-          },
-          "6xl": {
-            "value": {
-              "fontFamily": "{type-style.jp}",
-              "fontWeight": "{type-weight.display.default}",
-              "lineHeight": "{line-height.xs}",
-              "fontSize": "{font-size.7xl}",
-              "letterSpacing": "0",
-              "paragraphSpacing": "",
-              "textCase": "",
-              "textDecoration": "{text-deco.none}"
-            },
-            "type": "typography",
-            "description": "Digital asset headlines only. (Not for web)\n\nFont size: 80px"
-          }
-        },
-        "text": {
-          "xs": {
-            "default": {
-              "value": "{core.jp-type.desktop.text.xs.default}",
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "medium": {
-              "value": "{core.jp-type.desktop.text.xs.medium}",
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "medium-underline": {
-              "value": "{core.jp-type.desktop.text.xs.medium-underline}",
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "underline": {
-              "value": "{core.jp-type.desktop.text.xs.underline}",
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "bold": {
-              "value": "{core.jp-type.desktop.text.xs.bold}",
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            },
-            "bold-underline": {
-              "value": "{core.jp-type.desktop.text.xs.bold-underline}",
-              "type": "typography",
-              "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
-            }
-          },
-          "sm": {
-            "default": {
-              "value": "{core.jp-type.desktop.text.sm.default}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium": {
-              "value": "{core.jp-type.desktop.text.sm.medium}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "medium-underline": {
-              "value": "{core.jp-type.desktop.text.sm.medium-underline}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "underline": {
-              "value": "{core.jp-type.desktop.text.sm.underline}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            },
-            "bold": {
-              "value": "{core.jp-type.desktop.text.sm.bold}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\n\nFont size: 16px"
-            },
-            "bold-underline": {
-              "value": "{core.jp-type.desktop.text.sm.bold-underline}",
-              "type": "typography",
-              "description": "Use this for small, essential body content.\nFont size: 16px"
-            }
-          },
-          "md": {
-            "default": {
-              "value": "{core.jp-type.desktop.text.md.default}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "medium": {
-              "value": "{core.jp-type.desktop.text.md.medium}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "medium-underline": {
-              "value": "{core.jp-type.desktop.text.md.medium-underline}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "underline": {
-              "value": "{core.jp-type.desktop.text.md.underline}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "bold": {
-              "value": "{core.jp-type.desktop.text.md.bold}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
-            },
-            "bold-underline": {
-              "value": "{core.jp-type.desktop.text.md.bold-underline}",
-              "type": "typography",
-              "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              "medium-underline": {
+                "value": "{core.jp.type.desktop.text.md.medium-underline}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "underline": {
+                "value": "{core.jp.type.desktop.text.md.underline}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold": {
+                "value": "{core.jp.type.desktop.text.md.bold}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              },
+              "bold-underline": {
+                "value": "{core.jp.type.desktop.text.md.bold-underline}",
+                "type": "typography",
+                "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
+              }
             }
           }
         }
