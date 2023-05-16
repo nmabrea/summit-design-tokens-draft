@@ -225,37 +225,37 @@
             "description": "Mirrors cue colors on-primarySurface\n\ncore.ornamental-color.cloud.90"
           },
           "highest-contrast": {
-            "value": "{core.ornamental.color.insight.80}",
+            "value": "{all.colors.interaction-cue.on-primarySurface.highest-contrast}",
             "type": "color",
             "description": "core.ornamental-color.insight.80"
           },
           "higher-contrast": {
-            "value": "{core.ornamental.color.insight.70}",
+            "value": "{all.colors.interaction-cue.on-primarySurface.higher-contrast}",
             "type": "color",
             "description": "core.ornamental-color.insight.70"
           },
           "high-contrast": {
-            "value": "{core.ornamental.color.insight.60}",
+            "value": "{all.colors.interaction-cue.on-primarySurface.high-contrast}",
             "type": "color",
             "description": "core.ornamental-color.insight.60"
           },
           "medium-contrast": {
-            "value": "{core.ornamental.color.insight.50}",
+            "value": "{all.colors.interaction-cue.on-primarySurface.medium-contrast}",
             "type": "color",
             "description": "core.ornamental-color.insight.50"
           },
           "low-contrast": {
-            "value": "{core.ornamental.color.insight.40}",
+            "value": "{all.colors.interaction-cue.on-primarySurface.low-contrast}",
             "type": "color",
             "description": "core.ornamental-color.insight.40"
           },
           "lower-contrast": {
-            "value": "{core.ornamental.color.insight.30}",
+            "value": "{all.colors.interaction-cue.on-primarySurface.lower-contrast}",
             "type": "color",
             "description": "core.ornamental-color.insight.30"
           },
           "lowest-contrast": {
-            "value": "{core.ornamental.color.insight.20}",
+            "value": "{all.colors.interaction-cue.on-primarySurface.lowest-contrast}",
             "type": "color",
             "description": "core.ornamental-color.insight.20"
           },
