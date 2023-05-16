@@ -218,46 +218,58 @@
             }
           }
         },
-        "tertiary": {
-          "10": {
-            "value": "{core.ornamental.color.cloud.10}",
+        "on-tertiarySurface": {
+          "complete-contrast": {
+            "value": "{all.colors.interaction-cue.on-primarySurface.complete-contrast}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.10"
+            "description": "Mirrors cue colors on-primarySurface\n\ncore.ornamental-color.cloud.90"
           },
-          "20": {
-            "value": "{core.ornamental.color.cloud.20}",
+          "highest-contrast": {
+            "value": "{core.ornamental.color.insight.80}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.20"
+            "description": "core.ornamental-color.insight.80"
           },
-          "30": {
-            "value": "{core.ornamental.color.cloud.30}",
+          "higher-contrast": {
+            "value": "{core.ornamental.color.insight.70}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.30"
+            "description": "core.ornamental-color.insight.70"
           },
-          "40": {
-            "value": "{core.ornamental.color.cloud.40}",
+          "high-contrast": {
+            "value": "{core.ornamental.color.insight.60}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.40"
+            "description": "core.ornamental-color.insight.60"
           },
-          "50": {
-            "value": "{core.ornamental.color.cloud.50}",
+          "medium-contrast": {
+            "value": "{core.ornamental.color.insight.50}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.50"
+            "description": "core.ornamental-color.insight.50"
           },
-          "60": {
-            "value": "{core.ornamental.color.cloud.60}",
+          "low-contrast": {
+            "value": "{core.ornamental.color.insight.40}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.60"
+            "description": "core.ornamental-color.insight.40"
           },
-          "70": {
-            "value": "{core.ornamental.color.cloud.70}",
+          "lower-contrast": {
+            "value": "{core.ornamental.color.insight.30}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.70"
+            "description": "core.ornamental-color.insight.30"
           },
-          "90": {
-            "value": "{core.ornamental.color.cloud.90}",
+          "lowest-contrast": {
+            "value": "{core.ornamental.color.insight.20}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.90"
+            "description": "core.ornamental-color.insight.20"
+          },
+          "disabled": {
+            "fills": {
+              "value": "{core.ornamental.color.cloud.20}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.20"
+            },
+            "outlines": {
+              "value": "{core.ornamental.color.cloud.70}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.70"
+            }
           }
         }
       },
@@ -273,9 +285,9 @@
           "description": "core.ornamental-color.black"
         },
         "tertiary": {
-          "value": "{core.ornamental.color.cloud.20}",
+          "value": "{core.ornamental.color.cloud.10}",
           "type": "color",
-          "description": "core.ornamental-color.cloud.20"
+          "description": "core.ornamental-color.cloud.10"
         },
         "quaternary": {
           "cloud": {
