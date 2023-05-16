@@ -57,7 +57,7 @@
         "type": "color",
         "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
       }
-    },
+    }
   },
     "link-label-type": {
       "emphasized": {
