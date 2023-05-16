@@ -111,6 +111,11 @@
     "colors": {
       "interaction-cue": {
         "on-primarySurface": {
+          "complete-contrast": {
+            "value": "{core.ornamental.color.cloud.90}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.90"
+          },
           "highest-contrast": {
             "value": "{core.ornamental.color.insight.80}",
             "type": "color",
@@ -160,6 +165,11 @@
           }
         },
         "on-secondarySurface": {
+          "complete-contrast": {
+            "value": "{core.ornamental.color.cloud.10}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.10"
+          },
           "highest-contrast": {
             "value": "{core.ornamental.color.edge.10}",
             "type": "color",
