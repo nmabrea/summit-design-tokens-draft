@@ -478,6 +478,65 @@
             "description": "all.colors.surface.quaternary.cloud"
           }
         }
+      },
+      "copy": {
+        "on-primarySurface": {
+          "highest-contrast": {
+            "basic": {
+              "value": "{core.ornamental.color.cloud.90}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.90"
+            },
+            "trendy": {
+              "value": "{core.ornamental.color.platform.50}",
+              "type": "color",
+              "description": "core.ornamental.color.platform.50"
+            }
+          },
+          "medium-contrast": {
+            "value": "{core.ornamental.color.cloud.70}",
+            "type": "color",
+            "description": "core.ornamental.color.cloud.70"
+          }
+        },
+        "on-secondarySurface": {
+          "highest-contrast": {
+            "basic": {
+              "value": "{core.ornamental.color.cloud.10}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.10"
+            },
+            "trendy": {
+              "value": "{core.ornamental.color.platform.40}",
+              "type": "color",
+              "description": "core.ornamental.color.platform.40"
+            }
+          },
+          "medium-contrast": {
+            "value": "{core.ornamental.color.cloud.20}",
+            "type": "color",
+            "description": "core.ornamental.color.cloud.20"
+          }
+        },
+        "on-tertiarySurface": {
+          "highest-contrast": {
+            "basic": {
+              "value": "{all.colors.copy.on-primarySurface.highest-contrast.basic}",
+              "type": "color",
+              "description": "Mirrors copy on-primarySurface\n\ncore.ornamental.color.cloud.90"
+            },
+            "trendy": {
+              "value": "{core.ornamental.color.platform.60}",
+              "type": "color",
+              "description": "core.ornamental.color.platform.60"
+            }
+          },
+          "medium-contrast": {
+            "value": "{core.ornamental.color.cloud.20}",
+            "type": "color",
+            "description": "core.ornamental.color.cloud.20"
+          }
+        }
       }
     }
   }
