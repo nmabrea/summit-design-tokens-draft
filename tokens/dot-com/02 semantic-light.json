@@ -39,15 +39,15 @@
         }
       },
       "icon-size": {
-        "sm": {
+        "small": {
           "value": "1rem",
           "type": "dimension"
         },
-        "xl": {
+        "large": {
           "value": "2.5rem",
           "type": "dimension"
         },
-        "md": {
+        "standard": {
           "value": "1.5rem",
           "type": "dimension"
         }
@@ -87,24 +87,21 @@
         }
       },
       "field-label-type": {
-        "xl": {
-          "value": "{core.ornamental.type.desktop.display.2xl}",
-          "type": "typography",
-          "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
-        },
-        "sm": {
-          "value": "{core.utility.type.desktop.text.sm.medium}",
-          "type": "typography",
-          "description": "core.basic-type.desktop.text.sm.medium"
-        },
-        "md": {
-          "value": "{core.utility.type.desktop.text.md.medium}",
-          "type": "typography",
-          "description": "core.basic-type.desktop.text.md.medium"
-        },
-        "xs": {
+        "standard": {
           "value": "{core.utility.type.desktop.text.xs.medium}",
           "type": "typography"
+        }
+      },
+      "input-type": {
+        "standard": {
+          "value": "{core.utility.type.desktop.text.sm.medium}",
+          "type": "typography"
+        }
+      },
+      "icon-size": {
+        "standard": {
+          "value": "1rem",
+          "type": "dimension"
         }
       }
     },
