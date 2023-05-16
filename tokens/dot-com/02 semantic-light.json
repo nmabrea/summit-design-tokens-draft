@@ -110,7 +110,7 @@
     },
     "colors": {
       "interaction-cue": {
-        "onPrimary": {
+        "on-primarySurface": {
           "highest-contrast": {
             "value": "{core.ornamental.color.insight.80}",
             "type": "color",
@@ -159,7 +159,7 @@
             }
           }
         },
-        "onSecondary": {
+        "on-secondarySurface": {
           "highest-contrast": {
             "value": "{core.ornamental.color.edge.10}",
             "type": "color",
