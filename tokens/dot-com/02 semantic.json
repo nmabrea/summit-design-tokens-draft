@@ -57,19 +57,6 @@
         "type": "color",
         "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
       }
-    }
-  },
-    "link-label-type": {
-      "emphasized": {
-        "value": "{core.basic-type.desktop.text.xs.bold}",
-        "type": "typography",
-        "description": "core.basic-type.desktop.text.xs.bold"
-      },
-      "standard": {
-        "value": "{core.basic-type.desktop.text.xs.default}",
-        "type": "typography",
-        "description": "core.basic-type.desktop.text.xs.default"
-      }
     },
     "cta-icon": {
       "sm": {
@@ -83,6 +70,19 @@
       "md": {
         "value": "1.5rem",
         "type": "dimension"
+      }
+    }
+  },
+    "link-label-type": {
+      "emphasized": {
+        "value": "{core.basic-type.desktop.text.xs.bold}",
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.xs.bold"
+      },
+      "standard": {
+        "value": "{core.basic-type.desktop.text.xs.default}",
+        "type": "typography",
+        "description": "core.basic-type.desktop.text.xs.default"
       }
     },
     "general-label-color": {
