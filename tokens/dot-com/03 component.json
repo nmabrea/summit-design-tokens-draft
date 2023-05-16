@@ -66,19 +66,19 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "hover": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -142,19 +142,19 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "hover": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -220,19 +220,19 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.light}",
+            "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
-            "description": "all.cta-label-color.light"
+            "description": "all.buttons.cta-label-color.light"
           },
           "hover": {
-            "value": "{all.cta-label-color.light}",
+            "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
-            "description": "all.cta-label-color.light"
+            "description": "all.buttons.cta-label-color.light"
           },
           "pressed": {
-            "value": "{all.cta-label-color.light}",
+            "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
-            "description": "all.cta-label-color.light"
+            "description": "all.buttons.cta-label-color.light"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.70}",
@@ -296,19 +296,19 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "hover": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -316,9 +316,9 @@
             "description": "core.ornamental-color.cloud.30"
           },
           "focus": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           }
         },
         "bg": {
@@ -656,14 +656,14 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "hover": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "pressed": {
             "value": "{all.interaction-color.secondary.60}",
@@ -732,14 +732,14 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.light}",
+            "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
-            "description": "all.cta-label-color.light"
+            "description": "all.buttons.cta-label-color.light"
           },
           "hover": {
-            "value": "{all.cta-label-color.light}",
+            "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
-            "description": "all.cta-label-color.light"
+            "description": "all.buttons.cta-label-color.light"
           },
           "pressed": {
             "value": "{all.interaction-color.primary.40}",
@@ -810,9 +810,9 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.dark}",
+            "value": "{all.buttons.cta-label-color.dark}",
             "type": "color",
-            "description": "all.cta-label-color.dark"
+            "description": "all.buttons.cta-label-color.dark"
           },
           "hover": {
             "value": "{all.interaction-color.secondary.70}",
@@ -955,9 +955,9 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{all.cta-label-color.light}",
+            "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
-            "description": "all.cta-label-color.light"
+            "description": "all.buttons.cta-label-color.light"
           },
           "hover": {
             "value": "{all.interaction-color.primary.30}",
@@ -1252,7 +1252,7 @@
             "description": "all.general-label-color.light"
           },
           "hover": {
-            "value": "{all.cta-label-color.light}",
+            "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
             "description": "all.general-label-color.light"
           },
