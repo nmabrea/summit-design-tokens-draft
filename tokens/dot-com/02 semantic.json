@@ -37,8 +37,7 @@
         "type": "typography",
         "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
       }
-    }
-  },
+    },
     "cta-icon": {
       "sm": {
         "value": "1rem",
