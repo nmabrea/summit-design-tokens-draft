@@ -75,12 +75,12 @@
     },
     "input-fields": {
       "field-label-color": {
-        "light": {
+        "on-secondarySurface": {
           "value": "{all.colors.content-text.on-secondarySurface.highest-contrast.basic}",
           "type": "color",
           "description": "Label colors on dark backgrounds\n\ncore.ornamental-color.cloud.10"
         },
-        "dark": {
+        "on-primarySurface": {
           "value": "{all.colors.content-text.on-primarySurface.highest-contrast.basic}",
           "type": "color",
           "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"

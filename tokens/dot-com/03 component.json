@@ -1102,12 +1102,12 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{all.input-fields.field-label-color.dark}",
+            "value": "{all.input-fields.field-label-color.on-primarySurface}",
             "type": "color",
             "description": "all.field-label-color.dark"
           },
           "hover": {
-            "value": "{all.input-fields.field-label-color.dark}",
+            "value": "{all.input-fields.field-label-color.on-primarySurface}",
             "type": "color",
             "description": "all.field-label-color.dark"
           },
@@ -1247,7 +1247,7 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{all.input-fields.field-label-color.light}",
+            "value": "{all.input-fields.field-label-color.on-secondarySurface}",
             "type": "color",
             "description": "all.field-label-color.light"
           },
@@ -1427,7 +1427,7 @@
         "on-light": {
           "text": {
             "active": {
-              "value": "{all.input-fields.field-label-color.dark}",
+              "value": "{all.input-fields.field-label-color.on-primarySurface}",
               "type": "color",
               "description": "all.field-label-color.dark"
             },
@@ -1603,7 +1603,7 @@
           },
           "text": {
             "active": {
-              "value": "{all.input-fields.field-label-color.light}",
+              "value": "{all.input-fields.field-label-color.on-secondarySurface}",
               "type": "color",
               "description": "all.field-label-color.dark"
             },
