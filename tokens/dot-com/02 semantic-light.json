@@ -304,9 +304,9 @@
             }
           },
           "medium-contrast": {
-            "value": "{core.ornamental.color.cloud.70}",
+            "value": "{core.ornamental.color.cloud.20}",
             "type": "color",
-            "description": "core.ornamental.color.cloud.70"
+            "description": "core.ornamental.color.cloud.20"
           }
         },
         "on-tertiarySurface": {
