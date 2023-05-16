@@ -1102,14 +1102,14 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{all.general-label-color.dark}",
+            "value": "{all.field-label-color.dark}",
             "type": "color",
-            "description": "all.general-label-color.dark"
+            "description": "all.field-label-color.dark"
           },
           "hover": {
-            "value": "{all.general-label-color.dark}",
+            "value": "{all.field-label-color.dark}",
             "type": "color",
-            "description": "all.general-label-color.dark"
+            "description": "all.field-label-color.dark"
           },
           "pressed": {
             "value": "{all.interaction-color.secondary.60}",
@@ -1247,14 +1247,14 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{all.general-label-color.light}",
+            "value": "{all.field-label-color.light}",
             "type": "color",
-            "description": "all.general-label-color.light"
+            "description": "all.field-label-color.light"
           },
           "hover": {
             "value": "{all.buttons.cta-label-color.light}",
             "type": "color",
-            "description": "all.general-label-color.light"
+            "description": "all.field-label-color.light"
           },
           "pressed": {
             "value": "{all.interaction-color.primary.40}",
@@ -1427,9 +1427,9 @@
         "on-light": {
           "text": {
             "active": {
-              "value": "{all.general-label-color.dark}",
+              "value": "{all.field-label-color.dark}",
               "type": "color",
-              "description": "all.general-label-color.dark"
+              "description": "all.field-label-color.dark"
             },
             "pressed": {
               "value": "{all.interaction-color.secondary.60}",
@@ -1603,9 +1603,9 @@
           },
           "text": {
             "active": {
-              "value": "{all.general-label-color.light}",
+              "value": "{all.field-label-color.light}",
               "type": "color",
-              "description": "all.general-label-color.dark"
+              "description": "all.field-label-color.dark"
             },
             "hover": {
               "value": "{all.interaction-color.primary.20}",

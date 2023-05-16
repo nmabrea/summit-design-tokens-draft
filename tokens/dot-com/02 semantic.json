@@ -65,7 +65,7 @@
         "description": "core.basic-type.desktop.text.xs.default"
       }
     },
-    "general-label-color": {
+    "field-label-color": {
       "light": {
         "value": "{core.ornamental-color.cloud.10}",
         "type": "color",
@@ -77,7 +77,7 @@
         "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
       }
     },
-    "general-label-type": {
+    "field-label-type": {
       "xl": {
         "value": "{core.ornamental-type.desktop.display.2xl}",
         "type": "typography",
