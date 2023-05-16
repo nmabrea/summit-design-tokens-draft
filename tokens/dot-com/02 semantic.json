@@ -16,11 +16,7 @@
         }
       },
       "item-spacing": {
-        "xs": {
-          "value": "{core.space-size.xs}",
-          "type": "spacing"
-        },
-        "sm": {
+        "standard": {
           "value": "{core.space-size.sm}",
           "type": "spacing"
         }
