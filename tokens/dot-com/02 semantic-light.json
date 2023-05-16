@@ -76,12 +76,12 @@
     "input-fields": {
       "field-label-color": {
         "light": {
-          "value": "{all.colors.copy.on-secondarySurface.highest-contrast.basic}",
+          "value": "{all.colors.content-text.on-secondarySurface.highest-contrast.basic}",
           "type": "color",
           "description": "Label colors on dark backgrounds\n\ncore.ornamental-color.cloud.10"
         },
         "dark": {
-          "value": "{all.colors.copy.on-primarySurface.highest-contrast.basic}",
+          "value": "{all.colors.content-text.on-primarySurface.highest-contrast.basic}",
           "type": "color",
           "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
         }
@@ -270,7 +270,7 @@
           }
         }
       },
-      "copy": {
+      "content-text": {
         "on-primarySurface": {
           "highest-contrast": {
             "basic": {
@@ -312,12 +312,12 @@
         "on-tertiarySurface": {
           "highest-contrast": {
             "basic": {
-              "value": "{all.colors.copy.on-primarySurface.highest-contrast.basic}",
+              "value": "{all.colors.content-text.on-primarySurface.highest-contrast.basic}",
               "type": "color",
               "description": "Mirrors copy on-primarySurface\n\ncore.ornamental.color.cloud.10"
             },
             "trendy": {
-              "value": "{all.colors.copy.on-primarySurface.highest-contrast.trendy}",
+              "value": "{all.colors.content-text.on-primarySurface.highest-contrast.trendy}",
               "type": "color",
               "description": "Mirrors copy on-primarySurface\n\ncore.ornamental.color.platform.50"
             }
