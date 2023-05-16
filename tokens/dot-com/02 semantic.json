@@ -2,19 +2,15 @@
   "all": {
     "buttons": {
       "target-area-padding": {
-        "lg": {
-          "value": "{core.space-size.lg}",
-          "type": "spacing"
-        },
-        "md": {
+        "small": {
           "value": "{core.space-size.md}",
           "type": "spacing"
         },
-        "sm": {
+        "standard": {
           "value": "{core.space-size.sm}",
           "type": "spacing"
         },
-        "3xs": {
+        "large": {
           "value": "{core.space-size.3xs}",
           "type": "spacing"
         }
