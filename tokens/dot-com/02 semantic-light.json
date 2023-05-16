@@ -517,6 +517,25 @@
             "type": "color",
             "description": "core.ornamental.color.cloud.70"
           }
+        },
+        "on-tertiarySurface": {
+          "highest-contrast": {
+            "basic": {
+              "value": "{all.colors.copy.on-primarySurface.highest-contrast.basic}",
+              "type": "color",
+              "description": "Mirrors copy on-primarySurface\n\ncore.ornamental.color.cloud.10"
+            },
+            "trendy": {
+              "value": "{all.colors.copy.on-primarySurface.highest-contrast.trendy}",
+              "type": "color",
+              "description": "Mirrors copy on-primarySurface\n\ncore.ornamental.color.platform.50"
+            }
+          },
+          "medium-contrast": {
+            "value": "{core.ornamental.color.cloud.70}",
+            "type": "color",
+            "description": "core.ornamental.color.cloud.70"
+          }
         }
       }
     }
