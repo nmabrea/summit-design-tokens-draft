@@ -376,7 +376,7 @@
         "description": "Fastly's official brand red.\nNot for web interface use.\ncmyk(0,84,82,0)\nPantone 485 C"
       }
     },
-    "feedback-color": {
+    "utility-color": {
       "error": {
         "10": {
           "value": "#FEF1F1",

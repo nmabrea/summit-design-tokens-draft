@@ -1547,7 +1547,7 @@
                 "y": "1",
                 "blur": "0",
                 "spread": "1",
-                "color": "{core.feedback-color.error.20}",
+                "color": "{core.utility-color.error.20}",
                 "type": "dropShadow"
               },
               "type": "boxShadow",
@@ -1581,7 +1581,7 @@
               "description": "all.interaction-color.secondary.70"
             },
             "error": {
-              "value": "{core.feedback-color.error.60}",
+              "value": "{core.utility-color.error.60}",
               "type": "color",
               "description": "{core.feedback-color.error.60}"
             }
