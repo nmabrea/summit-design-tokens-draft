@@ -273,55 +273,6 @@
           }
         }
       },
-      "surface": {
-        "primary": {
-          "value": "{core.ornamental.color.white}",
-          "type": "color",
-          "description": "core.ornamental-color.white"
-        },
-        "secondary": {
-          "value": "{core.ornamental.color.black}",
-          "type": "color",
-          "description": "core.ornamental-color.black"
-        },
-        "tertiary": {
-          "value": "{core.ornamental.color.cloud.10}",
-          "type": "color",
-          "description": "core.ornamental-color.cloud.10"
-        },
-        "quaternary": {
-          "cloud": {
-            "value": "{core.ornamental.color.cloud.30}",
-            "type": "color",
-            "description": "core.ornamental-color.cloud.30"
-          },
-          "data": {
-            "value": "{core.ornamental.color.data.50}",
-            "type": "color",
-            "description": "core.ornamental.color.data.50"
-          },
-          "edge": {
-            "value": "{core.ornamental.color.edge.30}",
-            "type": "color",
-            "description": "core.ornamental.color.edge.30"
-          },
-          "future": {
-            "value": "{core.ornamental.color.future.60}",
-            "type": "color",
-            "description": "core.ornamental.color.future.60"
-          },
-          "insight": {
-            "value": "{core.ornamental.color.insight.80}",
-            "type": "color",
-            "description": "core.ornamental.color.insight.80"
-          },
-          "platform": {
-            "value": "{core.ornamental.color.platform.60}",
-            "type": "color",
-            "description": "core.ornamental.color.platform.60"
-          }
-        }
-      },
       "cover": {
         "on-primarySurface": {
           "very-visible": {
@@ -535,6 +486,55 @@
             "value": "{core.ornamental.color.cloud.20}",
             "type": "color",
             "description": "core.ornamental.color.cloud.20"
+          }
+        }
+      },
+      "surface": {
+        "primary": {
+          "value": "{core.ornamental.color.white}",
+          "type": "color",
+          "description": "core.ornamental-color.white"
+        },
+        "secondary": {
+          "value": "{core.ornamental.color.black}",
+          "type": "color",
+          "description": "core.ornamental-color.black"
+        },
+        "tertiary": {
+          "value": "{core.ornamental.color.cloud.10}",
+          "type": "color",
+          "description": "core.ornamental-color.cloud.10"
+        },
+        "quaternary": {
+          "cloud": {
+            "value": "{core.ornamental.color.cloud.30}",
+            "type": "color",
+            "description": "core.ornamental-color.cloud.30"
+          },
+          "data": {
+            "value": "{core.ornamental.color.data.50}",
+            "type": "color",
+            "description": "core.ornamental.color.data.50"
+          },
+          "edge": {
+            "value": "{core.ornamental.color.edge.30}",
+            "type": "color",
+            "description": "core.ornamental.color.edge.30"
+          },
+          "future": {
+            "value": "{core.ornamental.color.future.60}",
+            "type": "color",
+            "description": "core.ornamental.color.future.60"
+          },
+          "insight": {
+            "value": "{core.ornamental.color.insight.80}",
+            "type": "color",
+            "description": "core.ornamental.color.insight.80"
+          },
+          "platform": {
+            "value": "{core.ornamental.color.platform.60}",
+            "type": "color",
+            "description": "core.ornamental.color.platform.60"
           }
         }
       }
