@@ -1,7 +1,7 @@
 {
   "all": {
     "buttons": {
-      "padding": {
+      "target-area-padding": {
         "lg": {
           "value": "{core.space-size.lg}",
           "type": "spacing"
