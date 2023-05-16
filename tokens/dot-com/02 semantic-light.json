@@ -23,12 +23,12 @@
       },
       "label-type": {
         "small": {
-          "value": "{core.basic-type.desktop.text.sm.medium}",
+          "value": "{core.utility-type.desktop.text.sm.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.sm.medium"
         },
         "standard": {
-          "value": "{core.basic-type.desktop.text.md.medium}",
+          "value": "{core.utility-type.desktop.text.md.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.md.medium"
         },
@@ -62,12 +62,12 @@
     "links": {
       "label-type": {
         "emphasized": {
-          "value": "{core.basic-type.desktop.text.xs.bold}",
+          "value": "{core.utility-type.desktop.text.xs.bold}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.xs.bold"
         },
         "standard": {
-          "value": "{core.basic-type.desktop.text.xs.default}",
+          "value": "{core.utility-type.desktop.text.xs.default}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.xs.default"
         }
@@ -93,17 +93,17 @@
           "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
         },
         "sm": {
-          "value": "{core.basic-type.desktop.text.sm.medium}",
+          "value": "{core.utility-type.desktop.text.sm.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.sm.medium"
         },
         "md": {
-          "value": "{core.basic-type.desktop.text.md.medium}",
+          "value": "{core.utility-type.desktop.text.md.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.md.medium"
         },
         "xs": {
-          "value": "{core.basic-type.desktop.text.xs.medium}",
+          "value": "{core.utility-type.desktop.text.xs.medium}",
           "type": "typography"
         }
       }

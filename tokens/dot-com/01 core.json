@@ -828,7 +828,7 @@
         }
       }
     },
-    "basic-type": {
+    "utility-type": {
       "desktop": {
         "display": {
           "sm": {
@@ -1207,121 +1207,121 @@
         "text": {
           "xs": {
             "default": {
-              "value": "{core.basic-type.desktop.text.xs.default}",
+              "value": "{core.utility-type.desktop.text.xs.default}",
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
             },
             "underline": {
-              "value": "{core.basic-type.desktop.text.xs.underline}",
+              "value": "{core.utility-type.desktop.text.xs.underline}",
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
             },
             "bold": {
-              "value": "{core.basic-type.desktop.text.xs.bold}",
+              "value": "{core.utility-type.desktop.text.xs.bold}",
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
             },
             "italic": {
-              "value": "{core.basic-type.desktop.text.xs.italic}",
+              "value": "{core.utility-type.desktop.text.xs.italic}",
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
             },
             "bold-underline": {
-              "value": "{core.basic-type.desktop.text.xs.bold-underline}",
+              "value": "{core.utility-type.desktop.text.xs.bold-underline}",
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
             },
             "italic-underline": {
-              "value": "{core.basic-type.desktop.text.xs.italic-underline}",
+              "value": "{core.utility-type.desktop.text.xs.italic-underline}",
               "type": "typography",
               "description": "Extra small body should be used for microcopy or non-essential content copy.\nFont size: 14px"
             },
             "medium": {
-              "value": "{core.basic-type.desktop.text.xs.medium}",
+              "value": "{core.utility-type.desktop.text.xs.medium}",
               "type": "typography"
             },
             "medium-underline": {
-              "value": "{core.basic-type.desktop.text.xs.medium-underline}",
+              "value": "{core.utility-type.desktop.text.xs.medium-underline}",
               "type": "typography"
             }
           },
           "sm": {
             "default": {
-              "value": "{core.basic-type.desktop.text.sm.default}",
+              "value": "{core.utility-type.desktop.text.sm.default}",
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
             },
             "underline": {
-              "value": "{core.basic-type.desktop.text.sm.underline}",
+              "value": "{core.utility-type.desktop.text.sm.underline}",
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
             },
             "bold": {
-              "value": "{core.basic-type.desktop.text.sm.bold}",
+              "value": "{core.utility-type.desktop.text.sm.bold}",
               "type": "typography",
               "description": "Use this for small, essential body content.\n\nFont size: 16px"
             },
             "italic": {
-              "value": "{core.basic-type.desktop.text.sm.italic}",
+              "value": "{core.utility-type.desktop.text.sm.italic}",
               "type": "typography",
               "description": "Use this for small, essential body content.\n\nFont size: 16px"
             },
             "bold-underline": {
-              "value": "{core.basic-type.desktop.text.sm.bold-underline}",
+              "value": "{core.utility-type.desktop.text.sm.bold-underline}",
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
             },
             "italic-underline": {
-              "value": "{core.basic-type.desktop.text.sm.italic-underline}",
+              "value": "{core.utility-type.desktop.text.sm.italic-underline}",
               "type": "typography",
               "description": "Use this for small, essential body content.\nFont size: 16px"
             },
             "medium": {
-              "value": "{core.basic-type.desktop.text.sm.medium}",
+              "value": "{core.utility-type.desktop.text.sm.medium}",
               "type": "typography"
             },
             "medium-underline": {
-              "value": "{core.basic-type.desktop.text.sm.medium-underline}",
+              "value": "{core.utility-type.desktop.text.sm.medium-underline}",
               "type": "typography"
             }
           },
           "md": {
             "default": {
-              "value": "{core.basic-type.desktop.text.md.default}",
+              "value": "{core.utility-type.desktop.text.md.default}",
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
             },
             "underline": {
-              "value": "{core.basic-type.desktop.text.md.underline}",
+              "value": "{core.utility-type.desktop.text.md.underline}",
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
             },
             "bold": {
-              "value": "{core.basic-type.desktop.text.md.bold}",
+              "value": "{core.utility-type.desktop.text.md.bold}",
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
             },
             "italic": {
-              "value": "{core.basic-type.desktop.text.md.italic}",
+              "value": "{core.utility-type.desktop.text.md.italic}",
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
             },
             "bold-underline": {
-              "value": "{core.basic-type.desktop.text.md.bold-underline}",
+              "value": "{core.utility-type.desktop.text.md.bold-underline}",
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
             },
             "italic-underline": {
-              "value": "{core.basic-type.desktop.text.md.italic-underline}",
+              "value": "{core.utility-type.desktop.text.md.italic-underline}",
               "type": "typography",
               "description": "Use this for large, essential content. Consider using to increase readability of long-form content and/or marketing content.\nFont size: 20px"
             },
             "medium": {
-              "value": "{core.basic-type.desktop.text.md.medium}",
+              "value": "{core.utility-type.desktop.text.md.medium}",
               "type": "typography"
             },
             "medium-underline": {
-              "value": "{core.basic-type.desktop.text.md.medium-underline}",
+              "value": "{core.utility-type.desktop.text.md.medium-underline}",
               "type": "typography"
             }
           }
