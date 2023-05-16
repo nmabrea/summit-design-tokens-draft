@@ -109,99 +109,103 @@
       }
     },
     "colors": {
-      "interaction": {
-        "primary": {
-          "10": {
+      "interaction-cue": {
+        "onSecondary": {
+          "highest-contrast": {
             "value": "{core.ornamental.color.edge.10}",
             "type": "color",
             "description": "core.ornamental-color.edge.10"
           },
-          "20": {
+          "higher-contrast": {
             "value": "{core.ornamental.color.edge.20}",
             "type": "color",
             "description": "core.ornamental-color.edge.20"
           },
-          "30": {
+          "high-contrast": {
             "value": "{core.ornamental.color.edge.30}",
             "type": "color",
             "description": "core.ornamental-color.edge.30"
           },
-          "40": {
+          "medium-contrast": {
             "value": "{core.ornamental.color.edge.40}",
             "type": "color",
             "description": "core.ornamental-color.edge.40"
           },
-          "50": {
+          "low-contrast": {
             "value": "{core.ornamental.color.edge.50}",
             "type": "color",
             "description": "core.ornamental-color.edge.50"
           },
-          "60": {
+          "lower-contrast": {
             "value": "{core.ornamental.color.edge.60}",
             "type": "color",
             "description": "core.ornamental-color.edge.60"
           },
-          "70": {
+          "disabled": {
+            "fills": {
+              "value": "{core.ornamental.color.cloud.80}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.80"
+            },
+            "outlines": {
+              "value": "{core.ornamental.color.cloud.30}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.30"
+            }
+          },
+          "lowest-contrast": {
             "value": "{core.ornamental.color.edge.70}",
             "type": "color",
-            "description": "core.ornamental-color.edge.70"
-          },
-          "80": {
-            "value": "{core.ornamental.color.edge.80}",
-            "type": "color",
-            "description": "core.ornamental-color.edge.80"
-          },
-          "90": {
-            "value": "{core.ornamental.color.edge.90}",
-            "type": "color",
-            "description": "core.ornamental-color.edge.90"
+            "description": "core.ornamental.color.edge.70"
           }
         },
-        "secondary": {
-          "10": {
-            "value": "{core.ornamental.color.insight.10}",
-            "type": "color",
-            "description": "core.ornamental-color.insight.10"
-          },
-          "20": {
+        "onPrimary": {
+          "lowest-contrast": {
             "value": "{core.ornamental.color.insight.20}",
             "type": "color",
             "description": "core.ornamental-color.insight.20"
           },
-          "30": {
+          "lower-contrast": {
             "value": "{core.ornamental.color.insight.30}",
             "type": "color",
             "description": "core.ornamental-color.insight.30"
           },
-          "40": {
+          "low-contrast": {
             "value": "{core.ornamental.color.insight.40}",
             "type": "color",
             "description": "core.ornamental-color.insight.40"
           },
-          "50": {
+          "medium-contrast": {
             "value": "{core.ornamental.color.insight.50}",
             "type": "color",
             "description": "core.ornamental-color.insight.50"
           },
-          "60": {
+          "high-contrast": {
             "value": "{core.ornamental.color.insight.60}",
             "type": "color",
             "description": "core.ornamental-color.insight.60"
           },
-          "70": {
+          "higher-contrast": {
             "value": "{core.ornamental.color.insight.70}",
             "type": "color",
             "description": "core.ornamental-color.insight.70"
           },
-          "80": {
+          "highest-contrast": {
             "value": "{core.ornamental.color.insight.80}",
             "type": "color",
             "description": "core.ornamental-color.insight.80"
           },
-          "90": {
-            "value": "{core.ornamental.color.insight.90}",
-            "type": "color",
-            "description": "core.ornamental-color.insight.90"
+          "disabled": {
+            "fills": {
+              "value": "{core.ornamental.color.cloud.20}",
+              "type": "color",
+              "description": "core.ornamental-color.cloud.20"
+            },
+            "outlines": {
+              "value": "{core.ornamental.color.cloud.70}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.70"
+            }
           }
         },
         "tertiary": {
@@ -239,11 +243,6 @@
             "value": "{core.ornamental.color.cloud.70}",
             "type": "color",
             "description": "core.ornamental-color.cloud.70"
-          },
-          "80": {
-            "value": "{core.ornamental.color.cloud.80}",
-            "type": "color",
-            "description": "core.ornamental-color.cloud.80"
           },
           "90": {
             "value": "{core.ornamental.color.cloud.90}",
