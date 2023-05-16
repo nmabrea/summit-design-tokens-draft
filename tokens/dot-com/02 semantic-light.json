@@ -76,12 +76,12 @@
     "input-fields": {
       "field-label-color": {
         "light": {
-          "value": "{core.ornamental.color.cloud.10}",
+          "value": "{all.colors.copy.on-secondarySurface.highest-contrast.basic}",
           "type": "color",
           "description": "Label colors on dark backgrounds\n\ncore.ornamental-color.cloud.10"
         },
         "dark": {
-          "value": "{core.ornamental.color.cloud.90}",
+          "value": "{all.colors.copy.on-primarySurface.highest-contrast.basic}",
           "type": "color",
           "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
         }
