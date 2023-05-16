@@ -701,8 +701,8 @@
     "selectedTokenSets": {
       "00 raw": "source",
       "dot-com/01 core": "source",
-      "dot-com/02 semantic": "enabled",
-      "dot-com/03 component": "enabled"
+      "dot-com/03 component": "enabled",
+      "dot-com/02 semantic-light": "enabled"
     },
     "$figmaStyleReferences": {
       "core.ornamental-type.desktop.display.sm": "S:723091064ea8aa233abda1a0b8808705317a11c0,",

@@ -2,7 +2,7 @@
   "tokenSetOrder": [
     "00 raw",
     "dot-com/01 core",
-    "dot-com/02 semantic",
+    "dot-com/02 semantic-light",
     "dot-com/03 component"
   ]
 }
