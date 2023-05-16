@@ -264,15 +264,15 @@
           "description": "core.ornamental-color.black"
         },
         "tertiary": {
-          "value": "{core.ornamental.color.cloud.10}",
+          "value": "{core.ornamental.color.cloud.20}",
           "type": "color",
-          "description": "core.ornamental-color.cloud.10"
+          "description": "core.ornamental-color.cloud.20"
         },
         "quaternary": {
           "cloud": {
-            "value": "{core.ornamental.color.cloud.20}",
+            "value": "{core.ornamental.color.cloud.30}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.20"
+            "description": "core.ornamental-color.cloud.30"
           },
           "data": {
             "value": "{core.ornamental.color.data.50}",
@@ -318,29 +318,143 @@
               "edge": {
                 "value": "{all.colors.surface.quaternary.edge}",
                 "type": "color",
-                "description": "all.colors.surface.quinary.edge"
+                "description": "all.colors.surface.quaternary.edge"
               },
               "future": {
                 "value": "{all.colors.surface.quaternary.future}",
                 "type": "color",
-                "description": "all.colors.surface.quinary.future"
+                "description": "all.colors.surface.quaternary.future"
               },
               "data": {
                 "value": "{all.colors.surface.quaternary.data}",
                 "type": "color",
-                "description": "all.colors.surface.quinary.data"
+                "description": "all.colors.surface.quaternary.data"
               },
               "insight": {
                 "value": "{all.colors.surface.quaternary.insight}",
                 "type": "color",
-                "description": "all.colors.surface.quinary.insight"
+                "description": "all.colors.surface.quaternary.insight"
               },
               "platform": {
                 "value": "{all.colors.surface.quaternary.platform}",
                 "type": "color",
-                "description": "all.colors.surface.quinary.platform"
+                "description": "all.colors.surface.quaternary.platform"
               }
             }
+          },
+          "invisible": {
+            "value": "{all.colors.surface.primary}",
+            "type": "color",
+            "description": "all.colors.surface.primary"
+          }
+        },
+        "on-secondarySurface": {
+          "very-visible": {
+            "value": "{core.ornamental.color.white}",
+            "type": "color",
+            "description": "core.ornamental.color.white"
+          },
+          "visible": {
+            "basic": {
+              "value": "{core.ornamental.color.cloud.60}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.60"
+            },
+            "trendy": {
+              "edge": {
+                "value": "{all.colors.surface.quaternary.edge}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.edge"
+              },
+              "future": {
+                "value": "{all.colors.surface.quaternary.future}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.future"
+              },
+              "data": {
+                "value": "{all.colors.surface.quaternary.data}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.data"
+              },
+              "insight": {
+                "value": "{all.colors.surface.quaternary.insight}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.insight"
+              },
+              "platform": {
+                "value": "{all.colors.surface.quaternary.platform}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.platform"
+              }
+            }
+          },
+          "invisible": {
+            "value": "{all.colors.surface.secondary}",
+            "type": "color",
+            "description": "all.colors.surface.secondary"
+          }
+        },
+        "on-tertiarySurface": {
+          "very-visible": {
+            "value": "{core.ornamental.color.black}",
+            "type": "color",
+            "description": "core.ornamental.color.black"
+          },
+          "visible": {
+            "basic": {
+              "value": "{core.ornamental.color.cloud.30}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.30"
+            },
+            "trendy": {
+              "edge": {
+                "value": "{all.colors.surface.quaternary.edge}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.edge"
+              },
+              "future": {
+                "value": "{all.colors.surface.quaternary.future}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.future"
+              },
+              "data": {
+                "value": "{all.colors.surface.quaternary.data}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.data"
+              },
+              "insight": {
+                "value": "{all.colors.surface.quaternary.insight}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.insight"
+              },
+              "platform": {
+                "value": "{all.colors.surface.quaternary.platform}",
+                "type": "color",
+                "description": "all.colors.surface.quaternary.platform"
+              }
+            }
+          },
+          "invisible": {
+            "value": "{all.colors.surface.tertiary}",
+            "type": "color",
+            "description": "all.colors.surface.tertiary"
+          }
+        },
+        "on-quaternarySurface": {
+          "very-visible": {
+            "value": "{core.ornamental.color.black}",
+            "type": "color",
+            "description": "core.ornamental.color.black"
+          },
+          "visible": {
+            "value": "{core.ornamental.color.white}",
+            "type": "color",
+            "description": "core.ornamental.color.white"
+          },
+          "invisible": {
+            "value": "{all.colors.surface.quaternary.cloud}",
+            "type": "color",
+            "description": "all.colors.surface.quaternary.cloud"
           }
         }
       }
