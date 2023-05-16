@@ -43,12 +43,12 @@
           "value": "1rem",
           "type": "dimension"
         },
-        "large": {
-          "value": "2.5rem",
-          "type": "dimension"
-        },
         "standard": {
           "value": "1.5rem",
+          "type": "dimension"
+        },
+        "large": {
+          "value": "2.5rem",
           "type": "dimension"
         }
       },
