@@ -21,21 +21,21 @@
           "type": "spacing"
         }
       },
-    "cta-label-type": {
-      "xl": {
-        "value": "{core.ornamental-type.desktop.display.2xl}",
-        "type": "typography",
-        "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
-      },
-      "sm": {
+    "label-type": {
+      "small": {
         "value": "{core.basic-type.desktop.text.sm.medium}",
         "type": "typography",
         "description": "core.basic-type.desktop.text.sm.medium"
       },
-      "md": {
+      "standard": {
         "value": "{core.basic-type.desktop.text.md.medium}",
         "type": "typography",
         "description": "core.basic-type.desktop.text.md.medium"
+      },
+      "large": {
+        "value": "{core.ornamental-type.desktop.display.2xl}",
+        "type": "typography",
+        "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
       }
     },
     "cta-label-color": {
