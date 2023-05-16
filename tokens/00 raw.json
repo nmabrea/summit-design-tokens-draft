@@ -273,7 +273,7 @@
       "type": "fontWeights",
       "description": "400 Italic"
     }
-  },    
+  },
   "type-weight": {
     "display": {
       "default": {
@@ -423,7 +423,7 @@
       "type": "fontFamilies",
       "description": "For Japanese localization only"
     }
-  },  
+  },
   "type-style": {
     "ornamental": {
       "value": "{font-family.es-rebond-grotesque}",

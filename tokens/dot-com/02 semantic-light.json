@@ -51,6 +51,12 @@
           "value": "1.5rem",
           "type": "dimension"
         }
+      },
+      "focus-area-padding": {
+        "standard": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing"
+        }
       }
     },
     "links": {
