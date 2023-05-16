@@ -66,19 +66,19 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "hover": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -93,19 +93,19 @@
         },
         "bg": {
           "default": {
-            "value": "{base.interaction-color.primary.40}",
+            "value": "{all.interaction-color.primary.40}",
             "type": "color",
-            "description": "base.interaction-color.primary.40"
+            "description": "all.interaction-color.primary.40"
           },
           "hover": {
-            "value": "{base.interaction-color.primary.50}",
+            "value": "{all.interaction-color.primary.50}",
             "type": "color",
-            "description": "base.interaction-color.primary.50"
+            "description": "all.interaction-color.primary.50"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.60}",
+            "value": "{all.interaction-color.primary.60}",
             "type": "color",
-            "description": "base.interaction-color.primary.60"
+            "description": "all.interaction-color.primary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
@@ -142,19 +142,19 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "hover": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -171,17 +171,17 @@
           "default": {
             "value": "{core.ornamental-color.edge.20}",
             "type": "color",
-            "description": "base.interaction-color.primary.20"
+            "description": "all.interaction-color.primary.20"
           },
           "hover": {
-            "value": "{base.interaction-color.primary.30}",
+            "value": "{all.interaction-color.primary.30}",
             "type": "color",
-            "description": "base.interaction-color.primary.30"
+            "description": "all.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.40}",
+            "value": "{all.interaction-color.primary.40}",
             "type": "color",
-            "description": "base.interaction-color.primary.40"
+            "description": "all.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
@@ -220,19 +220,19 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{all.cta-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "all.cta-label-color.light"
           },
           "hover": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{all.cta-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "all.cta-label-color.light"
           },
           "pressed": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{all.cta-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "all.cta-label-color.light"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.70}",
@@ -252,14 +252,14 @@
             "description": "core.ornamental-color.black"
           },
           "hover": {
-            "value": "{base.interaction-color.secondary.80}",
+            "value": "{all.interaction-color.secondary.80}",
             "type": "color",
-            "description": "base.interaction-color.secondary.80"
+            "description": "all.interaction-color.secondary.80"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.60}",
+            "value": "{all.interaction-color.secondary.60}",
             "type": "color",
-            "description": "base.interaction-color.secondary.60"
+            "description": "all.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.20}",
@@ -296,19 +296,19 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "hover": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -316,9 +316,9 @@
             "description": "core.ornamental-color.cloud.30"
           },
           "focus": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           }
         },
         "bg": {
@@ -328,14 +328,14 @@
             "description": "core.ornamental-color.white"
           },
           "hover": {
-            "value": "{base.interaction-color.secondary.20}",
+            "value": "{all.interaction-color.secondary.20}",
             "type": "color",
-            "description": "base.interaction-color.secondary.20"
+            "description": "all.interaction-color.secondary.20"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.40}",
+            "value": "{all.interaction-color.secondary.40}",
             "type": "color",
-            "description": "base.interaction-color.secondary.40"
+            "description": "all.interaction-color.secondary.40"
           },
           "focus": {
             "value": "{comp.solid-subdued-cta.on-dark.bg.hover}",
@@ -379,14 +379,14 @@
             "description": "core.ornamental-color.black"
           },
           "hover": {
-            "value": "{base.interaction-color.secondary.70}",
+            "value": "{all.interaction-color.secondary.70}",
             "type": "color",
-            "description": "base.interaction-color.secondary.70"
+            "description": "all.interaction-color.secondary.70"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.60}",
+            "value": "{all.interaction-color.secondary.60}",
             "type": "color",
-            "description": "base.interaction-color.secondary.60"
+            "description": "all.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.70}",
@@ -411,9 +411,9 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.10}",
+            "value": "{all.interaction-color.secondary.10}",
             "type": "color",
-            "description": "base.interaction-color.secondary.10"
+            "description": "all.interaction-color.secondary.10"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.20}",
@@ -519,14 +519,14 @@
             "description": "core.ornamental-color.white"
           },
           "hover": {
-            "value": "{base.interaction-color.primary.30}",
+            "value": "{all.interaction-color.primary.30}",
             "type": "color",
-            "description": "base.interaction-color.primary.30"
+            "description": "all.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.40}",
+            "value": "{all.interaction-color.primary.40}",
             "type": "color",
-            "description": "base.interaction-color.primary.40"
+            "description": "all.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.30}",
@@ -551,9 +551,9 @@
             "description": "Inherits the color beneath it (from parent element)\n\ncore.ornamental-color.black"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.90}",
+            "value": "{all.interaction-color.primary.90}",
             "type": "color",
-            "description": "base.interaction-color.primary.90"
+            "description": "all.interaction-color.primary.90"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.80}",
@@ -656,19 +656,19 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "hover": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.60}",
+            "value": "{all.interaction-color.secondary.60}",
             "type": "color",
-            "description": "base.interaction-color.secondary.60"
+            "description": "all.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.60}",
@@ -688,14 +688,14 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{base.interaction-color.secondary.20}",
+            "value": "{all.interaction-color.secondary.20}",
             "type": "color",
-            "description": "base.interaction-color.secondary.20"
+            "description": "all.interaction-color.secondary.20"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.10}",
+            "value": "{all.interaction-color.secondary.10}",
             "type": "color",
-            "description": "base.interaction-color.secondary.10"
+            "description": "all.interaction-color.secondary.10"
           },
           "disabled": {
             "value": "{core.ornamental-color.white}",
@@ -732,19 +732,19 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{all.cta-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "all.cta-label-color.light"
           },
           "hover": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{all.cta-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "all.cta-label-color.light"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.40}",
+            "value": "{all.interaction-color.primary.40}",
             "type": "color",
-            "description": "base.interaction-color.primary.40"
+            "description": "all.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.50}",
@@ -764,14 +764,14 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{base.interaction-color.primary.80}",
+            "value": "{all.interaction-color.primary.80}",
             "type": "color",
-            "description": "base.interaction-color.primary.80"
+            "description": "all.interaction-color.primary.80"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.90}",
+            "value": "{all.interaction-color.primary.90}",
             "type": "color",
-            "description": "base.interaction-color.primary.90"
+            "description": "all.interaction-color.primary.90"
           },
           "disabled": {
             "value": "{core.ornamental-color.black}",
@@ -810,19 +810,19 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.dark}",
+            "value": "{all.cta-label-color.dark}",
             "type": "color",
-            "description": "base.cta-label-color.dark"
+            "description": "all.cta-label-color.dark"
           },
           "hover": {
-            "value": "{base.interaction-color.secondary.70}",
+            "value": "{all.interaction-color.secondary.70}",
             "type": "color",
-            "description": "base.interaction-color.secondary.70"
+            "description": "all.interaction-color.secondary.70"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.60}",
+            "value": "{all.interaction-color.secondary.60}",
             "type": "color",
-            "description": "base.interaction-color.secondary.60"
+            "description": "all.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.60}",
@@ -955,19 +955,19 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{all.cta-label-color.light}",
             "type": "color",
-            "description": "base.cta-label-color.light"
+            "description": "all.cta-label-color.light"
           },
           "hover": {
-            "value": "{base.interaction-color.primary.30}",
+            "value": "{all.interaction-color.primary.30}",
             "type": "color",
-            "description": "base.interaction-color.primary.30"
+            "description": "all.interaction-color.primary.30"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.40}",
+            "value": "{all.interaction-color.primary.40}",
             "type": "color",
-            "description": "base.interaction-color.primary.40"
+            "description": "all.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.40}",
@@ -1102,19 +1102,19 @@
       "on-light": {
         "text": {
           "default": {
-            "value": "{base.general-label-color.dark}",
+            "value": "{all.general-label-color.dark}",
             "type": "color",
-            "description": "base.general-label-color.dark"
+            "description": "all.general-label-color.dark"
           },
           "hover": {
-            "value": "{base.general-label-color.dark}",
+            "value": "{all.general-label-color.dark}",
             "type": "color",
-            "description": "base.general-label-color.dark"
+            "description": "all.general-label-color.dark"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.60}",
+            "value": "{all.interaction-color.secondary.60}",
             "type": "color",
-            "description": "base.interaction-color.secondary.60"
+            "description": "all.interaction-color.secondary.60"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.60}",
@@ -1223,9 +1223,9 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{base.interaction-color.secondary.70}",
+            "value": "{all.interaction-color.secondary.70}",
             "type": "color",
-            "description": "base.interaction-color.secondary.70"
+            "description": "all.interaction-color.secondary.70"
           },
           "pressed": {
             "value": "{comp.inline-link.on-light.text.pressed}",
@@ -1247,19 +1247,19 @@
       "on-dark": {
         "text": {
           "default": {
-            "value": "{base.general-label-color.light}",
+            "value": "{all.general-label-color.light}",
             "type": "color",
-            "description": "base.general-label-color.light"
+            "description": "all.general-label-color.light"
           },
           "hover": {
-            "value": "{base.cta-label-color.light}",
+            "value": "{all.cta-label-color.light}",
             "type": "color",
-            "description": "base.general-label-color.light"
+            "description": "all.general-label-color.light"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.40}",
+            "value": "{all.interaction-color.primary.40}",
             "type": "color",
-            "description": "base.interaction-color.primary.40"
+            "description": "all.interaction-color.primary.40"
           },
           "disabled": {
             "value": "{core.ornamental-color.cloud.40}",
@@ -1368,9 +1368,9 @@
             "description": "Inherits the color beneath it (from parent element)"
           },
           "hover": {
-            "value": "{base.interaction-color.primary.30}",
+            "value": "{all.interaction-color.primary.30}",
             "type": "color",
-            "description": "base.interaction-color.primary.30"
+            "description": "all.interaction-color.primary.30"
           },
           "pressed": {
             "value": "{comp.inline-link.on-dark.text.pressed}",
@@ -1427,14 +1427,14 @@
         "on-light": {
           "text": {
             "active": {
-              "value": "{base.general-label-color.dark}",
+              "value": "{all.general-label-color.dark}",
               "type": "color",
-              "description": "base.general-label-color.dark"
+              "description": "all.general-label-color.dark"
             },
             "pressed": {
-              "value": "{base.interaction-color.secondary.60}",
+              "value": "{all.interaction-color.secondary.60}",
               "type": "color",
-              "description": "base.interaction-color.secondary.60"
+              "description": "all.interaction-color.secondary.60"
             },
             "disabled": {
               "value": "{core.ornamental-color.cloud.80}",
@@ -1535,7 +1535,7 @@
                 "y": "1",
                 "blur": "0",
                 "spread": "1",
-                "color": "{base.interaction-color.secondary.20}",
+                "color": "{all.interaction-color.secondary.20}",
                 "type": "dropShadow"
               },
               "type": "boxShadow",
@@ -1566,9 +1566,9 @@
               "description": "Mirrors active text state\n\ncomp.input-field.ornamental.on-light.text.active"
             },
             "hover": {
-              "value": "{base.interaction-color.secondary.70}",
+              "value": "{all.interaction-color.secondary.70}",
               "type": "color",
-              "description": "base.interaction-color.secondary.70"
+              "description": "all.interaction-color.secondary.70"
             },
             "focus": {
               "value": "{comp.input-field.ornamental.on-light.border-color.hover}",
@@ -1576,9 +1576,9 @@
               "description": "Mirrors the hover state\n\ncomp.input-field.ornamental.on-light.border-color.hover"
             },
             "pressed": {
-              "value": "{base.interaction-color.secondary.70}",
+              "value": "{all.interaction-color.secondary.70}",
               "type": "color",
-              "description": "base.interaction-color.secondary.70"
+              "description": "all.interaction-color.secondary.70"
             },
             "error": {
               "value": "{core.feedback-color.error.60}",
@@ -1603,19 +1603,19 @@
           },
           "text": {
             "active": {
-              "value": "{base.general-label-color.light}",
+              "value": "{all.general-label-color.light}",
               "type": "color",
-              "description": "base.general-label-color.dark"
+              "description": "all.general-label-color.dark"
             },
             "hover": {
-              "value": "{base.interaction-color.primary.20}",
+              "value": "{all.interaction-color.primary.20}",
               "type": "color",
-              "description": "base.interaction-color.primary.20"
+              "description": "all.interaction-color.primary.20"
             },
             "pressed": {
-              "value": "{base.interaction-color.primary.30}",
+              "value": "{all.interaction-color.primary.30}",
               "type": "color",
-              "description": "base.interaction-color.secondary.30"
+              "description": "all.interaction-color.secondary.30"
             },
             "disabled": {
               "value": "{core.ornamental-color.cloud.60}",
@@ -1766,9 +1766,9 @@
             "description": "core.ornamental-color.white"
           },
           "pressed": {
-            "value": "{base.interaction-color.secondary.10}",
+            "value": "{all.interaction-color.secondary.10}",
             "type": "color",
-            "description": "base.interaction-color.secondary.10"
+            "description": "all.interaction-color.secondary.10"
           }
         }
       },
@@ -1785,9 +1785,9 @@
             "description": "core.ornamental-color.black"
           },
           "pressed": {
-            "value": "{base.interaction-color.primary.90}",
+            "value": "{all.interaction-color.primary.90}",
             "type": "color",
-            "description": "base.interaction-color.primary.90"
+            "description": "all.interaction-color.primary.90"
           }
         }
       }
@@ -1813,9 +1813,9 @@
           }
         },
         "shadow-color": {
-          "value": "{base.interaction-color.secondary.60}",
+          "value": "{all.interaction-color.secondary.60}",
           "type": "color",
-          "description": "base.interaction-color.secondary.60"
+          "description": "all.interaction-color.secondary.60"
         }
       },
       "on-dark": {
@@ -1825,9 +1825,9 @@
           "description": "core.ornamental-color.black"
         },
         "shadow-color": {
-          "value": "{base.interaction-color.primary.30}",
+          "value": "{all.interaction-color.primary.30}",
           "type": "color",
-          "description": "base.interaction-color.primary.30"
+          "description": "all.interaction-color.primary.30"
         },
         "shadow-style": {
           "open": {
