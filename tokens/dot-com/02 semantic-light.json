@@ -252,7 +252,7 @@
           }
         }
       },
-      "canvas": {
+      "surface": {
         "primary": {
           "value": "{core.ornamental.color.white}",
           "type": "color",
