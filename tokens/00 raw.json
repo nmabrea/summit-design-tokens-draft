@@ -273,6 +273,36 @@
       "type": "fontWeights",
       "description": "400 Italic"
     }
+  },    
+  "type-weight": {
+    "display": {
+      "default": {
+        "value": "{font-weight.medium}",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "{font-weight.bold}",
+        "type": "fontWeights"
+      }
+    },
+    "text": {
+      "default": {
+        "value": "{font-weight.regular}",
+        "type": "fontWeights"
+      },
+      "bold": {
+        "value": "{font-weight.bold}",
+        "type": "fontWeights"
+      },
+      "italic": {
+        "value": "{font-weight.italic}",
+        "type": "fontWeights"
+      },
+      "medium": {
+        "value": "{font-weight.medium}",
+        "type": "fontWeights"
+      }
+    }
   },
   "text-deco": {
     "underline": {
@@ -390,6 +420,23 @@
     },
     "noto-sans-jp": {
       "value": "Noto Sans JP",
+      "type": "fontFamilies",
+      "description": "For Japanese localization only"
+    }
+  },  
+  "type-style": {
+    "ornamental": {
+      "value": "{font-family.es-rebond-grotesque}",
+      "type": "fontFamilies",
+      "description": "Primary font used for large headlines for marketing purposes."
+    },
+    "basic": {
+      "value": "{font-family.inter}",
+      "type": "fontFamilies",
+      "description": "Primary font used for essential communication."
+    },
+    "jp": {
+      "value": "{font-family.noto-sans-jp}",
       "type": "fontFamilies",
       "description": "For Japanese localization only"
     }
