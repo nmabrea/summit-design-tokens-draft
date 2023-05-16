@@ -37,19 +37,8 @@
         "type": "typography",
         "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
       }
-    },
-    "cta-label-color": {
-      "light": {
-        "value": "{core.ornamental-color.cloud.10}",
-        "type": "color",
-        "description": "Label colors on dark backgrounds\n\ncore.ornamental-color.cloud.10"
-      },
-      "dark": {
-        "value": "{core.ornamental-color.cloud.90}",
-        "type": "color",
-        "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
-      }
-    },
+    }
+  },
     "cta-icon": {
       "sm": {
         "value": "1rem",
