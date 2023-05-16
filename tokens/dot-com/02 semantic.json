@@ -1,6 +1,6 @@
 {
   "all": {
-    "button": {
+    "buttons": {
       "padding": {
         "lg": {
           "value": "{core.space-size.lg}",
