@@ -74,18 +74,6 @@
       }
     },
     "input-fields": {
-      "field-label-color": {
-        "on-secondarySurface": {
-          "value": "{all.content-texts.on-secondarySurface.highest-contrast.basic}",
-          "type": "color",
-          "description": "Label colors on dark backgrounds\n\ncore.ornamental-color.cloud.10"
-        },
-        "on-primarySurface": {
-          "value": "{all.content-texts.on-primarySurface.highest-contrast.basic}",
-          "type": "color",
-          "description": "Label colors on light backgrounds\n\ncore.ornamental-color.cloud.90"
-        }
-      },
       "field-label-type": {
         "standard": {
           "value": "{core.utility.type.desktop.text.xs.medium}",
