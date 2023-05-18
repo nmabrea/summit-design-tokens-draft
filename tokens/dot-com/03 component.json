@@ -330,7 +330,7 @@
               "description": "insight 60"
             },
             "disabled": {
-              "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
+              "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
               "type": "color",
               "description": "cloud 20"
             }
@@ -357,81 +357,81 @@
               "description": "edge 40"
             },
             "disabled": {
-              "value": "{all.interaction-cues.on-secondarySurface.disabled.fills}",
-              "type": "color",
-              "description": "cloud 80"
-            }
-          }
-        },
-        "label-color": {
-          "on-primarySurface": {
-            "default": {
-              "value": "{all.labels.default.white}",
-              "type": "color",
-              "description": "cloud 10"
-            },
-            "hover": {
-              "value": "{all.labels.default.white}",
-              "type": "color",
-              "description": "cloud 10"
-            },
-            "focus": {
-              "value": "{all.labels.default.white}",
-              "type": "color",
-              "description": "cloud 10"
-            },
-            "pressed": {
-              "value": "{all.labels.default.white}",
-              "type": "color",
-              "description": "cloud 10"
-            },
-            "disabled": {
-              "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
-              "type": "color",
-              "description": "cloud 80"
-            }
-          },
-          "on-secondarySurface": {
-            "default": {
-              "value": "{all.labels.default.black}",
-              "type": "color",
-              "description": "cloud 90"
-            },
-            "hover": {
-              "value": "{all.labels.default.black}",
-              "type": "color",
-              "description": "cloud 90"
-            },
-            "focus": {
-              "value": "{all.labels.default.black}",
-              "type": "color",
-              "description": "cloud 90"
-            },
-            "pressed": {
-              "value": "{all.labels.default.black}",
-              "type": "color",
-              "description": "cloud 90"
-            },
-            "disabled": {
               "value": "{all.interaction-cues.on-secondarySurface.disabled.overlays}",
               "type": "color",
               "description": "cloud 20"
             }
           }
         },
+        "label-color": {
+          "on-primarySurface": {
+            "default": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.default}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "hover": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "focus": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.focus}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "pressed": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.pressed}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "disabled": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.disabled}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            }
+          },
+          "on-secondarySurface": {
+            "default": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.default}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "hover": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "focus": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.focus}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "pressed": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.pressed}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "disabled": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.disabled}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            }
+          }
+        },
         "focus-outline-color": {
           "on-primarySurface": {
             "standard": {
-              "value": "{all.surfaces.primary}",
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.focus}",
               "type": "color",
-              "description": "Takes in the background color"
+              "description": "Mirrors outline color"
             }
           },
           "on-secondarySurface": {
             "standard": {
-              "value": "{all.surfaces.secondary}",
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.focus}",
               "type": "color",
-              "description": "Takes in the background color"
+              "description": "Mirrors the outline color"
             }
           }
         },
@@ -440,6 +440,28 @@
             "value": "{all.buttons.outline-thickness.regular}",
             "type": "borderWidth",
             "description": "1px"
+          }
+        },
+        "outset-outline-width": {
+          "standard": {
+            "value": "{all.buttons.border-thickness.regular}",
+            "type": "borderWidth",
+            "description": "1px"
+          }
+        },
+        "fill-color": {
+          "on-primarySurface": {
+            "disabled": {
+              "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
+              "type": "color"
+            }
+          },
+          "on-secondarySurface": {
+            "disabled": {
+              "value": "{all.interaction-cues.on-secondarySurface.disabled.fills}",
+              "type": "color",
+              "description": "cloud 80"
+            }
           }
         }
       }
