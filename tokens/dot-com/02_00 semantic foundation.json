@@ -2,58 +2,58 @@
   "all": {
     "buttons": {
       "target-area-padding": {
-        "small": {
+        "tiny": {
           "value": "{core.space-size.md}",
           "type": "spacing"
         },
-        "standard": {
+        "regular": {
           "value": "{core.space-size.sm}",
           "type": "spacing"
         },
-        "large": {
+        "jumbo": {
           "value": "{core.space-size.3xs}",
           "type": "spacing"
         }
       },
       "item-spacing": {
-        "standard": {
+        "regular": {
           "value": "{core.space-size.sm}",
           "type": "spacing"
         }
       },
       "label-type": {
-        "small": {
+        "tiny": {
           "value": "{core.utility.type.desktop.text.sm.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.sm.medium"
         },
-        "standard": {
+        "regular": {
           "value": "{core.utility.type.desktop.text.md.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.md.medium"
         },
-        "large": {
+        "jumbo": {
           "value": "{core.ornamental.type.desktop.display.2xl}",
           "type": "typography",
           "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
         }
       },
       "icon-size": {
-        "small": {
+        "tiny": {
           "value": "1rem",
           "type": "dimension"
         },
-        "standard": {
+        "regular": {
           "value": "1.5rem",
           "type": "dimension"
         },
-        "large": {
+        "jumbo": {
           "value": "2.5rem",
           "type": "dimension"
         }
       },
       "focus-area-padding": {
-        "standard": {
+        "regular": {
           "value": "{core.space-size.2xs}",
           "type": "spacing"
         }
