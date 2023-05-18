@@ -674,6 +674,249 @@
             "description": "1px"
           }
         }
+      },
+      "text-cta": {
+        "target-area-padding": {
+          "standard": {
+            "value": "{all.buttons.target-area-padding.regular}",
+            "type": "spacing",
+            "description": "12px"
+          },
+          "enlarged": {
+            "value": "{all.buttons.target-area-padding.jumbo}",
+            "type": "spacing",
+            "description": "16px"
+          }
+        },
+        "focus-area-padding": {
+          "standard": {
+            "value": "{all.buttons.focus-area-padding.regular}",
+            "type": "spacing",
+            "description": "4px"
+          }
+        },
+        "item-spacing": {
+          "standard": {
+            "value": "{all.buttons.item-spacing.regular}",
+            "type": "spacing",
+            "description": "12px"
+          }
+        },
+        "label-type": {
+          "minimum": {
+            "value": "{all.buttons.label-type.tiny}",
+            "type": "typography"
+          },
+          "standard": {
+            "value": "{all.buttons.label-type.regular}",
+            "type": "typography"
+          }
+        },
+        "icon-size": {
+          "minimum": {
+            "value": "{all.buttons.icon-size.tiny}",
+            "type": "sizing",
+            "description": "16px"
+          },
+          "standard": {
+            "value": "{all.buttons.icon-size.regular}",
+            "type": "sizing",
+            "description": "24px"
+          }
+        },
+        "corner-radius": {
+          "standard": {
+            "default": {
+              "value": "{all.buttons.corner-radius.action.round}",
+              "type": "borderRadius",
+              "description": "8px"
+            },
+            "hover": {
+              "value": "{all.buttons.corner-radius.marketing-cta.rounder}",
+              "type": "borderRadius",
+              "description": "16px"
+            },
+            "focus": {
+              "value": "{comp.button.solid-cta.corner-radius.standard.hover}",
+              "type": "borderRadius",
+              "description": "Mirrors the hover state"
+            },
+            "pressed": {
+              "value": "{all.buttons.corner-radius.marketing-cta.roundest}",
+              "type": "borderRadius",
+              "description": "24px"
+            },
+            "disabled": {
+              "value": "{comp.button.solid-cta.corner-radius.standard.default}",
+              "type": "borderRadius",
+              "description": "Mirrors the default state"
+            }
+          }
+        },
+        "focus-radius": {
+          "standard": {
+            "value": "{comp.button.solid-cta.corner-radius.standard.focus} * .75",
+            "type": "borderRadius",
+            "description": "comp.button.solid-cta.corner-radius.standard.focus * .75\n\nScaled down based on the main focus corner radius"
+          }
+        },
+        "outline-color": {
+          "on-primarySurface": {
+            "default": {
+              "value": "{all.interaction-cues.on-primarySurface.complete-contrast}",
+              "type": "color",
+              "description": "insight 90"
+            },
+            "hover": {
+              "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
+              "type": "color",
+              "description": "Insight 80"
+            },
+            "focus": {
+              "value": "{comp.button.solid-cta.fill-color.on-primarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors the hover state"
+            },
+            "pressed": {
+              "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
+              "type": "color",
+              "description": "insight 60"
+            },
+            "disabled": {
+              "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
+              "type": "color",
+              "description": "cloud 20"
+            }
+          },
+          "on-secondarySurface": {
+            "default": {
+              "value": "{all.interaction-cues.on-secondarySurface.higher-contrast}",
+              "type": "color",
+              "description": "edge 20"
+            },
+            "hover": {
+              "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+              "type": "color",
+              "description": "edge 30"
+            },
+            "focus": {
+              "value": "{comp.button.solid-cta.fill-color.on-secondarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors the hover state"
+            },
+            "pressed": {
+              "value": "{all.interaction-cues.on-secondarySurface.medium-contrast}",
+              "type": "color",
+              "description": "edge 40"
+            },
+            "disabled": {
+              "value": "{all.interaction-cues.on-secondarySurface.disabled.overlays}",
+              "type": "color",
+              "description": "cloud 20"
+            }
+          }
+        },
+        "label-color": {
+          "on-primarySurface": {
+            "default": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.default}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "hover": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "focus": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.focus}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "pressed": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.pressed}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            },
+            "disabled": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.disabled}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            }
+          },
+          "on-secondarySurface": {
+            "default": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.default}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "hover": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "focus": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.focus}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "pressed": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.pressed}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            },
+            "disabled": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.disabled}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            }
+          }
+        },
+        "focus-outline-color": {
+          "on-primarySurface": {
+            "standard": {
+              "value": "{comp.button.outline-cta.outline-color.on-primarySurface.focus}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            }
+          },
+          "on-secondarySurface": {
+            "standard": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.focus}",
+              "type": "color",
+              "description": "Mirrors the outline color"
+            }
+          }
+        },
+        "focus-outline-width": {
+          "standard": {
+            "value": "{all.buttons.outline-thickness.regular}",
+            "type": "borderWidth",
+            "description": "1px"
+          }
+        },
+        "outset-outline-width": {
+          "standard": {
+            "value": "{all.buttons.border-thickness.regular}",
+            "type": "borderWidth",
+            "description": "1px"
+          }
+        },
+        "fill-color": {
+          "on-primarySurface": {
+            "disabled": {
+              "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
+              "type": "color"
+            }
+          },
+          "on-secondarySurface": {
+            "disabled": {
+              "value": "{all.interaction-cues.on-secondarySurface.disabled.fills}",
+              "type": "color",
+              "description": "cloud 80"
+            }
+          }
+        }
       }
     }
   }
