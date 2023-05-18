@@ -87,14 +87,14 @@
           "description": "core.ornamental-color.edge.50"
         },
         "lower-contrast": {
-          "value": "{core.ornamental.color.edge.60}",
-          "type": "color",
-          "description": "core.ornamental-color.edge.60"
-        },
-        "lowest-contrast": {
           "value": "{core.ornamental.color.edge.70}",
           "type": "color",
-          "description": "core.ornamental.color.edge.70"
+          "description": "core.ornamental-color.edge.70"
+        },
+        "lowest-contrast": {
+          "value": "{core.ornamental.color.edge.80}",
+          "type": "color",
+          "description": "core.ornamental.color.edge.80"
         },
         "disabled": {
           "fills": {
