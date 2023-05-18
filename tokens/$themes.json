@@ -3,8 +3,7 @@
     "id": "58af8c5b1128fc1dd4c331aa51511818940fb541",
     "name": "All Brands",
     "selectedTokenSets": {
-      "00 raw": "source",
-      "dot-com/03 component": "disabled"
+      "00 raw": "source"
     },
     "$figmaStyleReferences": {
       "core.ornamental.cloud.10": "S:4dec44d4a9e4f12dbe55f6ceb73ce562e96ab1f3,",
