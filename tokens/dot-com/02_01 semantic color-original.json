@@ -48,7 +48,7 @@
             "type": "color",
             "description": "core.ornamental-color.cloud.20"
           },
-          "outlines": {
+          "overlays": {
             "value": "{core.ornamental.color.cloud.70}",
             "type": "color",
             "description": "core.ornamental.color.cloud.70"
@@ -102,7 +102,7 @@
             "type": "color",
             "description": "core.ornamental-color.cloud.80"
           },
-          "outlines": {
+          "overlays": {
             "value": "{core.ornamental.color.cloud.30}",
             "type": "color",
             "description": "core.ornamental.color.cloud.30"
@@ -156,7 +156,7 @@
             "type": "color",
             "description": "core.ornamental-color.cloud.20"
           },
-          "outlines": {
+          "overlays": {
             "value": "{core.ornamental.color.cloud.70}",
             "type": "color",
             "description": "core.ornamental.color.cloud.70"
@@ -426,6 +426,20 @@
           "value": "{core.ornamental.color.platform.60}",
           "type": "color",
           "description": "core.ornamental.color.platform.60"
+        }
+      }
+    },
+    "labels": {
+      "default": {
+        "black": {
+          "value": "{core.ornamental.color.cloud.90}",
+          "type": "color",
+          "description": "cloud 90"
+        },
+        "white": {
+          "value": "{core.ornamental.color.cloud.10}",
+          "type": "color",
+          "description": "cloud 10"
         }
       }
     }
