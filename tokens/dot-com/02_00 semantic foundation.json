@@ -57,6 +57,51 @@
           "value": "{core.space-size.2xs}",
           "type": "spacing"
         }
+      },
+      "corner-radius": {
+        "marketing-cta": {
+          "round": {
+            "value": ".5rem",
+            "type": "borderRadius",
+            "description": "8px"
+          },
+          "rounder": {
+            "value": "1rem",
+            "type": "borderRadius",
+            "description": "16px"
+          },
+          "roundest": {
+            "value": "1.5rem",
+            "type": "borderRadius",
+            "description": "24px"
+          }
+        },
+        "action": {
+          "round": {
+            "value": "{all.buttons.corner-radius.marketing-cta.round}",
+            "type": "borderRadius",
+            "description": "8px"
+          }
+        }
+      },
+      "border-thickness": {
+        "regular": {
+          "value": "1",
+          "type": "borderWidth",
+          "description": "1px"
+        },
+        "jumbo": {
+          "value": "2",
+          "type": "borderWidth",
+          "description": "2px"
+        }
+      },
+      "outline-thickness": {
+        "regular": {
+          "value": "1px",
+          "type": "borderWidth",
+          "description": "1px"
+        }
       }
     },
     "links": {
@@ -87,9 +132,10 @@
         }
       },
       "icon-size": {
-        "standard": {
+        "regular": {
           "value": "1rem",
-          "type": "dimension"
+          "type": "dimension",
+          "description": "16px"
         }
       }
     }
