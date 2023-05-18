@@ -223,7 +223,7 @@
         }
       }
     },
-    "covers": {
+    "mats": {
       "on-primarySurface": {
         "very-visible": {
           "value": "{core.ornamental.color.black}",
