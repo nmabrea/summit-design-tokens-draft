@@ -552,25 +552,20 @@
         },
         "fill-color": {
           "on-primarySurface": {
-            "default": {
-              "value": "{all.interaction-cues.on-primarySurface.complete-contrast}",
-              "type": "color",
-              "description": "insight 90"
-            },
             "hover": {
-              "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
+              "value": "{all.interaction-cues.on-primarySurface.lower-contrast}",
               "type": "color",
-              "description": "Insight 80"
+              "description": "Insight 30"
             },
             "focus": {
-              "value": "{comp.button.solid-cta.fill-color.on-primarySurface.hover}",
+              "value": "{comp.button.transparent-cta.fill-color.on-primarySurface.hover}",
               "type": "color",
               "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
+              "value": "{all.interaction-cues.on-primarySurface.lowest-contrast}",
               "type": "color",
-              "description": "insight 60"
+              "description": "insight 20"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
@@ -579,25 +574,20 @@
             }
           },
           "on-secondarySurface": {
-            "default": {
-              "value": "{all.interaction-cues.on-secondarySurface.higher-contrast}",
-              "type": "color",
-              "description": "edge 20"
-            },
             "hover": {
-              "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+              "value": "{all.interaction-cues.on-secondarySurface.lower-contrast}",
               "type": "color",
-              "description": "edge 30"
+              "description": "edge 70"
             },
             "focus": {
-              "value": "{comp.button.solid-cta.fill-color.on-secondarySurface.hover}",
+              "value": "{comp.button.transparent-cta.fill-color.on-secondarySurface.hover}",
               "type": "color",
               "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.interaction-cues.on-secondarySurface.medium-contrast}",
+              "value": "{all.interaction-cues.on-secondarySurface.lowest-contrast}",
               "type": "color",
-              "description": "edge 40"
+              "description": "edge 90"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-secondarySurface.disabled.fills}",
@@ -609,24 +599,23 @@
         "label-color": {
           "on-primarySurface": {
             "default": {
-              "value": "{all.labels.default.white}",
+              "value": "{all.labels.default.black}",
               "type": "color",
-              "description": "cloud 10"
+              "description": "cloud 90"
             },
             "hover": {
-              "value": "{all.labels.default.white}",
+              "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
               "type": "color",
-              "description": "cloud 10"
+              "description": "insight 80"
             },
             "focus": {
-              "value": "{all.labels.default.white}",
+              "value": "{comp.button.transparent-cta.label-color.on-primarySurface.hover}",
               "type": "color",
-              "description": "cloud 10"
+              "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.labels.default.white}",
-              "type": "color",
-              "description": "cloud 10"
+              "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
+              "type": "color"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
@@ -636,24 +625,24 @@
           },
           "on-secondarySurface": {
             "default": {
-              "value": "{all.labels.default.black}",
+              "value": "{all.labels.default.white}",
               "type": "color",
-              "description": "cloud 90"
+              "description": "cloud 10"
             },
             "hover": {
-              "value": "{all.labels.default.black}",
+              "value": "{all.interaction-cues.on-secondarySurface.highest-contrast}",
               "type": "color",
-              "description": "cloud 90"
+              "description": "edge 10"
             },
             "focus": {
-              "value": "{all.labels.default.black}",
+              "value": "{comp.button.transparent-cta.label-color.on-secondarySurface.hover}",
               "type": "color",
-              "description": "cloud 90"
+              "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.labels.default.black}",
+              "value": "{all.interaction-cues.on-secondarySurface.highest-contrast}",
               "type": "color",
-              "description": "cloud 90"
+              "description": "edge 10"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-secondarySurface.disabled.overlays}",
@@ -665,16 +654,16 @@
         "focus-outline-color": {
           "on-primarySurface": {
             "standard": {
-              "value": "{all.surfaces.primary}",
+              "value": "{comp.button.transparent-cta.label-color.on-primarySurface.focus}",
               "type": "color",
-              "description": "Takes in the background color"
+              "description": "Mirrors the focus text"
             }
           },
           "on-secondarySurface": {
             "standard": {
-              "value": "{all.surfaces.secondary}",
+              "value": "{comp.button.transparent-cta.label-color.on-secondarySurface.focus}",
               "type": "color",
-              "description": "Takes in the background color"
+              "description": "Mirrors the focus text"
             }
           }
         },
