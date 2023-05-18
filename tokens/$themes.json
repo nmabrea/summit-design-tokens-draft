@@ -3,7 +3,8 @@
     "id": "58af8c5b1128fc1dd4c331aa51511818940fb541",
     "name": "All Brands",
     "selectedTokenSets": {
-      "00 raw": "source"
+      "00 raw": "source",
+      "dot-com/03 component": "disabled"
     },
     "$figmaStyleReferences": {
       "core.ornamental.cloud.10": "S:4dec44d4a9e4f12dbe55f6ceb73ce562e96ab1f3,",
@@ -700,10 +701,10 @@
     "name": "Dot Com - Original",
     "selectedTokenSets": {
       "00 raw": "source",
-      "dot-com/03 component": "enabled",
       "01 core": "source",
       "dot-com/02_00 semantic foundation": "enabled",
-      "dot-com/02_01 semantic color-original": "enabled"
+      "dot-com/02_01 semantic color-original": "enabled",
+      "dot-com/03 component": "enabled"
     },
     "$figmaStyleReferences": {
       "core.ornamental-type.desktop.display.sm": "S:723091064ea8aa233abda1a0b8808705317a11c0,",
