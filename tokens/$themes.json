@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "id": "7521a8ca4440a43f8f7a7240ad8f27aa72a18a5c",
+    "name": "Summit - Main",
+    "selectedTokenSets": {
+      "00 raw": "source",
+      "01 core": "source",
+      "dot-com/02_00 semantic foundation": "enabled",
+      "dot-com/02_01 semantic color-original": "enabled",
+      "dot-com/03 component": "enabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
