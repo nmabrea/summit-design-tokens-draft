@@ -2,7 +2,7 @@
   "all": {
     "buttons": {
       "target-area-padding": {
-        "tiny": {
+        "jumbo": {
           "value": "{core.space-size.md}",
           "type": "spacing"
         },
@@ -10,7 +10,7 @@
           "value": "{core.space-size.sm}",
           "type": "spacing"
         },
-        "jumbo": {
+        "tiny": {
           "value": "{core.space-size.3xs}",
           "type": "spacing"
         }
