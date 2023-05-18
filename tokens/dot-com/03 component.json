@@ -393,24 +393,24 @@
           },
           "on-secondarySurface": {
             "default": {
-              "value": "{all.labels.default.white}",
+              "value": "{all.labels.default.black}",
               "type": "color",
-              "description": "cloud 10"
+              "description": "cloud 90"
             },
             "hover": {
-              "value": "{all.labels.default.white}",
+              "value": "{all.labels.default.black}",
               "type": "color",
-              "description": "cloud 10"
+              "description": "cloud 90"
             },
             "focus": {
-              "value": "{all.labels.default.white}",
+              "value": "{all.labels.default.black}",
               "type": "color",
-              "description": "cloud 10"
+              "description": "cloud 90"
             },
             "pressed": {
-              "value": "{all.labels.default.white}",
+              "value": "{all.labels.default.black}",
               "type": "color",
-              "description": "cloud 10"
+              "description": "cloud 90"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-secondarySurface.disabled.overlays}",
@@ -418,8 +418,31 @@
               "description": "cloud 20"
             }
           }
+        },
+        "focus-outline-color": {
+          "on-primarySurface": {
+            "standard": {
+              "value": "{all.surfaces.primary}",
+              "type": "color",
+              "description": "Takes in the background color"
+            }
+          },
+          "on-secondarySurface": {
+            "standard": {
+              "value": "{all.surfaces.secondary}",
+              "type": "color",
+              "description": "Takes in the background color"
+            }
+          }
+        },
+        "focus-outline-width": {
+          "standard": {
+            "value": "{all.buttons.outline-thickness.regular}",
+            "type": "borderWidth",
+            "description": "1px"
+          }
         }
-      }
+      },
     }
   }
 }
