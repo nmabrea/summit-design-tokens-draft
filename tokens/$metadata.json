@@ -1,5 +1,10 @@
 {
   "tokenSetOrder": [
-    "global"
+    "global",
+    "00 raw",
+    "01 core",
+    "dot-com/02_00 semantic foundation",
+    "dot-com/02_01 semantic color-original",
+    "dot-com/03 component"
   ]
 }

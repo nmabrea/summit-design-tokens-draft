@@ -307,7 +307,7 @@
             "description": "comp.button.solid-cta.corner-radius.standard.focus * .75\n\nScaled down based on the main focus corner radius"
           }
         },
-        "fill-color": {
+        "outline-color": {
           "on-primarySurface": {
             "default": {
               "value": "{all.interaction-cues.on-primarySurface.complete-contrast}",
