@@ -126,19 +126,19 @@
               "description": "edge 30"
             },
             "focus": {
-              "value": "{comp.button.solid-cta.fill-color.on-primarySurface.hover}",
+              "value": "{comp.button.solid-cta.fill-color.on-secondarySurface.hover}",
               "type": "color",
               "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
+              "value": "{all.interaction-cues.on-secondarySurface.medium-contrast}",
               "type": "color",
-              "description": "insight 60"
+              "description": "edge 40"
             },
             "disabled": {
-              "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
+              "value": "{all.interaction-cues.on-secondarySurface.disabled.fills}",
               "type": "color",
-              "description": "cloud 20"
+              "description": "cloud 80"
             }
           }
         },
