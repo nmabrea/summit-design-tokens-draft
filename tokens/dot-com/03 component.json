@@ -828,7 +828,7 @@
         "bottom-border-color": {
           "on-primarySurface": {
             "focus": {
-              "value": "{comp.button.text-cta.border-color.on-primarySurface.hover}",
+              "value": "{comp.button.text-cta.bottom-border-color.on-primarySurface.hover}",
               "type": "color",
               "description": "Mirrors hover state"
             },
@@ -918,11 +918,6 @@
           "value": "1",
           "type": "borderWidth",
           "description": "1px"
-        },
-        "thick": {
-          "value": "2",
-          "type": "borderWidth",
-          "description": "2px"
         }
       },
       "target-area-padding": {
@@ -971,9 +966,9 @@
             "description": "Mirrors text color"
           },
           "pressed": {
-            "value": "{comp.inline-link.label-color.on-primarySurface.pressed}",
+            "value": "{all.surfaces.primary}",
             "type": "color",
-            "description": "Mirrors text color"
+            "description": "Should take in the background color; basically invisible"
           },
           "disabled": {
             "value": "{all.surfaces.primary}",
@@ -988,19 +983,19 @@
             "description": "Should take in background color; basically invisible"
           },
           "hover": {
-            "value": "{comp.inline-link.label-color.on-primarySurface.hover}",
+            "value": "{comp.inline-link.label-color.on-secondarySurface.hover}",
             "type": "color",
             "description": "Mirrors text color"
           },
           "focus": {
-            "value": "{comp.inline-link.label-color.on-primarySurface.focus}",
+            "value": "{comp.inline-link.label-color.on-secondarySurface.focus}",
             "type": "color",
             "description": "Mirrors text color"
           },
           "pressed": {
-            "value": "{comp.inline-link.label-color.on-primarySurface.pressed}",
+            "value": "{all.surfaces.secondary}",
             "type": "color",
-            "description": "Mirrors text color"
+            "description": "Should take in the background color; basically invisible"
           },
           "disabled": {
             "value": "{all.surfaces.secondary}",
