@@ -442,6 +442,119 @@
           "description": "cloud 10"
         }
       }
+    },
+    "error-cues": {
+      "on-primarySurface": {
+        "highest-contrast": {
+          "value": "{core.utility.color.error.80}",
+          "type": "color",
+          "description": "core.utility.color.error.80"
+        },
+        "higher-contrast": {
+          "value": "{core.utility.color.error.70}",
+          "type": "color",
+          "description": "core.utility.color.error.70"
+        },
+        "high-contrast": {
+          "value": "{core.utility.color.error.60}",
+          "type": "color",
+          "description": "core.utility.color.error.60"
+        },
+        "medium-contrast": {
+          "value": "{core.utility.color.error.50}",
+          "type": "color",
+          "description": "core.utility.color.error.50"
+        },
+        "low-contrast": {
+          "value": "{core.utility.color.error.40}",
+          "type": "color",
+          "description": "core.utility.color.error.40"
+        },
+        "lower-contrast": {
+          "value": "{core.utility.color.error.30}",
+          "type": "color",
+          "description": "core.utility.color.error.30"
+        },
+        "lowest-contrast": {
+          "value": "{core.utility.color.error.20}",
+          "type": "color",
+          "description": "core.utility.color.error.20"
+        }
+      },
+      "on-secondarySurface": {
+        "highest-contrast": {
+          "value": "{core.utility.color.error.10}",
+          "type": "color",
+          "description": "core.utility.color.error.10"
+        },
+        "higher-contrast": {
+          "value": "{core.utility.color.error.20}",
+          "type": "color",
+          "description": "core.utility.color.error.20"
+        },
+        "high-contrast": {
+          "value": "{core.utility.color.error.30}",
+          "type": "color",
+          "description": "core.utility.color.error.30"
+        },
+        "medium-contrast": {
+          "value": "{core.utility.color.error.40}",
+          "type": "color",
+          "description": "core.utility.color.error.40"
+        },
+        "low-contrast": {
+          "value": "{core.utility.color.error.50}",
+          "type": "color",
+          "description": "core.utility.color.error.50"
+        },
+        "lower-contrast": {
+          "value": "{core.utility.color.error.60}",
+          "type": "color",
+          "description": "core.utility.color.error.60"
+        },
+        "lowest-contrast": {
+          "value": "{core.utility.color.error.70}",
+          "type": "color",
+          "description": "core.utility.color.error.70"
+        }
+      },
+      "on-tertiarySurface": {
+        "highest-contrast": {
+          "value": "{all.error-cues.on-primarySurface.highest-contrast}",
+          "type": "color",
+          "description": "core.ornamental-color.insight.80"
+        },
+        "higher-contrast": {
+          "value": "{all.error-cues.on-primarySurface.higher-contrast}",
+          "type": "color",
+          "description": "core.ornamental-color.insight.70"
+        },
+        "high-contrast": {
+          "value": "{all.error-cues.on-primarySurface.high-contrast}",
+          "type": "color",
+          "description": "core.ornamental-color.insight.60"
+        },
+        "medium-contrast": {
+          "value": "{all.error-cues.on-primarySurface.medium-contrast}",
+          "type": "color",
+          "description": "core.ornamental-color.insight.50"
+        },
+        "low-contrast": {
+          "value": "{all.error-cues.on-primarySurface.low-contrast}",
+          "type": "color",
+          "description": "core.ornamental-color.insight.40"
+        },
+        "lower-contrast": {
+          "value": "{all.error-cues.on-primarySurface.lower-contrast}",
+          "type": "color",
+          "description": "core.ornamental-color.insight.30"
+        },
+        "lowest-contrast": {
+          "value": "{all.error-cues.on-primarySurface.lowest-contrast}",
+          "type": "color",
+          "description": "core.ornamental-color.insight.20"
+        }
+      }
     }
   }
 }
