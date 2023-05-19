@@ -122,11 +122,6 @@
           "value": "1",
           "type": "borderWidth",
           "description": "1px"
-        },
-        "jumbo": {
-          "value": "2",
-          "type": "borderWidth",
-          "description": "2px"
         }
       },
       "outline-thickness": {
