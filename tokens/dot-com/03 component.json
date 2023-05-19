@@ -3,12 +3,12 @@
     "button": {
       "solid-cta": {
         "target-area-padding": {
-          "standard": {
+          "minimum": {
             "value": "{all.buttons.target-area-padding.regular}",
             "type": "spacing",
             "description": "12px"
           },
-          "enlarged": {
+          "standard": {
             "value": "{all.buttons.target-area-padding.jumbo}",
             "type": "spacing",
             "description": "16px"
@@ -224,12 +224,12 @@
       },
       "outline-cta": {
         "target-area-padding": {
-          "standard": {
+          "minimum": {
             "value": "{all.buttons.target-area-padding.regular}",
             "type": "spacing",
             "description": "12px"
           },
-          "enlarged": {
+          "standard": {
             "value": "{all.buttons.target-area-padding.jumbo}",
             "type": "spacing",
             "description": "16px"
@@ -467,12 +467,12 @@
       },
       "transparent-cta": {
         "target-area-padding": {
-          "standard": {
+          "minimum": {
             "value": "{all.buttons.target-area-padding.regular}",
             "type": "spacing",
             "description": "12px"
           },
-          "enlarged": {
+          "standard": {
             "value": "{all.buttons.target-area-padding.jumbo}",
             "type": "spacing",
             "description": "16px"
@@ -682,10 +682,10 @@
             "type": "spacing",
             "description": "12px"
           },
-          "enlarged": {
-            "value": "{all.buttons.target-area-padding.jumbo}",
+          "tight": {
+            "value": "{all.buttons.target-area-padding.tiny}",
             "type": "spacing",
-            "description": "16px"
+            "description": "4px"
           }
         },
         "focus-area-padding": {
@@ -1016,6 +1016,453 @@
           "value": "{all.buttons.icon-size.tiny}",
           "type": "sizing",
           "description": "16px"
+        }
+      }
+    },
+    "lead-gen-field": {
+      "target-area-padding": {
+        "standard": {
+          "value": "{all.input-fields.target-area-padding.regular}",
+          "type": "spacing",
+          "description": "12px"
+        },
+        "minimum": {
+          "value": "{all.input-fields.target-area-padding.tiny}",
+          "type": "spacing",
+          "description": "8px"
+        }
+      },
+      "item-spacing": {
+        "standard": {
+          "value": "{all.input-fields.item-spacing.regular}",
+          "type": "spacing",
+          "description": "12px"
+        }
+      },
+      "label-type": {
+        "standard": {
+          "value": "{all.input-fields.field-label-type.regular}",
+          "type": "typography"
+        }
+      },
+      "input-text-type": {
+        "standard": {
+          "value": "{all.input-fields.input-text-type.regular}",
+          "type": "typography"
+        },
+        "minimum": {
+          "value": "{all.input-fields.input-text-type.tiny}",
+          "type": "typography"
+        }
+      },
+      "message-text-type": {
+        "standard": {
+          "value": "{all.input-fields.message-type.regular}",
+          "type": "typography"
+        }
+      },
+      "field-fill-color": {
+        "on-primarySurface": {
+          "enabled": {
+            "value": "{all.surfaces.primary}",
+            "type": "color",
+            "description": "Should take in background color"
+          },
+          "disabled": {
+            "value": "{all.mats.on-primarySurface.visible.basic}",
+            "type": "color",
+            "description": "cloud 20"
+          }
+        },
+        "on-secondarySurface": {
+          "enabled": {
+            "value": "{all.surfaces.secondary}",
+            "type": "color",
+            "description": "Should take in the background color"
+          },
+          "disabled": {
+            "value": "{all.mats.on-secondarySurface.visible.basic}",
+            "type": "color",
+            "description": "cloud 60"
+          }
+        }
+      },
+      "input-text-color": {
+        "on-primarySurface": {
+          "empty": {
+            "value": "{all.content-texts.on-primarySurface.medium-contrast}",
+            "type": "color",
+            "description": "cloud 70"
+          },
+          "filled": {
+            "value": "{all.content-texts.on-primarySurface.highest-contrast.basic}",
+            "type": "color",
+            "description": "cloud 90"
+          }
+        },
+        "on-secondarySurface": {
+          "empty": {
+            "value": "{all.content-texts.on-secondarySurface.medium-contrast}",
+            "type": "color",
+            "description": "cloud 20"
+          },
+          "filled": {
+            "value": "{all.content-texts.on-secondarySurface.highest-contrast.basic}",
+            "type": "color",
+            "description": "cloud 10"
+          }
+        }
+      },
+      "field-label-color": {
+        "on-primarySurface": {
+          "standard": {
+            "value": "{all.content-texts.on-primarySurface.highest-contrast.basic}",
+            "type": "color",
+            "description": "cloud 90"
+          }
+        },
+        "on-secondarySurface": {
+          "standard": {
+            "value": "{all.content-texts.on-secondarySurface.highest-contrast.basic}",
+            "type": "color",
+            "description": "cloud 10"
+          }
+        }
+      },
+      "field-border-color": {
+        "on-primarySurface": {
+          "empty": {
+            "value": "{comp.lead-gen-field.input-text-color.on-primarySurface.empty}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "hover": {
+            "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
+            "type": "color",
+            "description": "insight 60"
+          },
+          "focus": {
+            "value": "{comp.lead-gen-field.field-border-color.on-primarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors hover state"
+          },
+          "pressed": {
+            "value": "{all.interaction-cues.on-primarySurface.higher-contrast}",
+            "type": "color",
+            "description": "insight 80"
+          },
+          "filled": {
+            "value": "{comp.lead-gen-field.input-text-color.on-primarySurface.filled}",
+            "type": "color",
+            "description": "Mirrors input text color"
+          },
+          "error": {
+            "value": "{all.error-cues.on-primarySurface.high-contrast}",
+            "type": "color",
+            "description": "error 60"
+          }
+        },
+        "on-secondarySurface": {
+          "empty": {
+            "value": "{comp.lead-gen-field.input-text-color.on-secondarySurface.empty}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "hover": {
+            "value": "{all.interaction-cues.on-secondarySurface.medium-contrast}",
+            "type": "color",
+            "description": "edge 40"
+          },
+          "focus": {
+            "value": "{comp.lead-gen-field.field-border-color.on-secondarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors hover state"
+          },
+          "pressed": {
+            "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+            "type": "color",
+            "description": "edge 30"
+          },
+          "filled": {
+            "value": "{comp.lead-gen-field.input-text-color.on-secondarySurface.filled}",
+            "type": "color",
+            "description": "Mirrors input text color"
+          },
+          "error": {
+            "value": "{all.error-cues.on-secondarySurface.medium-contrast}",
+            "type": "color",
+            "description": "error 40"
+          }
+        }
+      },
+      "message-content-color": {
+        "on-primarySurface": {
+          "standard": {
+            "value": "{comp.lead-gen-field.field-border-color.on-primarySurface.error}",
+            "type": "color",
+            "description": "Mirrors border error state"
+          }
+        },
+        "on-secondarySurface": {
+          "standard": {
+            "value": "{comp.lead-gen-field.field-border-color.on-secondarySurface.error}",
+            "type": "color",
+            "description": "Mirrors border error state"
+          }
+        }
+      },
+      "shadow-interaction": {
+        "on-primarySurface": {
+          "default": {
+            "hover": {
+              "value": {
+                "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "blur": "0",
+                "spread": "{all.input-fields.shadow-spread-size.regular}",
+                "color": "{all.interaction-cues.on-primarySurface.low-contrast}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
+            "focus": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{all.interaction-cues.on-primarySurface.low-contrast}",
+                  "type": "dropShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.big}",
+                  "color": "{all.interaction-cues.on-primarySurface.lowest-contrast}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            },
+            "pressed": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-primarySurface.pressed}",
+                  "type": "innerShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-primarySurface.pressed}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            }
+          },
+          "error": {
+            "hover": {
+              "value": {
+                "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "blur": "0",
+                "spread": "{all.input-fields.shadow-spread-size.regular}",
+                "color": "{all.error-cues.on-primarySurface.lower-contrast}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
+            "focus": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{all.error-cues.on-primarySurface.lower-contrast}",
+                  "type": "dropShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.big}",
+                  "color": "{all.error-cues.on-primarySurface.lowest-contrast}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            },
+            "pressed": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-primarySurface.error}",
+                  "type": "innerShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-primarySurface.error}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            }
+          }
+        },
+        "on-secondarySurface": {
+          "default": {
+            "hover": {
+              "value": {
+                "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "blur": "0",
+                "spread": "{all.input-fields.shadow-spread-size.regular}",
+                "color": "{all.interaction-cues.on-secondarySurface.lower-contrast}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
+            "focus": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{all.interaction-cues.on-secondarySurface.lower-contrast}",
+                  "type": "dropShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.big}",
+                  "color": "{all.interaction-cues.on-secondarySurface.lowest-contrast}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            },
+            "pressed": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-secondarySurface.pressed}",
+                  "type": "innerShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-secondarySurface.pressed}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            }
+          },
+          "error": {
+            "hover": {
+              "value": {
+                "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                "blur": "0",
+                "spread": "{all.input-fields.shadow-spread-size.regular}",
+                "color": "{all.error-cues.on-secondarySurface.lower-contrast}",
+                "type": "dropShadow"
+              },
+              "type": "boxShadow"
+            },
+            "focus": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{all.error-cues.on-secondarySurface.lower-contrast}",
+                  "type": "dropShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.big}",
+                  "color": "{all.error-cues.on-secondarySurface.lowest-contrast}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            },
+            "pressed": {
+              "value": [
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.inside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-secondarySurface.error}",
+                  "type": "innerShadow"
+                },
+                {
+                  "x": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "y": "{all.input-fields.shadow-x-y-offset.advertising.outside}",
+                  "blur": "0",
+                  "spread": "{all.input-fields.shadow-spread-size.regular}",
+                  "color": "{comp.lead-gen-field.field-border-color.on-secondarySurface.error}",
+                  "type": "dropShadow"
+                }
+              ],
+              "type": "boxShadow"
+            }
+          }
+        }
+      },
+      "border-width": {
+        "standard": {
+          "value": "{all.input-fields.border-thickness}",
+          "type": "borderWidth",
+          "description": "1px"
+        }
+      },
+      "corner-radius": {
+        "standard": {
+          "value": "{all.input-fields.corner-radius.round}",
+          "type": "borderRadius",
+          "description": "8px"
+        }
+      }
+    },
+    "lead-gen-fields": {
+      "icon-size": {
+        "minimum": {
+          "value": "{all.input-fields.icon-size.tiny}",
+          "type": "sizing",
+          "description": "16px"
+        },
+        "standard": {
+          "value": "{all.input-fields.icon-size.regular}",
+          "type": "sizing",
+          "description": "24px"
         }
       }
     }
