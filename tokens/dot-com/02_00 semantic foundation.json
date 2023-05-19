@@ -76,7 +76,7 @@
             "description": "24px"
           }
         },
-        "functional": {
+        "simple": {
           "round": {
             "value": "{all.buttons.corner-radius.advertising.round}",
             "type": "borderRadius",

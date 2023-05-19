@@ -53,7 +53,7 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.functional.round}",
+              "value": "{all.buttons.corner-radius.simple.round}",
               "type": "borderRadius",
               "description": "8px"
             },
@@ -274,7 +274,7 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.functional.round}",
+              "value": "{all.buttons.corner-radius.simple.round}",
               "type": "borderRadius",
               "description": "8px"
             },
@@ -517,7 +517,7 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.functional.round}",
+              "value": "{all.buttons.corner-radius.simple.round}",
               "type": "borderRadius",
               "description": "8px"
             },
@@ -727,7 +727,7 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.functional.round}",
+              "value": "{all.buttons.corner-radius.simple.round}",
               "type": "borderRadius",
               "description": "8px"
             },
