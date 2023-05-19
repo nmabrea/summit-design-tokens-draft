@@ -106,15 +106,55 @@
     },
     "links": {
       "label-type": {
-        "emphasized": {
+        "important": {
           "value": "{core.utility.type.desktop.text.xs.bold}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.xs.bold"
         },
-        "standard": {
+        "common": {
           "value": "{core.utility.type.desktop.text.xs.default}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.xs.default"
+        }
+      },
+      "border-thickness": {
+        "regular": {
+          "value": "1",
+          "type": "borderWidth",
+          "description": "1px"
+        },
+        "jumbo": {
+          "value": "2",
+          "type": "borderWidth",
+          "description": "2px"
+        }
+      },
+      "outline-thickness": {
+        "standard": {
+          "value": "1",
+          "type": "borderWidth",
+          "description": "1px"
+        }
+      },
+      "item-spacing": {
+        "regular": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing",
+          "description": "12px"
+        }
+      },
+      "target-area-padding": {
+        "regular": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "focus-area-padding": {
+        "regular": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
         }
       }
     },
