@@ -845,6 +845,184 @@
           }
         }
       }
+    },
+    "inline-link": {
+      "label-color": {
+        "on-primarySurface": {
+          "default": {
+            "value": "{all.interaction-cues.on-primarySurface.complete-contrast}",
+            "type": "color",
+            "description": "cloud 90"
+          },
+          "hover": {
+            "value": "{all.interaction-cues.on-primarySurface.higher-contrast}",
+            "type": "color",
+            "description": "insight 70"
+          },
+          "focus": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors hover state"
+          },
+          "pressed": {
+            "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
+            "type": "color",
+            "description": "insight 60"
+          },
+          "disabled": {
+            "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
+            "type": "color",
+            "description": "cloud 70"
+          }
+        },
+        "on-secondarySurface": {
+          "default": {
+            "value": "{all.interaction-cues.on-secondarySurface.complete-contrast}",
+            "type": "color",
+            "description": "cloud 10"
+          },
+          "hover": {
+            "value": "{all.interaction-cues.on-secondarySurface.higher-contrast}",
+            "type": "color",
+            "description": "edge 20"
+          },
+          "focus": {
+            "value": "{comp.inline-link.label-color.on-secondarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors hover state"
+          },
+          "pressed": {
+            "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+            "type": "color",
+            "description": "edge 30"
+          },
+          "disabled": {
+            "value": "{all.interaction-cues.on-secondarySurface.disabled.overlays}",
+            "type": "color",
+            "description": "cloud 30"
+          }
+        }
+      },
+      "label-type": {
+        "standard": {
+          "value": "{all.links.label-type.common}",
+          "type": "typography"
+        },
+        "emphasized": {
+          "value": "{all.links.label-type.important}",
+          "type": "typography"
+        }
+      },
+      "bottom-border-width": {
+        "standard": {
+          "value": "1",
+          "type": "borderWidth",
+          "description": "1px"
+        },
+        "thick": {
+          "value": "2",
+          "type": "borderWidth",
+          "description": "2px"
+        }
+      },
+      "target-area-padding": {
+        "standard": {
+          "value": "{all.links.target-area-padding.regular}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "focus-area-padding": {
+        "standard": {
+          "value": "{all.links.focus-area-padding.regular}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "item-spacing": {
+        "standard": {
+          "value": "{all.links.item-spacing.regular}",
+          "type": "spacing",
+          "description": "12px"
+        }
+      },
+      "outline-width": {
+        "focus": {
+          "value": "1",
+          "type": "borderWidth",
+          "description": "1px"
+        }
+      },
+      "bottom-border-color": {
+        "on-primarySurface": {
+          "default": {
+            "value": "{all.surfaces.primary}",
+            "type": "color",
+            "description": "Should take in background color; basically invisible"
+          },
+          "hover": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "focus": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.focus}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "pressed": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.pressed}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "disabled": {
+            "value": "{all.surfaces.primary}",
+            "type": "color",
+            "description": "Should take in background color; basically invisible"
+          }
+        },
+        "on-secondarySurface": {
+          "default": {
+            "value": "{all.surfaces.secondary}",
+            "type": "color",
+            "description": "Should take in background color; basically invisible"
+          },
+          "hover": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "focus": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.focus}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "pressed": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.pressed}",
+            "type": "color",
+            "description": "Mirrors text color"
+          },
+          "disabled": {
+            "value": "{all.surfaces.secondary}",
+            "type": "color",
+            "description": "Should take in background color; basically invisible"
+          }
+        }
+      },
+      "outline-color": {
+        "focus": {
+          "value": "{comp.inline-link.label-color.on-primarySurface.focus}",
+          "type": "color",
+          "description": "Mirros label focus state"
+        }
+      },
+      "icon-size": {
+        "standard": {
+          "value": "{all.buttons.icon-size.tiny}",
+          "type": "sizing",
+          "description": "16px"
+        }
+      }
     }
   }
 }
