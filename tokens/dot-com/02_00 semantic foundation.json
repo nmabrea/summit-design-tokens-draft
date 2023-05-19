@@ -59,7 +59,7 @@
         }
       },
       "corner-radius": {
-        "marketing-cta": {
+        "advertising": {
           "round": {
             "value": ".5rem",
             "type": "borderRadius",
@@ -76,9 +76,9 @@
             "description": "24px"
           }
         },
-        "action": {
+        "functional": {
           "round": {
-            "value": "{all.buttons.corner-radius.marketing-cta.round}",
+            "value": "{all.buttons.corner-radius.advertising.round}",
             "type": "borderRadius",
             "description": "8px"
           }

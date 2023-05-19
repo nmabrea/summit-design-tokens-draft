@@ -53,12 +53,12 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.action.round}",
+              "value": "{all.buttons.corner-radius.functional.round}",
               "type": "borderRadius",
               "description": "8px"
             },
             "hover": {
-              "value": "{all.buttons.corner-radius.marketing-cta.rounder}",
+              "value": "{all.buttons.corner-radius.advertising.rounder}",
               "type": "borderRadius",
               "description": "16px"
             },
@@ -68,7 +68,7 @@
               "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.buttons.corner-radius.marketing-cta.roundest}",
+              "value": "{all.buttons.corner-radius.advertising.roundest}",
               "type": "borderRadius",
               "description": "24px"
             },
@@ -274,12 +274,12 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.action.round}",
+              "value": "{all.buttons.corner-radius.functional.round}",
               "type": "borderRadius",
               "description": "8px"
             },
             "hover": {
-              "value": "{all.buttons.corner-radius.marketing-cta.rounder}",
+              "value": "{all.buttons.corner-radius.advertising.rounder}",
               "type": "borderRadius",
               "description": "16px"
             },
@@ -289,7 +289,7 @@
               "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.buttons.corner-radius.marketing-cta.roundest}",
+              "value": "{all.buttons.corner-radius.advertising.roundest}",
               "type": "borderRadius",
               "description": "24px"
             },
@@ -517,12 +517,12 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.action.round}",
+              "value": "{all.buttons.corner-radius.functional.round}",
               "type": "borderRadius",
               "description": "8px"
             },
             "hover": {
-              "value": "{all.buttons.corner-radius.marketing-cta.rounder}",
+              "value": "{all.buttons.corner-radius.advertising.rounder}",
               "type": "borderRadius",
               "description": "16px"
             },
@@ -532,7 +532,7 @@
               "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.buttons.corner-radius.marketing-cta.roundest}",
+              "value": "{all.buttons.corner-radius.advertising.roundest}",
               "type": "borderRadius",
               "description": "24px"
             },
@@ -727,12 +727,12 @@
         "corner-radius": {
           "standard": {
             "default": {
-              "value": "{all.buttons.corner-radius.action.round}",
+              "value": "{all.buttons.corner-radius.functional.round}",
               "type": "borderRadius",
               "description": "8px"
             },
             "hover": {
-              "value": "{all.buttons.corner-radius.marketing-cta.rounder}",
+              "value": "{all.buttons.corner-radius.advertising.rounder}",
               "type": "borderRadius",
               "description": "16px"
             },
@@ -742,7 +742,7 @@
               "description": "Mirrors the hover state"
             },
             "pressed": {
-              "value": "{all.buttons.corner-radius.marketing-cta.roundest}",
+              "value": "{all.buttons.corner-radius.advertising.roundest}",
               "type": "borderRadius",
               "description": "24px"
             },
