@@ -825,7 +825,7 @@
             }
           }
         },
-        "border-color": {
+        "bottom-border-color": {
           "on-primarySurface": {
             "focus": {
               "value": "{comp.button.text-cta.border-color.on-primarySurface.hover}",
