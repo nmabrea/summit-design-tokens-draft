@@ -261,6 +261,32 @@
           "description": "Completely circular"
         }
       }
+    },
+    "list-items": {
+      "target-area-padding": {
+        "regular": {
+          "value": "{core.space-size.3xs}",
+          "type": "spacing",
+          "description": "2px"
+        }
+      },
+      "focus-area-padding": {
+        "regular": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "label-type": {
+        "regular": {
+          "value": "{core.utility.type.desktop.text.xs.default}",
+          "type": "typography"
+        },
+        "regular-underlined": {
+          "value": "{core.utility.type.desktop.text.xs.underline}",
+          "type": "typography"
+        }
+      }
     }
   }
 }
