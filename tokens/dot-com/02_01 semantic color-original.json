@@ -232,9 +232,16 @@
         },
         "visible": {
           "basic": {
-            "value": "{core.ornamental.color.cloud.20}",
-            "type": "color",
-            "description": "core.ornamental.color.cloud.20"
+            "lowest-contrast": {
+              "value": "{core.ornamental.color.cloud.20}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.20"
+            },
+            "low-contrast": {
+              "value": "{core.ornamental.color.cloud.30}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.30"
+            }
           },
           "trendy": {
             "edge": {
@@ -278,9 +285,16 @@
         },
         "visible": {
           "basic": {
-            "value": "{core.ornamental.color.cloud.60}",
-            "type": "color",
-            "description": "core.ornamental.color.cloud.60"
+            "low-contrast": {
+              "value": "{core.ornamental.color.cloud.60}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.60"
+            },
+            "lowest-contrast": {
+              "value": "{core.ornamental.color.cloud.80}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.80"
+            }
           },
           "trendy": {
             "edge": {
@@ -324,9 +338,16 @@
         },
         "visible": {
           "basic": {
-            "value": "{core.ornamental.color.cloud.30}",
-            "type": "color",
-            "description": "core.ornamental.color.cloud.30"
+            "lowest-contrast": {
+              "value": "{core.ornamental.color.cloud.30}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.30"
+            },
+            "low-contrast": {
+              "value": "{core.ornamental.color.cloud.40}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.40"
+            }
           },
           "trendy": {
             "edge": {
