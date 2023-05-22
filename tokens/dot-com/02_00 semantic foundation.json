@@ -303,6 +303,66 @@
           "description": "1px"
         }
       }
+    },
+    "menus": {
+      "container-padding": {
+        "tiny": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing",
+          "description": "8px"
+        },
+        "regular": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing",
+          "description": "12px"
+        },
+        "jumbo": {
+          "value": "{core.space-size.2xl}",
+          "type": "spacing",
+          "description": "40px"
+        }
+      },
+      "item-spacing": {
+        "tiny": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        },
+        "regular": {
+          "value": "{core.space-size.md}",
+          "type": "spacing",
+          "description": "16px"
+        },
+        "jumbo": {
+          "value": "{core.space-size.2xl}",
+          "type": "spacing",
+          "description": "40px"
+        }
+      },
+      "corner-radius": {
+        "tiny": {
+          "value": ".25rem",
+          "type": "borderRadius",
+          "description": "4px"
+        },
+        "regular": {
+          "value": "1rem",
+          "type": "borderRadius",
+          "description": "16px"
+        },
+        "jumbo": {
+          "value": "1.5rem",
+          "type": "borderRadius",
+          "description": "24px"
+        }
+      },
+      "border-thickness": {
+        "regular": {
+          "value": "2",
+          "type": "borderWidth",
+          "description": "2px"
+        }
+      }
     }
   }
 }
