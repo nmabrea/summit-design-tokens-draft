@@ -1532,12 +1532,12 @@
         },
         "on-secondarySurface": {
           "default": {
-            "value": "{all.surfaces.secondary}",
+            "value": "{core.ornamental.color.cloud.80}",
             "type": "color",
             "description": "Should take in context of background color"
           },
           "hover": {
-            "value": "{all.surfaces.secondary}",
+            "value": "{core.ornamental.color.cloud.80}",
             "type": "color",
             "description": "Should take in context of background color"
           },
@@ -1581,6 +1581,116 @@
           "value": "{all.list-items.outline-thickness.regular}",
           "type": "borderWidth",
           "description": "1px"
+        }
+      }
+    },
+    "dropdown-menu": {
+      "container-padding": {
+        "minimum": {
+          "value": "{all.menus.container-padding.tiny}",
+          "type": "spacing",
+          "description": "8px"
+        },
+        "standard": {
+          "value": "{all.menus.container-padding.regular}",
+          "type": "spacing",
+          "description": "12px"
+        }
+      },
+      "list-item-spacing": {
+        "minimum": {
+          "value": "{all.menus.item-spacing.tiny}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "bottom-radius": {
+        "minimum": {
+          "value": "{all.menus.corner-radius.tiny}",
+          "type": "borderRadius",
+          "description": "4px"
+        },
+        "standard": {
+          "value": "{all.menus.corner-radius.regular}",
+          "type": "borderRadius",
+          "description": "16px"
+        }
+      },
+      "top-border-width": {
+        "standard": {
+          "value": "{all.menus.border-thickness.regular}",
+          "type": "borderWidth",
+          "description": "2px"
+        }
+      },
+      "scroll-bar-width": {
+        "standard": {
+          "value": "{all.menus.scroll-bar-thickness.regular}",
+          "type": "borderWidth",
+          "description": "2px"
+        }
+      },
+      "top-border-color": {
+        "on-primarySurface": {
+          "standard": {
+            "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
+            "type": "color",
+            "description": "insight 60"
+          }
+        },
+        "on-secondarySurface": {
+          "standard": {
+            "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+            "type": "color",
+            "description": "edge 30"
+          }
+        }
+      },
+      "scroll-bar-color": {
+        "on-primarySurface": {
+          "standard": {
+            "value": "{all.interaction-cues.on-primarySurface.low-contrast}",
+            "type": "color",
+            "description": "insight 30"
+          }
+        },
+        "on-secondarySurface": {
+          "standard": {
+            "value": "{all.interaction-cues.on-secondarySurface.low-contrast}",
+            "type": "color",
+            "description": "edge 50"
+          }
+        }
+      },
+      "shadow": {
+        "on-primarySurface": {
+          "standard": {
+            "value": {
+              "x": "{all.menus.shadow-x-y-outset.tiny}",
+              "y": "{all.menus.shadow-x-y-outset.tiny}",
+              "blur": "{all.menus.shadow-blur.regular}",
+              "spread": "{all.menus.shadow-spread-size.tiny}",
+              "color": "rgba({all.surfaces.secondary}, {all.menus.shadow-opacity.more-soft})",
+              "type": "dropShadow"
+            },
+            "type": "boxShadow"
+          }
+        }
+      },
+      "fill-color": {
+        "on-primarySurface": {
+          "standard": {
+            "value": "{all.surfaces.primary}",
+            "type": "color",
+            "description": "Should take in the background context"
+          }
+        },
+        "on-secondarySurface": {
+          "standard": {
+            "value": "{core.ornamental.color.cloud.80}",
+            "type": "color",
+            "description": "cloud 80"
+          }
         }
       }
     }
