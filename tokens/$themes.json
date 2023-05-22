@@ -171,7 +171,6 @@
       "all.content-texts.on-tertiarySurface.highest-contrast.trendy": "S:97e600f70e4ca4267706aae3347738fa1de2f037,",
       "all.content-texts.on-tertiarySurface.medium-contrast": "S:262f3a29b288ecfff09932def352de8974062788,",
       "all.mats.on-primarySurface.very-visible": "S:e6b727795ee6a4b11b45b41088eb5ec5699b6942,",
-      "all.mats.on-primarySurface.visible.basic": "S:82acd1aae587c32aece98dbda2db02ff00b783ae,",
       "all.mats.on-primarySurface.visible.trendy.edge": "S:11cc14f3d6c1d1265bc0e5565708ae9e4656a72a,",
       "all.mats.on-primarySurface.visible.trendy.future": "S:15e5571cfaf0346ad604ae0208e47f5e4bbd77bf,",
       "all.mats.on-primarySurface.visible.trendy.data": "S:7cf4b360907236de31d5f3772b73c5b98b12f4b4,",
@@ -179,7 +178,6 @@
       "all.mats.on-primarySurface.visible.trendy.platform": "S:1ef097d5ea3032e0af67f29e1321f8d80ca6839b,",
       "all.mats.on-primarySurface.invisible": "S:5497fe869af4f62b1cfd9a4a40d00fc81e43e4b2,",
       "all.mats.on-secondarySurface.very-visible": "S:c0f50adceb8c274295b8c47446be45f80dfd765d,",
-      "all.mats.on-secondarySurface.visible.basic": "S:8382cdc6f0c59d9fc81da9dd3ffa01fe46101d1b,",
       "all.mats.on-secondarySurface.visible.trendy.edge": "S:bc99433f65a318d7f90d13b8bbcdac69e19f99dd,",
       "all.mats.on-secondarySurface.visible.trendy.future": "S:c92f8b807a842c671a07a5941336a5af7a57392a,",
       "all.mats.on-secondarySurface.visible.trendy.data": "S:f1055372cfd7fa4d32b0b0c60ba07aebc9705ff2,",
@@ -187,7 +185,6 @@
       "all.mats.on-secondarySurface.visible.trendy.platform": "S:4ae702ba6ccf3f06c0a36c099a3c3d7f70c7ece4,",
       "all.mats.on-secondarySurface.invisible": "S:b32d269b00fdffc967cb2d14c6c50f9fccde6183,",
       "all.mats.on-tertiarySurface.very-visible": "S:fc4087ad30e6fc98e30a44459bd0b94a15c7652d,",
-      "all.mats.on-tertiarySurface.visible.basic": "S:de5187c4450db735070c99913fe9206d9ed40e17,",
       "all.mats.on-tertiarySurface.visible.trendy.edge": "S:ca6b93a91e5cdecbfaa300b3c93b8da18cc90c08,",
       "all.mats.on-tertiarySurface.visible.trendy.future": "S:8f760329387fea73d2a4fa66f4962bf5219d324b,",
       "all.mats.on-tertiarySurface.visible.trendy.data": "S:580b54c1cdf4df0d581b2dfaf60960b5f524904f,",
@@ -263,7 +260,10 @@
       "comp.lead-gen-field.shadow-interaction.on-secondarySurface.default.pressed": "S:c343a47c7a5155a8a24e0e4b9b0f905b48fcbf60,",
       "comp.lead-gen-field.shadow-interaction.on-secondarySurface.error.hover": "S:96309754c3283a29e1664f3cfcee9c22c43130fa,",
       "comp.lead-gen-field.shadow-interaction.on-secondarySurface.error.focus": "S:300fd950f1597b57aef1c3f8c3ed7efd6a14b4f4,",
-      "comp.lead-gen-field.shadow-interaction.on-secondarySurface.error.pressed": "S:685481e01a41005c5fe9a82324bcc7a3edc2e934,"
+      "comp.lead-gen-field.shadow-interaction.on-secondarySurface.error.pressed": "S:685481e01a41005c5fe9a82324bcc7a3edc2e934,",
+      "all.mats.on-secondarySurface.visible.basic.low-contrast": "S:8382cdc6f0c59d9fc81da9dd3ffa01fe46101d1b,",
+      "all.mats.on-primarySurface.visible.basic.lowest-contrast": "S:82acd1aae587c32aece98dbda2db02ff00b783ae,",
+      "all.mats.on-tertiarySurface.visible.basic.lowest-contrast": "S:de5187c4450db735070c99913fe9206d9ed40e17,"
     }
   }
 ]

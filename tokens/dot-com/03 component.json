@@ -1069,7 +1069,7 @@
             "description": "Should take in background color"
           },
           "disabled": {
-            "value": "{all.mats.on-primarySurface.visible.basic}",
+            "value": "{all.mats.on-primarySurface.visible.basic.lowest-contrast}",
             "type": "color",
             "description": "cloud 20"
           }
@@ -1081,7 +1081,7 @@
             "description": "Should take in the background color"
           },
           "disabled": {
-            "value": "{all.mats.on-secondarySurface.visible.basic}",
+            "value": "{all.mats.on-secondarySurface.visible.basic.low-contrast}",
             "type": "color",
             "description": "cloud 60"
           }
