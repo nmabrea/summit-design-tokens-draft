@@ -208,9 +208,11 @@
         }
       },
       "border-thickness": {
-        "value": "1",
-        "type": "borderWidth",
-        "description": "1px"
+        "regular": {
+          "value": "1",
+          "type": "borderWidth",
+          "description": "1px"
+        }
       },
       "shadow-spread-size": {
         "regular": {
@@ -265,9 +267,9 @@
     "list-items": {
       "target-area-padding": {
         "regular": {
-          "value": "{core.space-size.3xs}",
+          "value": "{core.space-size.2xs}",
           "type": "spacing",
-          "description": "2px"
+          "description": "4px"
         }
       },
       "focus-area-padding": {
@@ -285,6 +287,20 @@
         "regular-underlined": {
           "value": "{core.utility.type.desktop.text.xs.underline}",
           "type": "typography"
+        }
+      },
+      "corner-radius": {
+        "round": {
+          "value": ".5rem",
+          "type": "borderRadius",
+          "description": "8px"
+        }
+      },
+      "outline-thickness": {
+        "regular": {
+          "value": "1",
+          "type": "borderWidth",
+          "description": "1px"
         }
       }
     }

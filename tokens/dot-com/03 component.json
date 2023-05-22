@@ -1439,7 +1439,7 @@
       },
       "border-width": {
         "standard": {
-          "value": "{all.input-fields.border-thickness}",
+          "value": "{all.input-fields.border-thickness.regular}",
           "type": "borderWidth",
           "description": "1px"
         }
@@ -1463,6 +1463,124 @@
           "value": "{all.input-fields.icon-size.regular}",
           "type": "sizing",
           "description": "24px"
+        }
+      }
+    },
+    "dropdown-item": {
+      "target-area-padding": {
+        "standard": {
+          "value": "{all.list-items.target-area-padding.regular}",
+          "type": "spacing",
+          "description": "2px"
+        }
+      },
+      "focus-area-padding": {
+        "standard": {
+          "value": "{all.list-items.focus-area-padding.regular}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "label-type": {
+        "standard": {
+          "value": "{all.list-items.label-type.regular}",
+          "type": "typography"
+        },
+        "examined": {
+          "value": "{all.list-items.label-type.regular-underlined}",
+          "type": "typography"
+        }
+      },
+      "label-color": {
+        "on-primarySurface": {
+          "standard": {
+            "value": "{all.labels.default.black}",
+            "type": "color",
+            "description": "cloud 90"
+          }
+        },
+        "on-secondarySurface": {
+          "standard": {
+            "value": "{all.labels.default.white}",
+            "type": "color",
+            "description": "cloud 10"
+          }
+        }
+      },
+      "fill-color": {
+        "on-primarySurface": {
+          "default": {
+            "value": "{all.surfaces.primary}",
+            "type": "color",
+            "description": "Should take in context of background color"
+          },
+          "hover": {
+            "value": "{all.surfaces.primary}",
+            "type": "color",
+            "description": "Should take in context of background color"
+          },
+          "focus": {
+            "value": "{comp.dropdown-item.fill-color.on-primarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors hover state"
+          },
+          "selected": {
+            "value": "{all.interaction-cues.on-primarySurface.lowest-contrast}",
+            "type": "color",
+            "description": "insight 10"
+          }
+        },
+        "on-secondarySurface": {
+          "default": {
+            "value": "{all.surfaces.secondary}",
+            "type": "color",
+            "description": "Should take in context of background color"
+          },
+          "hover": {
+            "value": "{all.surfaces.secondary}",
+            "type": "color",
+            "description": "Should take in context of background color"
+          },
+          "focus": {
+            "value": "{comp.dropdown-item.fill-color.on-secondarySurface.hover}",
+            "type": "color",
+            "description": "Mirrors hover state"
+          },
+          "selected": {
+            "value": "{all.interaction-cues.on-secondarySurface.lowest-contrast}",
+            "type": "color",
+            "description": "edge 10"
+          }
+        }
+      },
+      "focus-radius": {
+        "standard": {
+          "value": "{all.list-items.corner-radius.round}",
+          "type": "borderRadius",
+          "description": "8px"
+        }
+      },
+      "outline-color": {
+        "on-primarySurface": {
+          "focus": {
+            "value": "{comp.dropdown-item.label-color.on-primarySurface.standard}",
+            "type": "color",
+            "description": "Same as label color"
+          }
+        },
+        "on-secondarySurface": {
+          "focus": {
+            "value": "{comp.dropdown-item.label-color.on-secondarySurface.standard}",
+            "type": "color",
+            "description": "Same as label color"
+          }
+        }
+      },
+      "outline-width": {
+        "focus": {
+          "value": "{all.list-items.outline-thickness.regular}",
+          "type": "borderWidth",
+          "description": "1px"
         }
       }
     }
