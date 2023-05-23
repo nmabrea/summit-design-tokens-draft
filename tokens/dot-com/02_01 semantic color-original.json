@@ -5,53 +5,53 @@
         "complete-contrast": {
           "value": "{core.ornamental.color.cloud.90}",
           "type": "color",
-          "description": "core.ornamental-color.cloud.90"
+          "description": "core.ornamental-color.cloud.90\n\n[WCAG 2.2] 16.1:1\n[WCAG 3.0] 103.1"
         },
         "highest-contrast": {
           "value": "{core.ornamental.color.insight.80}",
           "type": "color",
-          "description": "core.ornamental-color.insight.80"
+          "description": "core.ornamental-color.insight.80\n\n[WCAG 2.2] 9.86:1\n[WCAG 3.0] 91.5"
         },
         "higher-contrast": {
           "value": "{core.ornamental.color.insight.70}",
           "type": "color",
-          "description": "core.ornamental-color.insight.70"
+          "description": "core.ornamental-color.insight.70\n\n[WCAG 2.2] 7.9:1\n[WCAG 3.0] 85.8"
         },
         "high-contrast": {
           "value": "{core.ornamental.color.insight.60}",
           "type": "color",
-          "description": "core.ornamental-color.insight.60"
+          "description": "core.ornamental-color.insight.60\n\n[WCAG 2.2] 5.75:1\n[WCAG 3.0] 77.7"
         },
         "medium-contrast": {
           "value": "{core.ornamental.color.insight.50}",
           "type": "color",
-          "description": "core.ornamental-color.insight.50"
+          "description": "core.ornamental-color.insight.50\n\n[WCAG 2.2] 3.39:1\n[WCAG 3.0] 61.0"
         },
         "low-contrast": {
           "value": "{core.ornamental.color.insight.40}",
           "type": "color",
-          "description": "core.ornamental-color.insight.40"
+          "description": "core.ornamental-color.insight.40\n\n[WCAG 2.2] 2.97:1\n[WCAG 3.0] 56.1"
         },
         "lower-contrast": {
           "value": "{core.ornamental.color.insight.30}",
           "type": "color",
-          "description": "core.ornamental-color.insight.30"
+          "description": "core.ornamental-color.insight.30\n\n[WCAG 2.2] 1.97:1\n[WCAG 3.0] 37.9"
         },
         "lowest-contrast": {
           "value": "{core.ornamental.color.insight.20}",
           "type": "color",
-          "description": "core.ornamental-color.insight.20"
+          "description": "core.ornamental-color.insight.20\n\n[WCAG 2.2] 1.58:1\n[WCAG 3.0] 26.6"
         },
         "disabled": {
           "fills": {
             "value": "{core.ornamental.color.cloud.20}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.20"
+            "description": "core.ornamental-color.cloud.20\n\n[WCAG 2.2] 1.39:1\n[WCAG 3.0] 19.3"
           },
           "overlays": {
             "value": "{core.ornamental.color.cloud.70}",
             "type": "color",
-            "description": "core.ornamental.color.cloud.70"
+            "description": "core.ornamental.color.cloud.70 on disabled fills\n\n[WCAG 2.2] 5.25:1\n[WCAG 3.0] 63.9"
           }
         }
       },
@@ -59,53 +59,53 @@
         "complete-contrast": {
           "value": "{core.ornamental.color.cloud.10}",
           "type": "color",
-          "description": "core.ornamental-color.cloud.10"
+          "description": "core.ornamental-color.cloud.10\n\n[WCAG 2.2] 18.28:1\n[WCAG 3.0] -97.5"
         },
         "highest-contrast": {
           "value": "{core.ornamental.color.edge.10}",
           "type": "color",
-          "description": "core.ornamental-color.edge.10"
+          "description": "core.ornamental-color.edge.10\n\n[WCAG 2.2] 19.96:1\n[WCAG 3.0] -104.0"
         },
         "higher-contrast": {
           "value": "{core.ornamental.color.edge.20}",
           "type": "color",
-          "description": "core.ornamental-color.edge.20"
+          "description": "core.ornamental-color.edge.20\n\n[WCAG 2.2] 18.98:1\n[WCAG 3.0] -100.3"
         },
         "high-contrast": {
           "value": "{core.ornamental.color.edge.30}",
           "type": "color",
-          "description": "core.ornamental-color.edge.30"
+          "description": "core.ornamental-color.edge.30\n\n[WCAG 2.2] 17.98:1\n[WCAG 3.0] -96.6"
         },
         "medium-contrast": {
           "value": "{core.ornamental.color.edge.40}",
           "type": "color",
-          "description": "core.ornamental-color.edge.40"
+          "description": "core.ornamental-color.edge.40\n\n[WCAG 2.2] 13.88:1\n[WCAG 3.0] -79.5"
         },
         "low-contrast": {
           "value": "{core.ornamental.color.edge.50}",
           "type": "color",
-          "description": "core.ornamental-color.edge.50"
+          "description": "core.ornamental-color.edge.50\n\n[WCAG 2.2] 10.45:1\n[WCAG 3.0] -63.8"
         },
         "lower-contrast": {
-          "value": "{core.ornamental.color.edge.70}",
+          "value": "{core.ornamental.color.edge.60}",
           "type": "color",
-          "description": "core.ornamental-color.edge.70"
+          "description": "core.ornamental-color.edge.60\n\n[WCAG 2.2] 6.89:1\n[WCAG 3.0] -44.9"
         },
         "lowest-contrast": {
-          "value": "{core.ornamental.color.edge.80}",
+          "value": "{core.ornamental.color.edge.70}",
           "type": "color",
-          "description": "core.ornamental.color.edge.80"
+          "description": "core.ornamental.color.edge.70\n\n[WCAG 2.2] 3.59:1\n[WCAG 3.0] -22.8"
         },
         "disabled": {
           "fills": {
-            "value": "{core.ornamental.color.cloud.80}",
+            "value": "{core.ornamental.color.cloud.70}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.80"
+            "description": "core.ornamental-color.cloud.70\n\n[WCAG 2.2] 2.86:1\n[WCAG 3.0] -16.5"
           },
           "overlays": {
-            "value": "{core.ornamental.color.cloud.30}",
+            "value": "{core.ornamental.color.cloud.20}",
             "type": "color",
-            "description": "core.ornamental.color.cloud.30"
+            "description": "core.ornamental.color.cloud.20\n\n[WCAG 2.2] 5.25\n[WCAG 3.0] -66.6"
           }
         }
       },
@@ -113,48 +113,48 @@
         "complete-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.complete-contrast}",
           "type": "color",
-          "description": "Mirrors cue colors on-primarySurface\n\ncore.ornamental-color.cloud.90"
+          "description": "core.ornamental-color.cloud.90\n\n[WCAG 2.2] 16.1:1\n[WCAG 3.0] 103.1"
         },
         "highest-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
           "type": "color",
-          "description": "core.ornamental-color.insight.80"
+          "description": "core.ornamental-color.insight.80\n\n[WCAG 2.2] 9.86:1\n[WCAG 3.0] 91.5"
         },
         "higher-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.higher-contrast}",
           "type": "color",
-          "description": "core.ornamental-color.insight.70"
+          "description": "core.ornamental-color.insight.70\n\n[WCAG 2.2] 7.9:1\n[WCAG 3.0] 85.8"
         },
         "high-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
           "type": "color",
-          "description": "core.ornamental-color.insight.60"
+          "description": "core.ornamental-color.insight.60\n\n[WCAG 2.2] 5.75:1\n[WCAG 3.0] 77.7"
         },
         "medium-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.medium-contrast}",
           "type": "color",
-          "description": "core.ornamental-color.insight.50"
+          "description": "core.ornamental-color.insight.50\n\n[WCAG 2.2] 3.39:1\n[WCAG 3.0] 61.0"
         },
         "low-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.low-contrast}",
           "type": "color",
-          "description": "core.ornamental-color.insight.40"
+          "description": "core.ornamental-color.insight.40\n\n[WCAG 2.2] 2.97:1\n[WCAG 3.0] 56.1"
         },
         "lower-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.lower-contrast}",
           "type": "color",
-          "description": "core.ornamental-color.insight.30"
+          "description": "core.ornamental-color.insight.30\n\n[WCAG 2.2] 1.97:1\n[WCAG 3.0] 37.9"
         },
         "lowest-contrast": {
           "value": "{all.interaction-cues.on-primarySurface.lowest-contrast}",
           "type": "color",
-          "description": "core.ornamental-color.insight.20"
+          "description": "core.ornamental-color.insight.20\n\n[WCAG 2.2] 1.58:1\n[WCAG 3.0] 26.6"
         },
         "disabled": {
           "fills": {
             "value": "{core.ornamental.color.cloud.20}",
             "type": "color",
-            "description": "core.ornamental-color.cloud.20"
+            "description": "core.ornamental-color.cloud.20\n\n[WCAG 2.2] 5.25\n[WCAG 3.0] -66.6"
           },
           "overlays": {
             "value": "{core.ornamental.color.cloud.70}",
@@ -226,9 +226,9 @@
     "mats": {
       "on-primarySurface": {
         "very-visible": {
-          "value": "{core.ornamental.color.black}",
+          "value": "{all.surfaces.secondary}",
           "type": "color",
-          "description": "core.ornamental.color.black"
+          "description": "all.surfaces.secondary"
         },
         "visible": {
           "basic": {
@@ -279,9 +279,9 @@
       },
       "on-secondarySurface": {
         "very-visible": {
-          "value": "{core.ornamental.color.white}",
+          "value": "{all.surfaces.primary}",
           "type": "color",
-          "description": "core.ornamental.color.white"
+          "description": "all.surfaces.primary"
         },
         "visible": {
           "basic": {
