@@ -7,8 +7,7 @@
       "01 core": "source",
       "dot-com/02_00 semantic foundation": "enabled",
       "dot-com/02_01 semantic color-original": "enabled",
-      "dot-com/03 component": "enabled",
-      "dot-com/02_01 semantic color-with-blue": "disabled"
+      "dot-com/03 component": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button.solid-cta.fill-color.on-primarySurface.default": "S:7728ce5eed442c29a54c5f6934fa5b126a7c8d6e,",
@@ -107,7 +106,6 @@
       "comp.inline-link.bottom-border-color.on-secondarySurface.focus": "S:bfd81fc16e3262eed07085745a7121284305ac0b,",
       "comp.inline-link.bottom-border-color.on-secondarySurface.pressed": "S:0682bcc838fb6ed13f0588c83ad40e829c2be1f2,",
       "comp.inline-link.bottom-border-color.on-secondarySurface.disabled": "S:922007f72ef1b72bc464a7fe502bfd6fc5ee8e8b,",
-      "comp.inline-link.outline-color.focus": "S:b090d3a9ba694f76ca86c028fd9996a4091d2377,",
       "comp.lead-gen-field.field-fill-color.on-primarySurface.enabled": "S:3b71b1b24b11f04dcce73aea909be24d44451962,",
       "comp.lead-gen-field.field-fill-color.on-primarySurface.disabled": "S:4b7fdc3531b7d4c3bd66bfa10d9e5e0a85ccf986,",
       "comp.lead-gen-field.field-fill-color.on-secondarySurface.enabled": "S:f89e1a4477963acb699988ace02f0e50631a6e24,",
@@ -290,7 +288,8 @@
       "comp.dropdown-item.label-type.examined": "S:10c982998b03f06d208ebd0e6dfa118dfd3b5f9a,",
       "all.list-items.label-type.regular": "S:122a9a02a1dc1de5357385a8afc8bacfa1dd3230,",
       "all.list-items.label-type.regular-underlined": "S:f973231150f51888166e7a5f0aa1e3b4256acf77,",
-      "comp.dropdown-menu.shadow.on-primarySurface.standard": "S:72d3be091ea8ca242487b486740701de263accb6,"
+      "comp.dropdown-menu.shadow.on-primarySurface.standard": "S:72d3be091ea8ca242487b486740701de263accb6,",
+      "comp.inline-link.outline-color.on-primarySurface.focus": "S:b090d3a9ba694f76ca86c028fd9996a4091d2377,"
     }
   },
   {
