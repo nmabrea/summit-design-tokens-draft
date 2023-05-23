@@ -96,7 +96,7 @@
             "hover": {
               "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
               "type": "color",
-              "description": "Insight 80"
+              "description": "Future 80"
             },
             "focus": {
               "value": "{comp.button.solid-cta.fill-color.on-primarySurface.hover}",
@@ -106,7 +106,7 @@
             "pressed": {
               "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
               "type": "color",
-              "description": "insight 60"
+              "description": "Future 60"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
@@ -317,7 +317,7 @@
             "hover": {
               "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
               "type": "color",
-              "description": "Insight 80"
+              "description": "future 80"
             },
             "focus": {
               "value": "{comp.button.solid-cta.fill-color.on-primarySurface.hover}",
@@ -327,7 +327,7 @@
             "pressed": {
               "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
               "type": "color",
-              "description": "insight 60"
+              "description": "future 60"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
@@ -553,9 +553,9 @@
         "fill-color": {
           "on-primarySurface": {
             "hover": {
-              "value": "{all.interaction-cues.on-primarySurface.lower-contrast}",
+              "value": "{all.interaction-cues.on-primarySurface.lowest-contrast}",
               "type": "color",
-              "description": "Insight 30"
+              "description": "future 20"
             },
             "focus": {
               "value": "{comp.button.transparent-cta.fill-color.on-primarySurface.hover}",
@@ -565,7 +565,7 @@
             "pressed": {
               "value": "{all.interaction-cues.on-primarySurface.lowest-contrast}",
               "type": "color",
-              "description": "insight 20"
+              "description": "future 20"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
@@ -606,7 +606,7 @@
             "hover": {
               "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
               "type": "color",
-              "description": "insight 80"
+              "description": "future 80"
             },
             "focus": {
               "value": "{comp.button.transparent-cta.label-color.on-primarySurface.hover}",
@@ -770,7 +770,7 @@
             "hover": {
               "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
               "type": "color",
-              "description": "insight 80"
+              "description": "future 80"
             },
             "focus": {
               "value": "{comp.button.text-cta.label-color.on-primarySurface.hover}",
@@ -780,7 +780,7 @@
             "pressed": {
               "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
               "type": "color",
-              "description": "insight 60"
+              "description": "future 60"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
@@ -857,7 +857,7 @@
           "hover": {
             "value": "{all.interaction-cues.on-primarySurface.higher-contrast}",
             "type": "color",
-            "description": "insight 70"
+            "description": "future 70"
           },
           "focus": {
             "value": "{comp.inline-link.label-color.on-primarySurface.hover}",
@@ -867,7 +867,7 @@
           "pressed": {
             "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
             "type": "color",
-            "description": "insight 60"
+            "description": "future 60"
           },
           "disabled": {
             "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
@@ -1148,7 +1148,7 @@
           "hover": {
             "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
             "type": "color",
-            "description": "insight 60"
+            "description": "future 60"
           },
           "focus": {
             "value": "{comp.lead-gen-field.field-border-color.on-primarySurface.hover}",
@@ -1158,7 +1158,7 @@
           "pressed": {
             "value": "{all.interaction-cues.on-primarySurface.higher-contrast}",
             "type": "color",
-            "description": "insight 80"
+            "description": "future 70"
           },
           "filled": {
             "value": "{comp.lead-gen-field.input-text-color.on-primarySurface.filled}",
@@ -1536,7 +1536,7 @@
           "selected": {
             "value": "{all.interaction-cues.on-primarySurface.lowest-contrast}",
             "type": "color",
-            "description": "insight 10"
+            "description": "future 10"
           }
         },
         "on-secondarySurface": {
@@ -1644,7 +1644,7 @@
           "standard": {
             "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
             "type": "color",
-            "description": "insight 60"
+            "description": "future 60"
           }
         },
         "on-secondarySurface": {
@@ -1660,7 +1660,7 @@
           "standard": {
             "value": "{all.interaction-cues.on-primarySurface.low-contrast}",
             "type": "color",
-            "description": "insight 30"
+            "description": "future 30"
           }
         },
         "on-secondarySurface": {
@@ -1711,7 +1711,7 @@
           "description": "12px"
         }
       },
-      "field-top-radius": {
+      "field-corner-radius": {
         "standard": {
           "value": ".5rem",
           "type": "borderRadius",
@@ -1719,10 +1719,37 @@
         }
       },
       "field-bottom-radius": {
+        "pressed": {
+          "standard": {
+            "value": "0",
+            "type": "borderRadius",
+            "description": "0px"
+          }
+        }
+      }
+    },
+    "search-bar": {
+      "item-spacing": {
         "standard": {
-          "value": "0",
+          "value": "{core.space-size.sm}",
+          "type": "spacing",
+          "description": "12px"
+        }
+      },
+      "field-corner-radius": {
+        "standard": {
+          "value": ".5rem",
           "type": "borderRadius",
-          "description": "0px"
+          "description": "8px"
+        }
+      },
+      "field-bottom-radius": {
+        "pressed": {
+          "standard": {
+            "value": "0",
+            "type": "borderRadius",
+            "description": "0px"
+          }
         }
       }
     }
