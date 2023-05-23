@@ -575,7 +575,7 @@
           },
           "on-secondarySurface": {
             "hover": {
-              "value": "{all.interaction-cues.on-secondarySurface.lower-contrast}",
+              "value": "{all.interaction-cues.on-secondarySurface.lowest-contrast}",
               "type": "color",
               "description": "edge 70"
             },
@@ -587,7 +587,7 @@
             "pressed": {
               "value": "{all.interaction-cues.on-secondarySurface.lowest-contrast}",
               "type": "color",
-              "description": "edge 90"
+              "description": "edge 70"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-secondarySurface.disabled.fills}",
@@ -1005,10 +1005,19 @@
         }
       },
       "outline-color": {
-        "focus": {
-          "value": "{comp.inline-link.label-color.on-primarySurface.focus}",
-          "type": "color",
-          "description": "Mirros label focus state"
+        "on-primarySurface": {
+          "focus": {
+            "value": "{comp.inline-link.label-color.on-primarySurface.focus}",
+            "type": "color",
+            "description": "Mirros label focus state"
+          }
+        },
+        "on-secondarySurface": {
+          "focus": {
+            "value": "{comp.inline-link.label-color.on-secondarySurface.focus}",
+            "type": "color",
+            "description": "Mirros label focus state"
+          }
         }
       },
       "icon-size": {
