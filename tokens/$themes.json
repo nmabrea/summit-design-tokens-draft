@@ -1,25 +1,13 @@
 [
   {
-    "id": "8681a41733194ffd6c34107cd16b654cd831a6a6",
-    "name": "Summit - Main (Blue)",
+    "id": "7521a8ca4440a43f8f7a7240ad8f27aa72a18a5c",
+    "name": "Summit - Main (Purple)",
     "selectedTokenSets": {
       "00 raw": "source",
       "01 core": "source",
       "dot-com/02_00 semantic foundation": "enabled",
       "dot-com/03 component": "enabled",
-      "dot-com/02_01 semantic color-with-blue": "enabled"
-    },
-    "$figmaStyleReferences": {}
-  },
-  {
-    "id": "7521a8ca4440a43f8f7a7240ad8f27aa72a18a5c",
-    "name": "Summit - Main",
-    "selectedTokenSets": {
-      "00 raw": "source",
-      "01 core": "source",
-      "dot-com/02_00 semantic foundation": "enabled",
-      "dot-com/02_01 semantic color-original": "enabled",
-      "dot-com/03 component": "enabled"
+      "dot-com/02_01 semantic color-original-purple": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button.solid-cta.fill-color.on-primarySurface.default": "S:7728ce5eed442c29a54c5f6934fa5b126a7c8d6e,",
@@ -303,5 +291,17 @@
       "comp.dropdown-menu.shadow.on-primarySurface.standard": "S:72d3be091ea8ca242487b486740701de263accb6,",
       "comp.inline-link.outline-color.on-primarySurface.focus": "S:b090d3a9ba694f76ca86c028fd9996a4091d2377,"
     }
+  },
+  {
+    "id": "8681a41733194ffd6c34107cd16b654cd831a6a6",
+    "name": "Summit - Main",
+    "selectedTokenSets": {
+      "00 raw": "source",
+      "01 core": "source",
+      "dot-com/02_00 semantic foundation": "enabled",
+      "dot-com/03 component": "enabled",
+      "dot-com/02_01 semantic color-main": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
