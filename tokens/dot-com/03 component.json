@@ -1738,7 +1738,11 @@
       },
       "field-corner-radius": {
         "standard": {
-          "value": ".5rem",
+          "value": "{all.input-fields.corner-radius.pill}",
+          "type": "borderRadius"
+        },
+        "tiny": {
+          "value": "{all.input-fields.corner-radius.round}",
           "type": "borderRadius",
           "description": "8px"
         }
