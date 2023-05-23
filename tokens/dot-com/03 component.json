@@ -1510,12 +1510,12 @@
       "fill-color": {
         "on-primarySurface": {
           "default": {
-            "value": "{all.surfaces.primary}",
+            "value": "{comp.dropdown-menu.fill-color.on-primarySurface.standard}",
             "type": "color",
             "description": "Should take in context of background color"
           },
           "hover": {
-            "value": "{all.surfaces.primary}",
+            "value": "{comp.dropdown-menu.fill-color.on-primarySurface.standard}",
             "type": "color",
             "description": "Should take in context of background color"
           },
@@ -1532,12 +1532,12 @@
         },
         "on-secondarySurface": {
           "default": {
-            "value": "{core.ornamental.color.cloud.80}",
+            "value": "{comp.dropdown-menu.fill-color.on-secondarySurface.standard}",
             "type": "color",
             "description": "Should take in context of background color"
           },
           "hover": {
-            "value": "{core.ornamental.color.cloud.80}",
+            "value": "{comp.dropdown-menu.fill-color.on-secondarySurface.standard}",
             "type": "color",
             "description": "Should take in context of background color"
           },
@@ -1680,17 +1680,40 @@
       "fill-color": {
         "on-primarySurface": {
           "standard": {
-            "value": "{all.surfaces.primary}",
+            "value": "{all.mats.on-primarySurface.invisible}",
             "type": "color",
             "description": "Should take in the background context"
           }
         },
         "on-secondarySurface": {
           "standard": {
-            "value": "{core.ornamental.color.cloud.80}",
+            "value": "{all.mats.on-secondarySurface.visible.basic.lowest-contrast}",
             "type": "color",
             "description": "cloud 80"
           }
+        }
+      }
+    },
+    "language-selector": {
+      "item-spacing": {
+        "standard": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing",
+          "description": "12px"
+        }
+      },
+      "field-top-radius": {
+        "standard": {
+          "value": ".5rem",
+          "type": "borderRadius",
+          "description": "8px"
+        }
+      },
+      "field-bottom-radius": {
+        "standard": {
+          "value": "0",
+          "type": "borderRadius",
+          "description": "0px"
         }
       }
     }

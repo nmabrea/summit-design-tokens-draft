@@ -291,9 +291,9 @@
               "description": "core.ornamental.color.cloud.60"
             },
             "lowest-contrast": {
-              "value": "{core.ornamental.color.cloud.80}",
+              "value": "{core.ornamental.color.cloud.70}",
               "type": "color",
-              "description": "core.ornamental.color.cloud.80"
+              "description": "core.ornamental.color.cloud.70"
             }
           },
           "trendy": {
