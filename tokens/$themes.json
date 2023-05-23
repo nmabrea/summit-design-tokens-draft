@@ -7,7 +7,8 @@
       "01 core": "source",
       "dot-com/02_00 semantic foundation": "enabled",
       "dot-com/02_01 semantic color-original": "enabled",
-      "dot-com/03 component": "enabled"
+      "dot-com/03 component": "enabled",
+      "dot-com/02_01 semantic color-with-blue": "disabled"
     },
     "$figmaStyleReferences": {
       "comp.button.solid-cta.fill-color.on-primarySurface.default": "S:7728ce5eed442c29a54c5f6934fa5b126a7c8d6e,",
@@ -291,5 +292,17 @@
       "all.list-items.label-type.regular-underlined": "S:f973231150f51888166e7a5f0aa1e3b4256acf77,",
       "comp.dropdown-menu.shadow.on-primarySurface.standard": "S:72d3be091ea8ca242487b486740701de263accb6,"
     }
+  },
+  {
+    "id": "8681a41733194ffd6c34107cd16b654cd831a6a6",
+    "name": "Summit - Main (Blue)",
+    "selectedTokenSets": {
+      "00 raw": "source",
+      "01 core": "source",
+      "dot-com/02_00 semantic foundation": "enabled",
+      "dot-com/03 component": "enabled",
+      "dot-com/02_01 semantic color-with-blue": "enabled"
+    },
+    "$figmaStyleReferences": {}
   }
 ]
