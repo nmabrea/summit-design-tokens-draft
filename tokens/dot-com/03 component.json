@@ -1480,7 +1480,7 @@
         "standard": {
           "value": "{all.list-items.target-area-padding.regular}",
           "type": "spacing",
-          "description": "2px"
+          "description": "4px"
         }
       },
       "focus-area-padding": {
