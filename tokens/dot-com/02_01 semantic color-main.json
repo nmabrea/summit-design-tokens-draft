@@ -444,9 +444,9 @@
           "description": "core.ornamental.color.insight.80"
         },
         "platform": {
-          "value": "{core.ornamental.color.platform.60}",
+          "value": "{core.ornamental.color.platform.50}",
           "type": "color",
-          "description": "core.ornamental.color.platform.60"
+          "description": "core.ornamental.color.platform.50"
         }
       }
     },
