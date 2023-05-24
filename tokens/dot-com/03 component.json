@@ -770,7 +770,7 @@
             "hover": {
               "value": "{all.interaction-cues.on-primarySurface.highest-contrast}",
               "type": "color",
-              "description": "future 80"
+              "description": "Future 80"
             },
             "focus": {
               "value": "{comp.button.text-cta.label-color.on-primarySurface.hover}",
@@ -780,12 +780,37 @@
             "pressed": {
               "value": "{all.interaction-cues.on-primarySurface.high-contrast}",
               "type": "color",
-              "description": "future 60"
+              "description": "future"
             },
             "disabled": {
               "value": "{all.interaction-cues.on-primarySurface.disabled.overlays}",
               "type": "color",
-              "description": "cloud 80"
+              "description": "cloud 70"
+            }
+          },
+          "on-secondarySurface": {
+            "default": {
+              "value": "{all.interaction-cues.on-secondarySurface.complete-contrast}",
+              "type": "color",
+              "description": "cloud 10"
+            },
+            "hover": {
+              "value": "{all.interaction-cues.on-secondarySurface.highest-contrast}",
+              "type": "color"
+            },
+            "focus": {
+              "value": "{comp.button.text-cta.label-color.on-secondarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors the hover state"
+            },
+            "pressed": {
+              "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+              "type": "color"
+            },
+            "disabled": {
+              "value": "{all.interaction-cues.on-secondarySurface.disabled.overlays}",
+              "type": "color",
+              "description": "cloud 20"
             }
           }
         },
@@ -793,6 +818,13 @@
           "on-primarySurface": {
             "standard": {
               "value": "{comp.button.outline-cta.outline-color.on-primarySurface.focus}",
+              "type": "color",
+              "description": "Mirrors outline color"
+            }
+          },
+          "on-secondarySurface": {
+            "standard": {
+              "value": "{comp.button.outline-cta.outline-color.on-secondarySurface.focus}",
               "type": "color",
               "description": "Mirrors outline color"
             }
@@ -823,6 +855,12 @@
               "value": "{all.interaction-cues.on-primarySurface.disabled.fills}",
               "type": "color"
             }
+          },
+          "on-secondarySurface": {
+            "disabled": {
+              "value": "{all.interaction-cues.on-secondarySurface.disabled.fills}",
+              "type": "color"
+            }
           }
         },
         "bottom-border-color": {
@@ -839,6 +877,23 @@
             },
             "pressed": {
               "value": "{comp.button.text-cta.label-color.on-primarySurface.pressed}",
+              "type": "color",
+              "description": "Mirrors the text state"
+            }
+          },
+          "on-secondarySurface": {
+            "focus": {
+              "value": "{comp.button.text-cta.bottom-border-color.on-secondarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors hover state"
+            },
+            "hover": {
+              "value": "{comp.button.text-cta.label-color.on-secondarySurface.hover}",
+              "type": "color",
+              "description": "Mirrors the text state"
+            },
+            "pressed": {
+              "value": "{comp.button.text-cta.label-color.on-secondarySurface.pressed}",
               "type": "color",
               "description": "Mirrors the text state"
             }
