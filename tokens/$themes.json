@@ -6,8 +6,7 @@
       "00 raw": "source",
       "01 core": "source",
       "dot-com/02_00 semantic foundation": "enabled",
-      "dot-com/03 component": "enabled",
-      "dot-com/02_01 semantic color-original-purple": "enabled"
+      "dot-com/03 component": "enabled"
     },
     "$figmaStyleReferences": {
       "comp.button.solid-cta.fill-color.on-primarySurface.default": "S:7728ce5eed442c29a54c5f6934fa5b126a7c8d6e,",
@@ -298,8 +297,7 @@
       "00 raw": "source",
       "01 core": "source",
       "dot-com/02_00 semantic foundation": "enabled",
-      "dot-com/03 component": "enabled",
-      "dot-com/02_01 semantic color-main": "enabled"
+      "dot-com/03 component": "enabled"
     },
     "$figmaStyleReferences": {
       "all.buttons.label-type.tiny": "S:38382b5e01f95e37c7f5fe20172f48dc793de01d,",
