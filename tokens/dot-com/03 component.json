@@ -937,9 +937,9 @@
             "description": "cloud 10"
           },
           "hover": {
-            "value": "{all.interaction-cues.on-secondarySurface.higher-contrast}",
+            "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
             "type": "color",
-            "description": "edge 20"
+            "description": "edge 30"
           },
           "focus": {
             "value": "{comp.inline-link.label-color.on-secondarySurface.hover}",
@@ -947,9 +947,9 @@
             "description": "Mirrors hover state"
           },
           "pressed": {
-            "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+            "value": "{all.interaction-cues.on-secondarySurface.low-contrast}",
             "type": "color",
-            "description": "edge 30"
+            "description": "edge 50"
           },
           "disabled": {
             "value": "{all.interaction-cues.on-secondarySurface.disabled.overlays}",
@@ -1048,9 +1048,9 @@
             "description": "Mirrors text color"
           },
           "pressed": {
-            "value": "{all.surfaces.secondary}",
+            "value": "{comp.inline-link.label-color.on-secondarySurface.focus}",
             "type": "color",
-            "description": "Should take in the background color; basically invisible"
+            "description": "Mirrors the text color"
           },
           "disabled": {
             "value": "{all.surfaces.secondary}",
