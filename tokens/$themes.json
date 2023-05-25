@@ -290,7 +290,17 @@
       "comp.lead-gen-field.shadow-interaction.on-secondarySurface.error.pressed": "S:685481e01a41005c5fe9a82324bcc7a3edc2e934,",
       "comp.dropdown-menu.shadow.on-primarySurface.standard": "S:72d3be091ea8ca242487b486740701de263accb6,",
       "comp.inline-link.outline-color.on-primarySurface.focus": "S:62a768c9f852096e856c2553b03fa6d09f6f4e16,",
-      "comp.inline-link.outline-color.on-secondarySurface.focus": "S:f293596c4ae8245699d7af572cc291c36f897821,"
+      "comp.inline-link.outline-color.on-secondarySurface.focus": "S:f293596c4ae8245699d7af572cc291c36f897821,",
+      "comp.button.text-cta.label-color.on-secondarySurface.default": "S:c7dcf0a0baa1a54043128d4a77db7039ab884699,",
+      "comp.button.text-cta.label-color.on-secondarySurface.hover": "S:df0448ff7197120f97da487e6b563ebf3f9e2388,",
+      "comp.button.text-cta.label-color.on-secondarySurface.focus": "S:b005f4044a44ddb8fb1c1d4076a33988ff29be76,",
+      "comp.button.text-cta.label-color.on-secondarySurface.pressed": "S:ce6ae96dddde73559a92b4ec280a20c9e98fbd6d,",
+      "comp.button.text-cta.label-color.on-secondarySurface.disabled": "S:609cc0ed8e8498e6e5e72a76bcfdb3ce084df764,",
+      "comp.button.text-cta.focus-outline-color.on-secondarySurface.standard": "S:2f2d98a4a2b9ad5329d2f4a1ca939edf9babad90,",
+      "comp.button.text-cta.fill-color.on-secondarySurface.disabled": "S:6cd66f27dd2f45117f697594f881256ff23bd6c8,",
+      "comp.button.text-cta.bottom-border-color.on-secondarySurface.focus": "S:c84f2fcf09b2d7daa0ce0de40092a9028ad965d2,",
+      "comp.button.text-cta.bottom-border-color.on-secondarySurface.hover": "S:79a93de91dbefd3744a462340fdd64a22e7bb5b2,",
+      "comp.button.text-cta.bottom-border-color.on-secondarySurface.pressed": "S:3b4b1ca4442c5a8f7beb94fdcae411ca06aac0bf,"
     }
   }
 ]
