@@ -1048,7 +1048,7 @@
             "description": "Mirrors text color"
           },
           "pressed": {
-            "value": "{comp.inline-link.label-color.on-secondarySurface.focus}",
+            "value": "{comp.inline-link.label-color.on-secondarySurface.pressed}",
             "type": "color",
             "description": "Mirrors the text color"
           },
