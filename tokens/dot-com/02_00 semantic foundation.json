@@ -430,6 +430,38 @@
           "type": "sizing"
         }
       }
+    },
+    "site-catalogs": {
+      "item-spacing": {
+        "regular": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      }
+    },
+    "action-catalogs": {
+      "item-spacing": {
+        "regular": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing",
+          "description": "8px"
+        }
+      }
+    },
+    "directory-headers": {
+      "padding": {
+        "regular": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing",
+          "description": "12px"
+        },
+        "jumbo": {
+          "value": "{core.space-size.2xl}",
+          "type": "spacing",
+          "description": "40px"
+        }
+      }
     }
   }
 }
