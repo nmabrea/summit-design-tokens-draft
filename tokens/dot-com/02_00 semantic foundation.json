@@ -604,6 +604,94 @@
           }
         }
       }
+    },
+    "directory-dropdowns": {
+      "item-spacing": {
+        "regular": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "padding": {
+        "regular": {
+          "value": "{core.space-size.md}",
+          "type": "spacing",
+          "description": "16px"
+        },
+        "jumbo": {
+          "value": "{core.space-size.2xl}",
+          "type": "spacing",
+          "description": "40px"
+        }
+      },
+      "shadow-spread-size": {
+        "tiny": {
+          "value": "2",
+          "type": "sizing",
+          "description": "2px"
+        },
+        "regular": {
+          "value": "8",
+          "type": "sizing",
+          "description": "8px"
+        },
+        "jumbo": {
+          "value": "12",
+          "type": "sizing",
+          "description": "12px"
+        }
+      },
+      "shadow-x-y-outset": {
+        "tiny": {
+          "value": "4",
+          "type": "sizing",
+          "description": "4px"
+        },
+        "regular": {
+          "value": "8",
+          "type": "sizing",
+          "description": "8px"
+        }
+      },
+      "shadow-blur": {
+        "tiny": {
+          "value": "2",
+          "type": "sizing",
+          "description": "2px"
+        },
+        "regular": {
+          "value": "8",
+          "type": "sizing",
+          "description": "8px"
+        },
+        "jumbo": {
+          "value": "12",
+          "type": "sizing",
+          "description": "12px"
+        }
+      },
+      "shadow-opacity": {
+        "more-soft": {
+          "value": "8%",
+          "type": "sizing"
+        },
+        "soft": {
+          "value": "12%",
+          "type": "sizing"
+        },
+        "less-soft": {
+          "value": "15%",
+          "type": "sizing"
+        }
+      },
+      "border-radius": {
+        "regular": {
+          "value": "1.5rem",
+          "type": "borderWidth",
+          "description": "24px"
+        }
+      }
     }
   }
 }
