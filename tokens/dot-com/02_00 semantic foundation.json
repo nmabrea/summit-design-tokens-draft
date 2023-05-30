@@ -305,7 +305,7 @@
       }
     },
     "menus": {
-      "container-padding": {
+      "padding": {
         "tiny": {
           "value": "{core.space-size.xs}",
           "type": "spacing",
@@ -460,6 +460,148 @@
           "value": "{core.space-size.2xl}",
           "type": "spacing",
           "description": "40px"
+        }
+      }
+    },
+    "directory-units": {
+      "padding": {
+        "regular": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "description-type": {
+        "regular": {
+          "value": "{core.utility.type.desktop.text.xs.default}",
+          "type": "typography"
+        },
+        "regular-underlined": {
+          "value": "{core.utility.type.desktop.text.xs.underline}",
+          "type": "typography"
+        }
+      }
+    },
+    "directory-columns": {
+      "icon-size": {
+        "regular": {
+          "value": "2.5rem",
+          "type": "dimension",
+          "description": "40px"
+        }
+      },
+      "item-spacing": {
+        "regular": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        }
+      },
+      "padding": {
+        "regular": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing",
+          "description": "8px"
+        },
+        "jumbo": {
+          "value": "{core.space-size.3xl}",
+          "type": "spacing",
+          "description": "48px"
+        }
+      },
+      "title-type": {
+        "regular": {
+          "value": "{core.utility.type.desktop.display.md}",
+          "type": "typography"
+        }
+      },
+      "description-type": {
+        "regular": {
+          "value": "{core.utility.type.desktop.text.xs.default}",
+          "type": "typography"
+        },
+        "regular-underlined": {
+          "value": "{core.utility.type.desktop.text.xs.underline}",
+          "type": "typography"
+        }
+      }
+    },
+    "directory-catalogs": {
+      "item-spacing": {
+        "regular": {
+          "value": "{core.space-size.2xl}",
+          "type": "spacing",
+          "description": "40px"
+        }
+      },
+      "padding": {
+        "regular": {
+          "value": "{core.space-size.4xl}",
+          "type": "spacing",
+          "description": "64px"
+        }
+      }
+    },
+    "directory-spotlights": {
+      "padding": {
+        "smallest": {
+          "value": "{core.space-size.3xs}",
+          "type": "spacing",
+          "description": "2px"
+        },
+        "smaller": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        },
+        "small": {
+          "value": "{core.space-size.sm}",
+          "type": "spacing",
+          "description": "12px"
+        },
+        "large": {
+          "value": "{core.space-size.6xl}",
+          "type": "spacing",
+          "description": "96px"
+        },
+        "largest": {
+          "value": "{core.space-size.8xl}",
+          "type": "spacing",
+          "description": "128px"
+        }
+      },
+      "item-spacing": {
+        "smallest": {
+          "value": "{core.space-size.2xs}",
+          "type": "spacing",
+          "description": "4px"
+        },
+        "largest": {
+          "value": "{core.space-size.8xl}",
+          "type": "spacing",
+          "description": "128px"
+        }
+      },
+      "pictogram-size": {
+        "regular": {
+          "value": "6rem",
+          "type": "dimension"
+        }
+      },
+      "image-size": {
+        "width": {
+          "regular": {
+            "value": "304px",
+            "type": "dimension",
+            "description": "2:1 ratio"
+          }
+        },
+        "height": {
+          "regular": {
+            "value": "{all.directory-spotlights.image-size.width.regular} / 2",
+            "type": "dimension",
+            "description": "2:1 aspect ratio; driven by desired width."
+          }
         }
       }
     }

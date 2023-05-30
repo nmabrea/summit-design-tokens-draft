@@ -1651,12 +1651,12 @@
     "dropdown-menu": {
       "container-padding": {
         "minimum": {
-          "value": "{all.menus.container-padding.tiny}",
+          "value": "{all.menus.padding.tiny}",
           "type": "spacing",
           "description": "8px"
         },
         "standard": {
-          "value": "{all.menus.container-padding.regular}",
+          "value": "{all.menus.padding.regular}",
           "type": "spacing",
           "description": "12px"
         }
