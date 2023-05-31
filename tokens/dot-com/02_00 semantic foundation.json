@@ -466,6 +466,11 @@
     "directory-units": {
       "padding": {
         "regular": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing",
+          "description": "8px"
+        },
+        "tiny": {
           "value": "{core.space-size.2xs}",
           "type": "spacing",
           "description": "4px"
@@ -491,6 +496,11 @@
         }
       },
       "item-spacing": {
+        "tiny": {
+          "value": "{core.space-size.3xs}",
+          "type": "spacing",
+          "description": "2px"
+        },
         "regular": {
           "value": "{core.space-size.2xs}",
           "type": "spacing",
@@ -498,7 +508,7 @@
         }
       },
       "padding": {
-        "regular": {
+        "tiny": {
           "value": "{core.space-size.xs}",
           "type": "spacing",
           "description": "8px"
@@ -507,6 +517,11 @@
           "value": "{core.space-size.3xl}",
           "type": "spacing",
           "description": "48px"
+        },
+        "regular": {
+          "value": "{core.space-size.2xl}",
+          "type": "spacing",
+          "description": "40px"
         }
       },
       "title-type": {
