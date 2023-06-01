@@ -136,6 +136,11 @@
           "value": "{core.space-size.sm}",
           "type": "spacing",
           "description": "12px"
+        },
+        "auto": {
+          "value": "Auto",
+          "type": "spacing",
+          "description": "All elements spread out within container"
         }
       },
       "target-area-padding": {
