@@ -1811,6 +1811,28 @@
           }
         }
       }
+    },
+    "global-navigation": {
+      "header-fill-color": {
+        "standard": {
+          "value": "{all.surfaces.secondary}",
+          "type": "color"
+        }
+      },
+      "dropdown-fill-color": {
+        "standard": {
+          "value": "{comp.global-navigation.header-fill-color.standard}",
+          "type": "color",
+          "description": "Same as paired header"
+        }
+      },
+      "dropdown-top-border-color": {
+        "standard": {
+          "value": "{all.interaction-cues.on-secondarySurface.high-contrast}",
+          "type": "color",
+          "description": "edge 30"
+        }
+      }
     }
   }
 }
