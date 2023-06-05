@@ -2022,7 +2022,7 @@
         "description": "32px"
       },
       "xl": {
-        "value": "2.5",
+        "value": "2.5rem",
         "type": "sizing",
         "description": "40px"
       }
