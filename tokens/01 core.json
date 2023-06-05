@@ -1999,6 +1999,33 @@
           }
         }
       }
+    },
+    "icon-size": {
+      "xs": {
+        "value": ".75rem",
+        "type": "sizing",
+        "description": "12px"
+      },
+      "sm": {
+        "value": "1rem",
+        "type": "sizing",
+        "description": "16px"
+      },
+      "md": {
+        "value": "1.5rem",
+        "type": "sizing",
+        "description": "24px"
+      },
+      "lg": {
+        "value": "2rem",
+        "type": "sizing",
+        "description": "32px"
+      },
+      "xl": {
+        "value": "2.5",
+        "type": "sizing",
+        "description": "40px"
+      }
     }
   }
 }
