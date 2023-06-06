@@ -505,6 +505,11 @@
           "value": "{core.space-size.2xs}",
           "type": "spacing",
           "description": "4px"
+        },
+        "jumbo": {
+          "value": "{core.space-size.xs}",
+          "type": "spacing",
+          "description": "8px"
         }
       },
       "padding": {
@@ -547,6 +552,11 @@
           "value": "{core.space-size.2xl}",
           "type": "spacing",
           "description": "40px"
+        },
+        "tiny": {
+          "value": "{core.space-size.lg}",
+          "type": "spacing",
+          "description": "24px"
         }
       },
       "padding": {
@@ -554,6 +564,11 @@
           "value": "{core.space-size.4xl}",
           "type": "spacing",
           "description": "64px"
+        },
+        "tiny": {
+          "value": "{core.space-size.3xl}",
+          "type": "spacing",
+          "description": "48px"
         }
       }
     },
