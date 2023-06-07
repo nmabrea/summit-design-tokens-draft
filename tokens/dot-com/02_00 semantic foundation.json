@@ -23,17 +23,17 @@
       },
       "label-type": {
         "tiny": {
-          "value": "{core.utility.type.desktop.text.sm.medium}",
+          "value": "{core.utility-type.desktop.text.sm.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.sm.medium"
         },
         "regular": {
-          "value": "{core.utility.type.desktop.text.md.medium}",
+          "value": "{core.utility-type.desktop.text.md.medium}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.md.medium"
         },
         "jumbo": {
-          "value": "{core.ornamental.type.desktop.display.2xl}",
+          "value": "{core.ornamental-type.desktop.display.2xl}",
           "type": "typography",
           "description": "Should scale responsively to smaller screen resolutions\n\ncore.ornamental-type.desktop.display.2xl"
         }
@@ -107,12 +107,12 @@
     "links": {
       "label-type": {
         "important": {
-          "value": "{core.utility.type.desktop.text.xs.bold}",
+          "value": "{core.utility-type.desktop.text.xs.bold}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.xs.bold"
         },
         "common": {
-          "value": "{core.utility.type.desktop.text.xs.default}",
+          "value": "{core.utility-type.desktop.text.xs.default}",
           "type": "typography",
           "description": "core.basic-type.desktop.text.xs.default"
         }
@@ -156,17 +156,17 @@
     "input-fields": {
       "field-label-type": {
         "regular": {
-          "value": "{core.utility.type.desktop.text.xs.medium}",
+          "value": "{core.utility-type.desktop.text.xs.medium}",
           "type": "typography"
         }
       },
       "input-text-type": {
         "regular": {
-          "value": "{core.utility.type.desktop.text.sm.default}",
+          "value": "{core.utility-type.desktop.text.sm.default}",
           "type": "typography"
         },
         "tiny": {
-          "value": "{core.utility.type.desktop.text.xs.medium}",
+          "value": "{core.utility-type.desktop.text.xs.medium}",
           "type": "typography"
         }
       },
@@ -203,7 +203,7 @@
       },
       "message-type": {
         "regular": {
-          "value": "{core.utility.type.desktop.text.xs.medium}",
+          "value": "{core.utility-type.desktop.text.xs.medium}",
           "type": "typography"
         }
       },
@@ -281,11 +281,11 @@
       },
       "label-type": {
         "regular": {
-          "value": "{core.utility.type.desktop.text.xs.default}",
+          "value": "{core.utility-type.desktop.text.xs.default}",
           "type": "typography"
         },
         "regular-underlined": {
-          "value": "{core.utility.type.desktop.text.xs.underline}",
+          "value": "{core.utility-type.desktop.text.xs.underline}",
           "type": "typography"
         }
       },
@@ -478,11 +478,11 @@
       },
       "description-type": {
         "regular": {
-          "value": "{core.utility.type.desktop.text.xs.default}",
+          "value": "{core.utility-type.desktop.text.xs.default}",
           "type": "typography"
         },
         "regular-underlined": {
-          "value": "{core.utility.type.desktop.text.xs.underline}",
+          "value": "{core.utility-type.desktop.text.xs.underline}",
           "type": "typography"
         }
       }
@@ -531,17 +531,17 @@
       },
       "title-type": {
         "regular": {
-          "value": "{core.utility.type.desktop.display.md}",
+          "value": "{core.utility-type.desktop.display.md}",
           "type": "typography"
         }
       },
       "description-type": {
         "regular": {
-          "value": "{core.utility.type.desktop.text.xs.default}",
+          "value": "{core.utility-type.desktop.text.xs.default}",
           "type": "typography"
         },
         "regular-underlined": {
-          "value": "{core.utility.type.desktop.text.xs.underline}",
+          "value": "{core.utility-type.desktop.text.xs.underline}",
           "type": "typography"
         }
       }
