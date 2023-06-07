@@ -2,13 +2,6 @@
   {
     "id": "8681a41733194ffd6c34107cd16b654cd831a6a6",
     "name": "Summit - Main",
-    "selectedTokenSets": {
-      "00 raw": "source",
-      "01 core": "source",
-      "dot-com/02_00 semantic foundation": "enabled",
-      "dot-com/03 component": "enabled",
-      "dot-com/02_01 semantic color": "enabled"
-    },
     "$figmaStyleReferences": {
       "all.buttons.label-type.tiny": "S:38382b5e01f95e37c7f5fe20172f48dc793de01d,",
       "all.buttons.label-type.regular": "S:88d748435247f858c06a26fc07d838d81a7e42ae,",
@@ -301,6 +294,13 @@
       "comp.button.text-cta.bottom-border-color.on-secondarySurface.focus": "S:c84f2fcf09b2d7daa0ce0de40092a9028ad965d2,",
       "comp.button.text-cta.bottom-border-color.on-secondarySurface.hover": "S:79a93de91dbefd3744a462340fdd64a22e7bb5b2,",
       "comp.button.text-cta.bottom-border-color.on-secondarySurface.pressed": "S:3b4b1ca4442c5a8f7beb94fdcae411ca06aac0bf,"
+    },
+    "selectedTokenSets": {
+      "00 raw": "source",
+      "01 core": "enabled",
+      "dot-com/02_00 semantic foundation": "enabled",
+      "dot-com/03 component": "enabled",
+      "dot-com/02_01 semantic color": "enabled"
     }
   }
 ]
