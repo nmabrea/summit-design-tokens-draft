@@ -1120,7 +1120,7 @@
                   "fontFamily": "{type-style.basic}",
                   "fontWeight": "{type-weight.text.medium}",
                   "lineHeight": "{line-height.sm}",
-                  "fontSize": "{font-size.lg}",
+                  "fontSize": "{font-size.xl}",
                   "textDecoration": "{text-deco.none}"
                 },
                 "type": "typography",
@@ -1131,7 +1131,7 @@
                   "fontFamily": "{type-style.basic}",
                   "fontWeight": "{type-weight.text.medium}",
                   "lineHeight": "{line-height.sm}",
-                  "fontSize": "{font-size.lg}",
+                  "fontSize": "{font-size.xl}",
                   "textDecoration": "{text-deco.underline}"
                 },
                 "type": "typography",
