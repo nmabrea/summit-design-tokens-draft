@@ -532,7 +532,7 @@
     },
     "selectedTokenSets": {
       "00 raw": "source",
-      "01 core": "enabled",
+      "01 core": "source",
       "dot-com/02_00 semantic foundation": "enabled",
       "dot-com/03 component": "enabled",
       "dot-com/02_01 semantic color": "enabled"
