@@ -233,14 +233,14 @@
         "visible": {
           "basic": {
             "lowest-contrast": {
+              "value": "{core.ornamental-color.cloud.10}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.10"
+            },
+            "low-contrast": {
               "value": "{core.ornamental-color.cloud.20}",
               "type": "color",
               "description": "core.ornamental.color.cloud.20"
-            },
-            "low-contrast": {
-              "value": "{core.ornamental-color.cloud.30}",
-              "type": "color",
-              "description": "core.ornamental.color.cloud.30"
             }
           },
           "trendy": {
@@ -286,14 +286,14 @@
         "visible": {
           "basic": {
             "low-contrast": {
-              "value": "{core.ornamental-color.cloud.60}",
-              "type": "color",
-              "description": "core.ornamental.color.cloud.60"
-            },
-            "lowest-contrast": {
               "value": "{core.ornamental-color.cloud.70}",
               "type": "color",
               "description": "core.ornamental.color.cloud.70"
+            },
+            "lowest-contrast": {
+              "value": "{core.ornamental-color.cloud.80}",
+              "type": "color",
+              "description": "core.ornamental.color.cloud.80"
             }
           },
           "trendy": {
