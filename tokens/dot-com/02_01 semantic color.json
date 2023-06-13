@@ -419,24 +419,24 @@
       },
       "quaternary": {
         "cloud": {
-          "value": "{core.ornamental-color.cloud.30}",
+          "value": "{core.ornamental-color.cloud.20}",
           "type": "color",
-          "description": "core.ornamental-color.cloud.30"
+          "description": "core.ornamental-color.cloud.20"
         },
         "data": {
-          "value": "{core.ornamental-color.data.50}",
+          "value": "{core.ornamental-color.data.30}",
           "type": "color",
-          "description": "core.ornamental.color.data.50"
+          "description": "core.ornamental.color.data.30"
         },
         "edge": {
           "value": "{core.ornamental-color.edge.30}",
           "type": "color",
-          "description": "core.ornamental.color.edge.30"
+          "description": "core.ornamental.color.edge.40"
         },
         "future": {
-          "value": "{core.ornamental-color.future.60}",
+          "value": "{core.ornamental-color.future.70}",
           "type": "color",
-          "description": "core.ornamental.color.future.60"
+          "description": "core.ornamental.color.future.70"
         },
         "insight": {
           "value": "{core.ornamental-color.insight.80}",
@@ -444,9 +444,9 @@
           "description": "core.ornamental.color.insight.80"
         },
         "platform": {
-          "value": "{core.ornamental-color.platform.50}",
+          "value": "{core.ornamental-color.platform.60}",
           "type": "color",
-          "description": "core.ornamental.color.platform.50"
+          "description": "core.ornamental.color.platform.60"
         }
       }
     },
