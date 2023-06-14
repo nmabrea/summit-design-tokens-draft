@@ -7,7 +7,7 @@
           "type": "spacing"
         },
         "regular": {
-          "value": "{core.space-size.sm}",
+          "value": "{core.space-size.xs}",
           "type": "spacing"
         },
         "tiny": {
@@ -17,7 +17,7 @@
       },
       "item-spacing": {
         "regular": {
-          "value": "{core.space-size.sm}",
+          "value": "{core.space-size.xs}",
           "type": "spacing"
         }
       },
